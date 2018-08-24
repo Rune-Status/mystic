@@ -1,0 +1,119 @@
+---[7/10/18 02:21PM]	---
+Thug has given 300512 Coins to Raymond
+[7/10/18 02:41PM]	Sent Private-Message to User: intro and said 'added '	
+[7/10/18 03:02PM]	Dropped Item (Id: Item [id=442, amount=1], Amount: 0) at Position: 3097, 3504, 0	
+[7/10/18 03:10PM]	Dropped Item (Id: Item [id=442, amount=1], Amount: 1) at Position: 3097, 3504, 0	
+---[7/10/18 03:29PM]	---
+Thug has given 2700976 Coins to Raymond
+[7/10/18 03:31PM]	Dropped Item (Id: Item [id=2007, amount=1], Amount: 1) at Position: 3099, 3504, 0	
+[7/10/18 04:25PM]	Sold Item to shop (Id: 1623, Amount: 3)	
+[7/10/18 04:25PM]	Sold Item to shop (Id: 1619, Amount: 2)	
+[7/10/18 04:25PM]	Sold Item to shop (Id: 1617, Amount: 1)	
+[7/10/18 10:47PM]	Dropped Item (Id: Item [id=2007, amount=1], Amount: 1) at Position: 3099, 3504, 0	
+[7/10/18 10:47PM]	Dropped Item (Id: Item [id=2007, amount=1], Amount: 1) at Position: 3099, 3504, 0	
+[7/10/18 10:47PM]	Dropped Item (Id: Item [id=2007, amount=1], Amount: 1) at Position: 3099, 3504, 0	
+[7/10/18 10:47PM]	Dropped Item (Id: Item [id=2007, amount=1], Amount: 1) at Position: 3099, 3504, 0	
+[7/10/18 10:47PM]	Dropped Item (Id: Item [id=2007, amount=1], Amount: 1) at Position: 3099, 3504, 0	
+[7/10/18 10:48PM]	Dropped Item (Id: Item [id=2007, amount=1], Amount: 1) at Position: 3099, 3504, 0	
+[7/10/18 10:48PM]	Dropped Item (Id: Item [id=2007, amount=1], Amount: 1) at Position: 3099, 3504, 0	
+[7/10/18 10:48PM]	Dropped Item (Id: Item [id=2007, amount=1], Amount: 0) at Position: 3099, 3504, 0	
+---[7/10/18 11:16PM]	---
+Thug has given 4077516 Coins to Raymond
+[7/11/18 01:07AM]	Bought Item from shop (29) (Id: 1755, Amount: 1)	
+---[7/11/18 01:34AM]	---
+Thug has received 15 Uncut Dragonstone from Raymond
+Thug has received 4 Uncut Diamond from Raymond
+Thug has received 10 Uncut Ruby from Raymond
+[7/11/18 01:46AM]	Dropped Item (Id: Item [id=2007, amount=1], Amount: 1) at Position: 3099, 3504, 0	
+---[7/11/18 02:06AM]	---
+Thug has received 10 Uncut Ruby from Raymond
+Thug has received 1 Uncut Dragonstone from Raymond
+---[7/11/18 02:14AM]	---
+Thug has given 2026589 Coins to Raymond
+[7/11/18 10:44AM]	Dropped Item (Id: Item [id=2007, amount=1], Amount: 1) at Position: 3099, 3504, 0	
+[7/11/18 11:12AM]	Dropped Item (Id: Item [id=2007, amount=1], Amount: 1) at Position: 3099, 3504, 0	
+[7/11/18 11:59AM]	Dropped Item (Id: Item [id=2007, amount=1], Amount: 1) at Position: 3099, 3504, 0	
+[7/11/18 12:18PM]	Bought Item from shop (19) (Id: 9777, Amount: 1)	
+[7/11/18 12:18PM]	Bought Item from shop (19) (Id: 9779, Amount: 1)	
+[7/11/18 07:50PM]	Bought Item from shop (22) (Id: 1595, Amount: 10)	
+[7/11/18 07:50PM]	Bought Item from shop (22) (Id: 1595, Amount: 7)	
+[7/11/18 08:10PM]	Bought Item from shop (29) (Id: 946, Amount: 1)	
+[7/11/18 08:10PM]	Bought Item from shop (29) (Id: 1359, Amount: 1)	
+[7/11/18 08:10PM]	Bought Item from shop (29) (Id: 1351, Amount: 1)	
+[7/11/18 08:12PM]	Dropped Item (Id: Item [id=50, amount=1], Amount: 1) at Position: 3106, 3531, 0	
+[7/11/18 08:12PM]	Dropped Item (Id: Item [id=54, amount=1], Amount: 1) at Position: 3106, 3527, 0	
+[7/11/18 08:12PM]	Dropped Item (Id: Item [id=54, amount=1], Amount: 1) at Position: 3106, 3525, 0	
+[7/11/18 08:12PM]	Dropped Item (Id: Item [id=48, amount=1], Amount: 1) at Position: 3106, 3525, 0	
+[7/11/18 08:12PM]	Dropped Item (Id: Item [id=48, amount=1], Amount: 1) at Position: 3106, 3521, 0	
+[7/11/18 08:12PM]	Dropped Item (Id: Item [id=50, amount=1], Amount: 1) at Position: 3105, 3515, 0	
+[7/11/18 08:12PM]	Dropped Item (Id: Item [id=54, amount=1], Amount: 1) at Position: 3105, 3513, 0	
+[7/11/18 08:12PM]	Dropped Item (Id: Item [id=48, amount=1], Amount: 1) at Position: 3105, 3511, 0	
+[7/11/18 08:12PM]	Dropped Item (Id: Item [id=48, amount=1], Amount: 1) at Position: 3104, 3509, 0	
+[7/11/18 08:12PM]	Dropped Item (Id: Item [id=48, amount=1], Amount: 1) at Position: 3103, 3508, 0	
+[7/11/18 08:12PM]	Dropped Item (Id: Item [id=50, amount=1], Amount: 1) at Position: 3103, 3508, 0	
+[7/11/18 08:12PM]	Dropped Item (Id: Item [id=48, amount=1], Amount: 1) at Position: 3103, 3504, 0	
+[7/11/18 08:12PM]	Dropped Item (Id: Item [id=48, amount=1], Amount: 1) at Position: 3103, 3504, 0	
+[7/11/18 08:14PM]	Dropped Item (Id: Item [id=54, amount=1], Amount: 0) at Position: 3114, 3522, 0	
+[7/11/18 08:14PM]	Dropped Item (Id: Item [id=56, amount=1], Amount: 0) at Position: 3114, 3520, 0	
+[7/11/18 08:14PM]	Dropped Item (Id: Item [id=56, amount=1], Amount: 0) at Position: 3114, 3518, 0	
+[7/11/18 08:14PM]	Dropped Item (Id: Item [id=56, amount=1], Amount: 0) at Position: 3114, 3516, 0	
+[7/11/18 08:14PM]	Dropped Item (Id: Item [id=56, amount=1], Amount: 0) at Position: 3114, 3514, 0	
+[7/11/18 08:14PM]	Dropped Item (Id: Item [id=56, amount=1], Amount: 0) at Position: 3114, 3512, 0	
+[7/11/18 08:14PM]	Dropped Item (Id: Item [id=56, amount=1], Amount: 0) at Position: 3113, 3511, 0	
+[7/11/18 08:14PM]	Dropped Item (Id: Item [id=56, amount=1], Amount: 0) at Position: 3113, 3511, 0	
+[7/11/18 08:14PM]	Dropped Item (Id: Item [id=56, amount=1], Amount: 0) at Position: 3116, 3507, 0	
+[7/11/18 08:15PM]	Dropped Item (Id: Item [id=1519, amount=1], Amount: 0) at Position: 3104, 3503, 0	
+---[7/11/18 08:22PM]	---
+Thug has given 16413054 Coins to Raymond
+---[7/11/18 08:22PM]	---
+Thug has received 1 White Ele' Skirt from Raymond
+[7/11/18 08:31PM]	Sent Private-Message to User: plug and said 'what u up to mr mod man'	
+[7/11/18 08:31PM]	Sent Private-Message to User: plug and said ':d '	
+[7/11/18 08:31PM]	Recieved Private-Message from User: Plug which said 'just at dag kings, haha hby?'	
+[7/11/18 08:31PM]	Sent Private-Message to User: plug and said 'thieving'	
+[7/11/18 08:31PM]	Recieved Private-Message from User: Plug which said 'nice nice :p'	
+[7/11/18 08:31PM]	Sent Private-Message to User: plug and said 'i will come bother u'	
+[7/11/18 08:31PM]	Sent Private-Message to User: plug and said 'at dag kings '	
+[7/11/18 08:31PM]	Sent Private-Message to User: plug and said ':pp'	
+[7/11/18 08:32PM]	Recieved Private-Message from User: Plug which said 'the supreme is open right now:p turtle is here tooo'	
+[7/11/18 08:34PM]	Picked up an item (Id: Item [id=7946, amount=1], Amount: 1) at Position: 2921, 4445, 0	
+[7/11/18 08:35PM]	Picked up an item (Id: Item [id=6759, amount=1], Amount: 1) at Position: 2913, 4444, 0	
+[7/11/18 08:35PM]	Picked up an item (Id: Item [id=6759, amount=1], Amount: 1) at Position: 2910, 4443, 0	
+[7/11/18 08:36PM]	Picked up an item (Id: Item [id=6759, amount=1], Amount: 1) at Position: 2913, 4443, 0	
+[7/11/18 08:45PM]	Sent Private-Message to User: plug and said 'u get him ?'	
+[7/11/18 08:45PM]	Recieved Private-Message from User: Plug which said 'not yet haha '	
+[7/11/18 08:46PM]	Sent Private-Message to User: plug and said 'lool'	
+[7/11/18 08:46PM]	Sent Private-Message to User: turtle and said 'what u up2 '	
+[7/11/18 08:48PM]	Sent Private-Message to User: turtle and said '?'	
+---[7/11/18 09:34PM]	---
+Thug has received 1 Gold Bar from Raymond
+Thug has received 1 Ring Mould from Raymond
+---[7/11/18 09:36PM]	---
+Thug has received 400 Iron Ore from Raymond
+[7/11/18 09:37PM]	Bought Item from shop (29) (Id: 1265, Amount: 1)	
+[7/11/18 09:37PM]	Bought Item from shop (29) (Id: 1275, Amount: 1)	
+[7/11/18 09:41PM]	Dropped Item (Id: Item [id=1265, amount=1], Amount: 0) at Position: 3053, 9781, 0	
+[7/11/18 09:42PM]	Dropped Item (Id: Item [id=438, amount=1], Amount: 1) at Position: 3101, 3499, 0	
+[7/11/18 09:42PM]	Dropped Item (Id: Item [id=2349, amount=1], Amount: 1) at Position: 3099, 3498, 0	
+[7/11/18 09:42PM]	Dropped Item (Id: Item [id=2349, amount=1], Amount: 1) at Position: 3097, 3498, 0	
+[7/11/18 09:42PM]	Dropped Item (Id: Item [id=2349, amount=1], Amount: 0) at Position: 3099, 3499, 0	
+[7/11/18 09:42PM]	Dropped Item (Id: Item [id=2349, amount=1], Amount: 0) at Position: 3101, 3501, 0	
+[7/11/18 09:42PM]	Dropped Item (Id: Item [id=2349, amount=1], Amount: 0) at Position: 3103, 3503, 0	
+[7/11/18 09:42PM]	Dropped Item (Id: Item [id=2349, amount=1], Amount: 0) at Position: 3105, 3499, 0	
+[7/11/18 09:42PM]	Dropped Item (Id: Item [id=2349, amount=1], Amount: 0) at Position: 3107, 3500, 0	
+[7/11/18 09:44PM]	Dropped Item (Id: Item [id=2355, amount=1], Amount: 0) at Position: 3101, 3499, 0	
+[7/11/18 09:44PM]	Dropped Item (Id: Item [id=2355, amount=1], Amount: 0) at Position: 3099, 3498, 0	
+[7/11/18 09:44PM]	Dropped Item (Id: Item [id=2355, amount=1], Amount: 0) at Position: 3097, 3497, 0	
+[7/11/18 09:44PM]	Dropped Item (Id: Item [id=2355, amount=1], Amount: 0) at Position: 3096, 3496, 0	
+[7/11/18 09:44PM]	Dropped Item (Id: Item [id=2355, amount=1], Amount: 0) at Position: 3096, 3496, 0	
+---[7/11/18 09:47PM]	---
+Thug has received 1 Gold Ore from Raymond
+---[7/12/18 05:01PM]	---
+Thug has given 250 Uncut Dragonstone to Raymond
+Thug has given 2837522 Coins to Raymond
+Thug has given 718 Uncut Ruby to Raymond
+Thug has given 675 Uncut Emerald to Raymond
+Thug has given 705 Uncut Sapphire to Raymond
+Thug has given 1 Chisel to Raymond
+---[7/12/18 05:02PM]	---
+Thug has given 736 Uncut Diamond to Raymond

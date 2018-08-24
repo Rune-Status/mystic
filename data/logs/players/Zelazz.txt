@@ -1,0 +1,194 @@
+[7/4/18 07:57PM]	Picked up an item (Id: Item [id=12158, amount=8], Amount: 8) at Position: 3261, 3270, 0	
+[7/4/18 08:01PM]	Picked up an item (Id: Item [id=2714, amount=1], Amount: 1) at Position: 3259, 3272, 0	
+[7/4/18 08:01PM]	Picked up an item (Id: Item [id=985, amount=1], Amount: 1) at Position: 3261, 3269, 0	
+[7/4/18 08:01PM]	Picked up an item (Id: Item [id=12158, amount=10], Amount: 10) at Position: 3262, 3268, 0	
+---[7/5/18 03:04PM]	---
+Zelazz has received 1 Chest from Vali
+[7/5/18 03:13PM]	Bought Item from shop (Id: 6199, Amount: 1)	
+[7/5/18 03:14PM]	Bought Item from shop (Id: 6199, Amount: 1)	
+[7/5/18 03:14PM]	Bought Item from shop (Id: 6199, Amount: 1)	
+[7/5/18 03:14PM]	Bought Item from shop (Id: 6199, Amount: 1)	
+[7/5/18 03:14PM]	Bought Item from shop (Id: 6199, Amount: 1)	
+[7/5/18 03:14PM]	Bought Item from shop (Id: 6199, Amount: 1)	
+[7/5/18 03:14PM]	Bought Item from shop (Id: 6199, Amount: 1)	
+[7/5/18 03:14PM]	Bought Item from shop (Id: 6199, Amount: 1)	
+[7/5/18 03:14PM]	Bought Item from shop (Id: 6199, Amount: 1)	
+[7/5/18 03:14PM]	Bought Item from shop (Id: 6199, Amount: 1)	
+[7/5/18 03:14PM]	Bought Item from shop (Id: 6199, Amount: 1)	
+[7/5/18 03:14PM]	Bought Item from shop (Id: 6199, Amount: 1)	
+[7/5/18 03:14PM]	Bought Item from shop (Id: 6199, Amount: 1)	
+[7/5/18 03:14PM]	Bought Item from shop (Id: 6199, Amount: 1)	
+[7/5/18 03:14PM]	Bought Item from shop (Id: 6199, Amount: 1)	
+[7/5/18 03:14PM]	Bought Item from shop (Id: 6199, Amount: 1)	
+[7/5/18 03:14PM]	Bought Item from shop (Id: 6199, Amount: 1)	
+[7/5/18 03:14PM]	Bought Item from shop (Id: 6199, Amount: 1)	
+[7/5/18 03:14PM]	Bought Item from shop (Id: 6199, Amount: 1)	
+[7/5/18 03:14PM]	Bought Item from shop (Id: 6199, Amount: 1)	
+[7/5/18 03:15PM]	Bought Item from shop (Id: 20086, Amount: 1)	
+[7/5/18 03:50PM]	Bought Item from shop (Id: 6758, Amount: 1)	
+[7/5/18 03:50PM]	Bought Item from shop (Id: 607, Amount: 1)	
+[7/5/18 03:50PM]	Bought Item from shop (Id: 608, Amount: 1)	
+[7/10/18 07:53AM]	Bought Item from shop (Id: 11283, Amount: 1)	
+[7/10/18 07:53AM]	Bought Item from shop (Id: 6585, Amount: 1)	
+[7/10/18 07:53AM]	Bought Item from shop (Id: 20072, Amount: 1)	
+[7/10/18 07:53AM]	Bought Item from shop (Id: 10551, Amount: 1)	
+[7/10/18 07:54AM]	Bought Item from shop (Id: 6199, Amount: 1)	
+[7/10/18 07:54AM]	Bought Item from shop (Id: 6199, Amount: 1)	
+[7/10/18 07:54AM]	Bought Item from shop (Id: 6199, Amount: 1)	
+[7/10/18 07:54AM]	Bought Item from shop (Id: 6199, Amount: 1)	
+[7/10/18 07:54AM]	Bought Item from shop (Id: 6199, Amount: 1)	
+[7/10/18 07:54AM]	Bought Item from shop (Id: 6199, Amount: 1)	
+[7/10/18 07:54AM]	Bought Item from shop (Id: 6199, Amount: 1)	
+[7/10/18 07:54AM]	Bought Item from shop (Id: 6199, Amount: 1)	
+[7/10/18 07:54AM]	Bought Item from shop (Id: 6199, Amount: 1)	
+[7/10/18 09:34AM]	Picked up an item (Id: Item [id=536, amount=2], Amount: 2) at Position: 3337, 3677, 0	
+[7/10/18 09:34AM]	Picked up an item (Id: Item [id=1753, amount=1], Amount: 1) at Position: 3336, 3678, 0	
+[7/10/18 09:34AM]	Picked up an item (Id: Item [id=209, amount=1], Amount: 1) at Position: 3336, 3678, 0	
+[7/10/18 09:34AM]	Picked up an item (Id: Item [id=6759, amount=1], Amount: 1) at Position: 3336, 3678, 0	
+[7/10/18 09:34AM]	Picked up an item (Id: Item [id=536, amount=2], Amount: 2) at Position: 3330, 3679, 0	
+[7/10/18 09:34AM]	Picked up an item (Id: Item [id=12159, amount=6], Amount: 6) at Position: 3330, 3679, 0	
+[7/10/18 09:34AM]	Picked up an item (Id: Item [id=1753, amount=1], Amount: 1) at Position: 3330, 3679, 0	
+[7/10/18 09:34AM]	Picked up an item (Id: Item [id=205, amount=1], Amount: 1) at Position: 3330, 3679, 0	
+[7/10/18 09:35AM]	Dropped Item (Id: Item [id=8901, amount=1], Amount: 1) at Position: 3329, 3684, 0	
+[7/10/18 09:37AM]	Picked up an item (Id: Item [id=537, amount=2], Amount: 2) at Position: 3336, 3675, 0	
+[7/10/18 09:37AM]	Picked up an item (Id: Item [id=537, amount=2], Amount: 2) at Position: 3333, 3676, 0	
+[7/10/18 09:46AM]	Picked up an item (Id: Item [id=537, amount=2], Amount: 2) at Position: 2972, 3616, 0	
+[7/10/18 09:46AM]	Picked up an item (Id: Item [id=536, amount=2], Amount: 2) at Position: 2971, 3615, 0	
+[7/10/18 09:46AM]	Picked up an item (Id: Item [id=536, amount=2], Amount: 2) at Position: 2972, 3619, 0	
+[7/10/18 09:47AM]	Picked up an item (Id: Item [id=536, amount=2], Amount: 2) at Position: 2980, 3612, 0	
+[7/10/18 09:47AM]	Picked up an item (Id: Item [id=537, amount=2], Amount: 2) at Position: 2979, 3611, 0	
+[7/10/18 09:47AM]	Picked up an item (Id: Item [id=537, amount=2], Amount: 2) at Position: 2980, 3615, 0	
+[7/10/18 09:47AM]	Picked up an item (Id: Item [id=536, amount=2], Amount: 2) at Position: 2980, 3615, 0	
+[7/10/18 09:47AM]	Picked up an item (Id: Item [id=536, amount=2], Amount: 2) at Position: 2976, 3614, 0	
+[7/10/18 09:47AM]	Picked up an item (Id: Item [id=537, amount=2], Amount: 2) at Position: 2976, 3614, 0	
+[7/10/18 11:49AM]	Picked up an item (Id: Item [id=882, amount=2], Amount: 2) at Position: 2707, 3718, 0	
+---[7/10/18 12:19PM]	---
+Zelazz has given 1 Runite Ore to Turtle
+Zelazz has given 1 Runite Bar to Turtle
+---[7/10/18 12:28PM]	---
+Zelazz has given 1 Dragon Bones to Turtle
+[7/10/18 12:51PM]	Picked up an item (Id: Item [id=2362, amount=48], Amount: 48) at Position: 1760, 5188, 0	
+[7/10/18 12:52PM]	Picked up an item (Id: Item [id=7416, amount=1], Amount: 1) at Position: 1759, 5189, 0	
+[7/10/18 12:52PM]	Picked up an item (Id: Item [id=12159, amount=4], Amount: 4) at Position: 1759, 5189, 0	
+[7/10/18 12:52PM]	Picked up an item (Id: Item [id=7418, amount=3], Amount: 3) at Position: 1759, 5189, 0	
+[7/10/18 12:52PM]	Picked up an item (Id: Item [id=532, amount=1], Amount: 1) at Position: 1759, 5189, 0	
+[7/10/18 12:56PM]	Dropped Item (Id: Item [id=15363, amount=1], Amount: 1) at Position: 3079, 3511, 0	
+[7/10/18 12:56PM]	Picked up an item (Id: Item [id=15363, amount=1], Amount: 1) at Position: 3079, 3511, 0	
+[7/10/18 01:02PM]	Bought Item from shop (9) (Id: 13734, Amount: 1)	
+[7/10/18 01:06PM]	Bought Item from shop (9) (Id: 13734, Amount: 2)	
+[7/11/18 11:27AM]	Bought Item from shop (19) (Id: 9775, Amount: 1)	
+[7/11/18 12:03PM]	Dropped Item (Id: Item [id=20935, amount=1], Amount: 1) at Position: 3092, 3495, 0	
+[7/11/18 12:03PM]	Picked up an item (Id: Item [id=20935, amount=1], Amount: 1) at Position: 3092, 3495, 0	
+---[7/11/18 01:20PM]	---
+Zelazz has given 50 Ruby Bolts to Turtle
+[7/11/18 01:23PM]	Dropped Item (Id: Item [id=1543, amount=1], Amount: 145) at Position: 3504, 3570, 0	
+[7/11/18 01:23PM]	Dropped Item (Id: Item [id=1543, amount=1], Amount: 145) at Position: 3504, 3570, 0	
+[7/11/18 01:23PM]	Picked up an item (Id: Item [id=1543, amount=1], Amount: 1) at Position: 3504, 3570, 0	
+[7/11/18 01:24PM]	Picked up an item (Id: Item [id=1543, amount=1], Amount: 1) at Position: 3503, 3571, 0	
+[7/11/18 01:28PM]	Dropped Item (Id: Item [id=2732, amount=1], Amount: 1) at Position: 3501, 3573, 0	
+[7/11/18 01:28PM]	Dropped Item (Id: Item [id=2730, amount=1], Amount: 0) at Position: 3501, 3573, 0	
+[7/11/18 01:30PM]	Picked up an item (Id: Item [id=2732, amount=1], Amount: 1) at Position: 3501, 3572, 0	
+[7/11/18 01:30PM]	Picked up an item (Id: Item [id=2730, amount=1], Amount: 1) at Position: 3501, 3573, 0	
+[7/11/18 01:31PM]	Dropped Item (Id: Item [id=2732, amount=1], Amount: 0) at Position: 3500, 3573, 0	
+[7/11/18 01:43PM]	Recieved Private-Message from User: Turtle which said 'have ckeys been buffed yet? '	
+[7/11/18 01:43PM]	Sent Private-Message to User: turtle and said 'they needed to be buffed? '	
+[7/11/18 01:43PM]	Recieved Private-Message from User: Turtle which said 'vali said he was gonna buff rewards'	
+[7/11/18 01:45PM]	Sent Private-Message to User: turtle and said 'i can do that'	
+[7/11/18 01:45PM]	Recieved Private-Message from User: Turtle which said 'ask vali, he probably knows what rewards he wants '	
+[7/11/18 02:06PM]	Recieved Private-Message from User: Intro which said 'you understand how botched godwars is, '	
+[7/11/18 02:07PM]	Sent Private-Message to User: intro and said 'ya totally broken, only boss that works 100% is bandos'	
+[7/11/18 02:07PM]	Recieved Private-Message from User: Intro which said 'o ok. '	
+[7/11/18 02:07PM]	Recieved Private-Message from User: Intro which said 'just making sure you knew, lol.'	
+[7/11/18 02:07PM]	Sent Private-Message to User: intro and said 'hes remaking all of them so they work 100%'	
+[7/11/18 02:08PM]	Recieved Private-Message from User: Intro which said 'holy fuck armadyls special attack. '	
+[7/11/18 02:08PM]	Recieved Private-Message from User: Intro which said 'wtf. '	
+[7/11/18 02:08PM]	Sent Private-Message to User: intro and said 'what about it '	
+[7/11/18 02:09PM]	Recieved Private-Message from User: Intro which said 'he spawns like 20 tornados that split in a "x" '	
+[7/11/18 02:09PM]	Recieved Private-Message from User: Intro which said 'and spam you. '	
+[7/11/18 02:09PM]	Sent Private-Message to User: intro and said 'so completely broken haha? '	
+[7/11/18 02:09PM]	Recieved Private-Message from User: Intro which said 'completely.'	
+[7/11/18 02:10PM]	Recieved Private-Message from User: Intro which said 'well, you can completely avoid his special. '	
+[7/11/18 02:10PM]	Recieved Private-Message from User: Intro which said 'so you can literally afk arma. '	
+[7/11/18 02:11PM]	Recieved Private-Message from User: Intro which said 'mage prot and stand away from where he spawns the cluster.'	
+[7/11/18 02:11PM]	Recieved Private-Message from User: Intro which said 'tele to me. '	
+---[7/11/18 02:31PM]	---
+Zelazz has given 1 Key to Vali
+[7/12/18 08:42AM]	Dropped Item (Id: Item [id=18830, amount=1], Amount: 100000) at Position: 3083, 3504, 0	
+[7/12/18 08:42AM]	Dropped Item (Id: Item [id=18831, amount=1], Amount: 100000) at Position: 3083, 3504, 0	
+[7/12/18 08:43AM]	Dropped Item (Id: Item [id=13281, amount=1], Amount: 100000) at Position: 3087, 3490, 0	
+[7/12/18 08:43AM]	Dropped Item (Id: Item [id=3124, amount=1], Amount: 100000) at Position: 3087, 3490, 0	
+[7/12/18 08:57AM]	Dropped Item (Id: Item [id=13901, amount=1], Amount: 100000) at Position: 3101, 3496, 0	
+[7/12/18 08:57AM]	Picked up an item (Id: Item [id=13901, amount=1], Amount: 1) at Position: 3101, 3496, 0	
+[7/12/18 08:59AM]	Dropped Item (Id: Item [id=13901, amount=1], Amount: 100000) at Position: 3104, 3496, 0	
+[7/12/18 08:59AM]	Dropped Item (Id: Item [id=13899, amount=1], Amount: 100000) at Position: 3104, 3496, 0	
+[7/12/18 08:59AM]	Dropped Item (Id: Item [id=13926, amount=1], Amount: 100000) at Position: 3104, 3496, 0	
+[7/12/18 09:05AM]	Dropped Item (Id: Item [id=7821, amount=1], Amount: 1) at Position: 3099, 3502, 0	
+[7/12/18 09:05AM]	Dropped Item (Id: Item [id=13894, amount=1], Amount: 1) at Position: 3099, 3502, 0	
+[7/12/18 09:09AM]	Dropped Item (Id: Item [id=3944, amount=1], Amount: 1) at Position: 3099, 3502, 0	
+[7/12/18 09:09AM]	Dropped Item (Id: Item [id=1947, amount=1], Amount: 1) at Position: 3099, 3502, 0	
+[7/12/18 09:09AM]	Dropped Item (Id: Item [id=8675, amount=1], Amount: 1) at Position: 3099, 3502, 0	
+[7/12/18 09:11AM]	Dropped Item (Id: Item [id=13953, amount=3], Amount: 1) at Position: 3099, 3502, 0	
+[7/12/18 09:11AM]	Dropped Item (Id: Item [id=13957, amount=3], Amount: 1) at Position: 3099, 3502, 0	
+[7/12/18 09:14AM]	Dropped Item (Id: Item [id=13941, amount=1], Amount: 1) at Position: 3094, 3509, 0	
+[7/12/18 09:35AM]	Picked up an item (Id: Item [id=6759, amount=1], Amount: 1) at Position: 3098, 3485, 0	
+[7/12/18 09:38AM]	Dropped Item (Id: Item [id=6155, amount=1], Amount: 0) at Position: 3086, 3508, 0	
+[7/12/18 09:54AM]	Dropped Item (Id: Item [id=5298, amount=2], Amount: 1) at Position: 3086, 3508, 0	
+[7/12/18 09:55AM]	Dropped Item (Id: Item [id=46, amount=1], Amount: 580) at Position: 3086, 3508, 0	
+[7/12/18 09:55AM]	Dropped Item (Id: Item [id=411, amount=1], Amount: 580) at Position: 3086, 3508, 0	
+[7/12/18 09:56AM]	Dropped Item (Id: Item [id=207, amount=1], Amount: 580) at Position: 3086, 3508, 0	
+[7/12/18 09:56AM]	Dropped Item (Id: Item [id=207, amount=1], Amount: 580) at Position: 3086, 3508, 0	
+[7/12/18 09:56AM]	Dropped Item (Id: Item [id=207, amount=1], Amount: 580) at Position: 3086, 3508, 0	
+[7/12/18 09:56AM]	Dropped Item (Id: Item [id=207, amount=1], Amount: 580) at Position: 3086, 3508, 0	
+[7/12/18 09:56AM]	Dropped Item (Id: Item [id=385, amount=1], Amount: 580) at Position: 3086, 3508, 0	
+[7/12/18 09:56AM]	Dropped Item (Id: Item [id=385, amount=1], Amount: 580) at Position: 3086, 3508, 0	
+[7/12/18 09:56AM]	Dropped Item (Id: Item [id=385, amount=1], Amount: 580) at Position: 3086, 3508, 0	
+[7/12/18 09:57AM]	Dropped Item (Id: Item [id=314, amount=1], Amount: 580) at Position: 3086, 3508, 0	
+[7/12/18 10:03AM]	Dropped Item (Id: Item [id=1249, amount=1], Amount: 580) at Position: 3086, 3508, 0	
+[7/12/18 10:50AM]	Dropped Item (Id: Item [id=13896, amount=1], Amount: 1) at Position: 3086, 3508, 0	
+[7/12/18 10:50AM]	Dropped Item (Id: Item [id=13920, amount=1], Amount: 1) at Position: 3086, 3508, 0	
+[7/12/18 10:50AM]	Dropped Item (Id: Item [id=13884, amount=1], Amount: 1) at Position: 3086, 3508, 0	
+[7/12/18 10:50AM]	Dropped Item (Id: Item [id=13890, amount=1], Amount: 1) at Position: 3086, 3508, 0	
+[7/12/18 10:50AM]	Dropped Item (Id: Item [id=537, amount=1], Amount: 1) at Position: 3086, 3508, 0	
+[7/12/18 10:50AM]	Dropped Item (Id: Item [id=9244, amount=1], Amount: 1) at Position: 3086, 3508, 0	
+[7/12/18 10:50AM]	Dropped Item (Id: Item [id=1514, amount=1], Amount: 1) at Position: 3086, 3508, 0	
+[7/12/18 10:50AM]	Dropped Item (Id: Item [id=1128, amount=1], Amount: 1) at Position: 3086, 3508, 0	
+[7/12/18 10:50AM]	Dropped Item (Id: Item [id=4088, amount=1], Amount: 1) at Position: 3086, 3508, 0	
+[7/12/18 10:50AM]	Dropped Item (Id: Item [id=2364, amount=1], Amount: 1) at Position: 3086, 3508, 0	
+[7/12/18 10:50AM]	Dropped Item (Id: Item [id=392, amount=1], Amount: 1) at Position: 3086, 3508, 0	
+[7/12/18 10:50AM]	Dropped Item (Id: Item [id=1114, amount=1], Amount: 1) at Position: 3086, 3508, 0	
+[7/12/18 10:50AM]	Dropped Item (Id: Item [id=15273, amount=1], Amount: 1) at Position: 3086, 3508, 0	
+[7/12/18 10:50AM]	Dropped Item (Id: Item [id=9144, amount=1], Amount: 1) at Position: 3086, 3508, 0	
+[7/12/18 10:58AM]	Dropped Item (Id: Item [id=3985, amount=1], Amount: 0) at Position: 3086, 3508, 0	
+[7/13/18 10:33AM]	Dropped Item (Id: Item [id=13887, amount=1], Amount: 0) at Position: 3081, 3511, 0	
+[7/13/18 10:33AM]	Picked up an item (Id: Item [id=13887, amount=1], Amount: 1) at Position: 3080, 3511, 0	
+[7/13/18 10:42AM]	Sold Item to shop (Id: 2732, Amount: 1)	
+[7/13/18 11:11AM]	Dropped Item (Id: Item [id=239, amount=1], Amount: 1) at Position: 3079, 3511, 0	
+[7/13/18 11:11AM]	Dropped Item (Id: Item [id=239, amount=1], Amount: 1) at Position: 3079, 3511, 0	
+[7/13/18 11:11AM]	Dropped Item (Id: Item [id=239, amount=1], Amount: 1) at Position: 3079, 3511, 0	
+[7/13/18 11:11AM]	Dropped Item (Id: Item [id=239, amount=1], Amount: 1) at Position: 3079, 3511, 0	
+[7/13/18 11:11AM]	Dropped Item (Id: Item [id=239, amount=1], Amount: 1) at Position: 3079, 3511, 0	
+[7/13/18 11:11AM]	Dropped Item (Id: Item [id=239, amount=1], Amount: 1) at Position: 3079, 3511, 0	
+[7/13/18 11:11AM]	Dropped Item (Id: Item [id=239, amount=1], Amount: 1) at Position: 3079, 3511, 0	
+[7/13/18 11:11AM]	Dropped Item (Id: Item [id=239, amount=1], Amount: 1) at Position: 3079, 3511, 0	
+[7/13/18 11:11AM]	Dropped Item (Id: Item [id=239, amount=1], Amount: 1) at Position: 3079, 3511, 0	
+[7/13/18 11:11AM]	Dropped Item (Id: Item [id=239, amount=1], Amount: 1) at Position: 3079, 3511, 0	
+[7/13/18 11:11AM]	Dropped Item (Id: Item [id=239, amount=1], Amount: 1) at Position: 3079, 3511, 0	
+[7/13/18 11:11AM]	Dropped Item (Id: Item [id=239, amount=1], Amount: 1) at Position: 3079, 3511, 0	
+[7/14/18 04:37PM]	Dropped Item (Id: Item [id=13920, amount=1], Amount: 0) at Position: 3094, 3493, 0	
+[7/14/18 04:37PM]	Picked up an item (Id: Item [id=13920, amount=1], Amount: 1) at Position: 3094, 3492, 0	
+[7/14/18 04:37PM]	Dropped Item (Id: Item [id=13920, amount=1], Amount: 0) at Position: 3094, 3493, 0	
+[7/14/18 04:37PM]	Picked up an item (Id: Item [id=13920, amount=1], Amount: 1) at Position: 3094, 3492, 0	
+[7/14/18 04:37PM]	Dropped Item (Id: Item [id=13920, amount=1], Amount: 0) at Position: 3094, 3493, 0	
+[7/14/18 04:37PM]	Picked up an item (Id: Item [id=13920, amount=1], Amount: 1) at Position: 3094, 3493, 0	
+[7/14/18 04:38PM]	Dropped Item (Id: Item [id=13858, amount=1], Amount: 0) at Position: 3094, 3496, 0	
+[7/14/18 04:39PM]	Dropped Item (Id: Item [id=13861, amount=1], Amount: 1) at Position: 3094, 3495, 0	
+[7/14/18 04:39PM]	Dropped Item (Id: Item [id=13864, amount=1], Amount: 1) at Position: 3093, 3495, 0	
+[7/14/18 04:39PM]	Picked up an item (Id: Item [id=13864, amount=1], Amount: 1) at Position: 3093, 3496, 0	
+[7/14/18 04:39PM]	Picked up an item (Id: Item [id=13858, amount=1], Amount: 1) at Position: 3093, 3495, 0	
+[7/14/18 04:39PM]	Picked up an item (Id: Item [id=13861, amount=1], Amount: 1) at Position: 3094, 3496, 0	
+[7/14/18 04:39PM]	Dropped Item (Id: Item [id=13861, amount=1], Amount: 1) at Position: 3094, 3495, 0	
+[7/14/18 04:39PM]	Dropped Item (Id: Item [id=13864, amount=1], Amount: 1) at Position: 3094, 3496, 0	
+[7/14/18 04:39PM]	Dropped Item (Id: Item [id=13858, amount=1], Amount: 1) at Position: 3093, 3495, 0	
+[7/14/18 04:39PM]	Picked up an item (Id: Item [id=13858, amount=1], Amount: 1) at Position: 3093, 3495, 0	
+[7/14/18 04:39PM]	Picked up an item (Id: Item [id=13864, amount=1], Amount: 1) at Position: 3093, 3495, 0	
+[7/14/18 04:39PM]	Picked up an item (Id: Item [id=13861, amount=1], Amount: 1) at Position: 3094, 3496, 0	

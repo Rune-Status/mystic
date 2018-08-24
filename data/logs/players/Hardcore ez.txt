@@ -1,0 +1,2 @@
+[7/14/18 01:59PM]	Picked up an item (Id: Item [id=985, amount=1], Amount: 1) at Position: 3261, 3273, 0	
+[7/14/18 02:03PM]	Picked up an item (Id: Item [id=987, amount=1], Amount: 1) at Position: 3263, 3268, 0	

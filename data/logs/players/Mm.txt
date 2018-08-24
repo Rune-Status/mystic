@@ -1,0 +1,18 @@
+---[7/5/18 04:42PM]	---
+Mm has given 1 Lobster to Speedy
+[7/5/18 04:54PM]	Bought Item from shop (Id: 1333, Amount: 1)	
+[7/5/18 04:55PM]	Bought Item from shop (Id: 2437, Amount: 1)	
+[7/5/18 04:55PM]	Bought Item from shop (Id: 2441, Amount: 1)	
+[7/5/18 04:55PM]	Bought Item from shop (Id: 11118, Amount: 1)	
+[7/5/18 04:55PM]	Bought Item from shop (Id: 1725, Amount: 1)	
+[7/5/18 04:55PM]	Bought Item from shop (Id: 3105, Amount: 1)	
+[7/5/18 04:55PM]	Bought Item from shop (Id: 2550, Amount: 1)	
+[7/5/18 04:55PM]	Bought Item from shop (Id: 3842, Amount: 1)	
+[7/5/18 04:55PM]	Bought Item from shop (Id: 2550, Amount: 1)	
+[7/5/18 04:55PM]	Bought Item from shop (Id: 656, Amount: 1)	
+[7/5/18 04:55PM]	Bought Item from shop (Id: 542, Amount: 1)	
+[7/5/18 04:55PM]	Bought Item from shop (Id: 544, Amount: 1)	
+[7/5/18 04:56PM]	Bought Item from shop (Id: 386, Amount: 10)	
+[7/5/18 04:56PM]	Bought Item from shop (Id: 386, Amount: 10)	
+[7/5/18 04:56PM]	Bought Item from shop (Id: 386, Amount: 10)	
+[7/5/18 04:56PM]	Bought Item from shop (Id: 386, Amount: 5)	

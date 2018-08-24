@@ -1,0 +1,104 @@
+[7/5/18 07:23PM]	Picked up an item (Id: Item [id=526, amount=1], Amount: 1) at Position: 3259, 3273, 0	
+[7/5/18 07:24PM]	Picked up an item (Id: Item [id=526, amount=1], Amount: 1) at Position: 3261, 3274, 0	
+[7/5/18 07:24PM]	Picked up an item (Id: Item [id=526, amount=1], Amount: 1) at Position: 3260, 3273, 0	
+[7/5/18 07:24PM]	Picked up an item (Id: Item [id=1739, amount=1], Amount: 1) at Position: 3260, 3272, 0	
+[7/5/18 07:24PM]	Dropped Item (Id: Item [id=1739, amount=1], Amount: 250000) at Position: 3260, 3272, 0	
+[7/5/18 07:24PM]	Picked up an item (Id: Item [id=985, amount=1], Amount: 1) at Position: 3260, 3272, 0	
+[7/5/18 07:25PM]	Picked up an item (Id: Item [id=526, amount=1], Amount: 1) at Position: 3260, 3273, 0	
+[7/5/18 07:25PM]	Picked up an item (Id: Item [id=12158, amount=10], Amount: 10) at Position: 3262, 3272, 0	
+[7/5/18 07:25PM]	Picked up an item (Id: Item [id=526, amount=1], Amount: 1) at Position: 3262, 3271, 0	
+[7/5/18 07:25PM]	Picked up an item (Id: Item [id=526, amount=1], Amount: 1) at Position: 3262, 3271, 0	
+[7/5/18 07:25PM]	Picked up an item (Id: Item [id=526, amount=1], Amount: 1) at Position: 3262, 3271, 0	
+[7/5/18 07:25PM]	Picked up an item (Id: Item [id=526, amount=1], Amount: 1) at Position: 3260, 3272, 0	
+[7/5/18 07:26PM]	Picked up an item (Id: Item [id=12158, amount=4], Amount: 4) at Position: 3256, 3277, 0	
+[7/5/18 07:26PM]	Picked up an item (Id: Item [id=12158, amount=11], Amount: 11) at Position: 3258, 3277, 0	
+[7/5/18 07:26PM]	Picked up an item (Id: Item [id=12158, amount=11], Amount: 11) at Position: 3257, 3275, 0	
+[7/5/18 07:26PM]	Picked up an item (Id: Item [id=985, amount=1], Amount: 1) at Position: 3256, 3277, 0	
+[7/5/18 07:28PM]	Bought Item from shop (Id: 4587, Amount: 1)	
+[7/5/18 07:28PM]	Bought Item from shop (Id: 3751, Amount: 1)	
+[7/5/18 07:28PM]	Bought Item from shop (Id: 861, Amount: 1)	
+[7/5/18 07:29PM]	Bought Item from shop (Id: 4155, Amount: 1)	
+[7/5/18 09:36PM]	Picked up an item (Id: Item [id=5296, amount=1], Amount: 1) at Position: 2188, 3146, 0	
+[7/5/18 09:36PM]	Picked up an item (Id: Item [id=2714, amount=1], Amount: 1) at Position: 2189, 3146, 0	
+[7/5/18 09:36PM]	Picked up an item (Id: Item [id=199, amount=1], Amount: 1) at Position: 2189, 3146, 0	
+[7/5/18 09:36PM]	Picked up an item (Id: Item [id=209, amount=1], Amount: 1) at Position: 2189, 3146, 0	
+[7/5/18 09:36PM]	Bought Item from shop (Id: 10828, Amount: 1)	
+[7/5/18 09:37PM]	Sold Item to shop (Id: 3751, Amount: 1)	
+[7/5/18 09:37PM]	Bought Item from shop (Id: 1079, Amount: 1)	
+[7/5/18 09:37PM]	Sold Item to shop (Id: 1067, Amount: 1)	
+[7/5/18 09:38PM]	Picked up an item (Id: Item [id=561, amount=15], Amount: 15) at Position: 2185, 3150, 0	
+[7/5/18 09:38PM]	Picked up an item (Id: Item [id=201, amount=1], Amount: 1) at Position: 2185, 3150, 0	
+[7/5/18 09:38PM]	Picked up an item (Id: Item [id=526, amount=1], Amount: 1) at Position: 2185, 3150, 0	
+[7/5/18 09:39PM]	Picked up an item (Id: Item [id=5300, amount=1], Amount: 1) at Position: 2186, 3151, 0	
+[7/5/18 09:39PM]	Picked up an item (Id: Item [id=205, amount=1], Amount: 1) at Position: 2186, 3151, 0	
+[7/5/18 09:41PM]	Picked up an item (Id: Item [id=995, amount=25921], Amount: 25921) at Position: 2186, 3151, 0	
+[7/5/18 09:41PM]	Picked up an item (Id: Item [id=11118, amount=1], Amount: 1) at Position: 2187, 3150, 0	
+[7/5/18 09:41PM]	Picked up an item (Id: Item [id=1712, amount=1], Amount: 1) at Position: 2186, 3151, 0	
+[7/5/18 09:41PM]	Picked up an item (Id: Item [id=561, amount=15], Amount: 15) at Position: 2186, 3151, 0	
+[7/5/18 09:41PM]	Picked up an item (Id: Item [id=882, amount=250], Amount: 250) at Position: 2186, 3151, 0	
+[7/5/18 09:41PM]	Picked up an item (Id: Item [id=2552, amount=1], Amount: 1) at Position: 2186, 3151, 0	
+[7/5/18 09:41PM]	Picked up an item (Id: Item [id=1115, amount=1], Amount: 1) at Position: 2187, 3152, 0	
+[7/5/18 09:41PM]	Picked up an item (Id: Item [id=379, amount=1], Amount: 1) at Position: 2187, 3152, 0	
+[7/5/18 09:41PM]	Picked up an item (Id: Item [id=379, amount=1], Amount: 1) at Position: 2186, 3151, 0	
+[7/5/18 09:41PM]	Picked up an item (Id: Item [id=379, amount=1], Amount: 1) at Position: 2186, 3151, 0	
+[7/5/18 09:41PM]	Picked up an item (Id: Item [id=379, amount=1], Amount: 1) at Position: 2186, 3151, 0	
+[7/5/18 09:41PM]	Picked up an item (Id: Item [id=379, amount=1], Amount: 1) at Position: 2186, 3151, 0	
+[7/5/18 09:41PM]	Picked up an item (Id: Item [id=379, amount=1], Amount: 1) at Position: 2186, 3151, 0	
+[7/5/18 09:41PM]	Picked up an item (Id: Item [id=379, amount=1], Amount: 1) at Position: 2186, 3151, 0	
+[7/5/18 09:41PM]	Picked up an item (Id: Item [id=379, amount=1], Amount: 1) at Position: 2186, 3151, 0	
+[7/5/18 09:41PM]	Picked up an item (Id: Item [id=379, amount=1], Amount: 1) at Position: 2186, 3151, 0	
+[7/5/18 09:41PM]	Picked up an item (Id: Item [id=379, amount=1], Amount: 1) at Position: 2186, 3151, 0	
+[7/5/18 09:41PM]	Picked up an item (Id: Item [id=379, amount=1], Amount: 1) at Position: 2186, 3151, 0	
+[7/5/18 09:41PM]	Picked up an item (Id: Item [id=379, amount=1], Amount: 1) at Position: 2186, 3151, 0	
+[7/5/18 09:41PM]	Picked up an item (Id: Item [id=379, amount=1], Amount: 1) at Position: 2186, 3151, 0	
+[7/5/18 09:41PM]	Picked up an item (Id: Item [id=379, amount=1], Amount: 1) at Position: 2186, 3151, 0	
+[7/5/18 09:41PM]	Picked up an item (Id: Item [id=379, amount=1], Amount: 1) at Position: 2186, 3151, 0	
+[7/5/18 09:42PM]	Picked up an item (Id: Item [id=379, amount=1], Amount: 1) at Position: 2186, 3151, 0	
+[7/5/18 09:42PM]	Picked up an item (Id: Item [id=12159, amount=9], Amount: 9) at Position: 2186, 3151, 0	
+[7/5/18 09:42PM]	Picked up an item (Id: Item [id=379, amount=1], Amount: 1) at Position: 2186, 3151, 0	
+[7/5/18 09:42PM]	Picked up an item (Id: Item [id=379, amount=1], Amount: 1) at Position: 2186, 3151, 0	
+[7/5/18 09:42PM]	Picked up an item (Id: Item [id=379, amount=1], Amount: 1) at Position: 2186, 3151, 0	
+[7/5/18 09:42PM]	Picked up an item (Id: Item [id=379, amount=1], Amount: 1) at Position: 2186, 3150, 0	
+[7/5/18 09:42PM]	Picked up an item (Id: Item [id=379, amount=1], Amount: 1) at Position: 2186, 3151, 0	
+[7/5/18 09:42PM]	Picked up an item (Id: Item [id=3842, amount=1], Amount: 1) at Position: 2186, 3151, 0	
+[7/5/18 09:42PM]	Picked up an item (Id: Item [id=379, amount=1], Amount: 1) at Position: 2186, 3151, 0	
+[7/5/18 09:42PM]	Picked up an item (Id: Item [id=5300, amount=1], Amount: 1) at Position: 2186, 3151, 0	
+[7/5/18 09:42PM]	Picked up an item (Id: Item [id=1837, amount=1], Amount: 1) at Position: 2186, 3151, 0	
+[7/5/18 09:42PM]	Picked up an item (Id: Item [id=1007, amount=1], Amount: 1) at Position: 2186, 3151, 0	
+[7/5/18 09:42PM]	Picked up an item (Id: Item [id=201, amount=1], Amount: 1) at Position: 2186, 3151, 0	
+[7/5/18 09:42PM]	Picked up an item (Id: Item [id=205, amount=1], Amount: 1) at Position: 2186, 3151, 0	
+[7/5/18 09:42PM]	Picked up an item (Id: Item [id=526, amount=1], Amount: 1) at Position: 2186, 3151, 0	
+[7/5/18 09:42PM]	Picked up an item (Id: Item [id=1065, amount=1], Amount: 1) at Position: 2186, 3151, 0	
+[7/5/18 09:42PM]	Dropped Item (Id: Item [id=1065, amount=1], Amount: 1) at Position: 2186, 3152, 0	
+[7/5/18 09:42PM]	Picked up an item (Id: Item [id=1065, amount=1], Amount: 1) at Position: 2186, 3152, 0	
+[7/5/18 09:42PM]	Picked up an item (Id: Item [id=985, amount=1], Amount: 1) at Position: 2186, 3152, 0	
+[7/5/18 09:42PM]	Picked up an item (Id: Item [id=205, amount=1], Amount: 1) at Position: 2186, 3152, 0	
+[7/5/18 09:43PM]	Picked up an item (Id: Item [id=386, amount=1], Amount: 1) at Position: 2186, 3152, 0	
+[7/5/18 09:44PM]	Picked up an item (Id: Item [id=526, amount=1], Amount: 1) at Position: 2187, 3152, 0	
+[7/5/18 09:45PM]	Picked up an item (Id: Item [id=12159, amount=7], Amount: 7) at Position: 2187, 3152, 0	
+[7/5/18 09:45PM]	Picked up an item (Id: Item [id=987, amount=1], Amount: 1) at Position: 2186, 3153, 0	
+[7/5/18 09:45PM]	Picked up an item (Id: Item [id=205, amount=1], Amount: 1) at Position: 2187, 3153, 0	
+[7/5/18 09:46PM]	Picked up an item (Id: Item [id=5314, amount=1], Amount: 1) at Position: 2187, 3153, 0	
+[7/5/18 09:46PM]	Picked up an item (Id: Item [id=207, amount=1], Amount: 1) at Position: 2188, 3153, 0	
+[7/5/18 09:48PM]	Picked up an item (Id: Item [id=199, amount=1], Amount: 1) at Position: 2187, 3153, 0	
+[7/5/18 09:48PM]	Picked up an item (Id: Item [id=563, amount=2], Amount: 2) at Position: 2187, 3154, 0	
+[7/5/18 09:50PM]	Picked up an item (Id: Item [id=12159, amount=2], Amount: 2) at Position: 2188, 3151, 0	
+[7/5/18 09:50PM]	Picked up an item (Id: Item [id=1147, amount=1], Amount: 1) at Position: 2188, 3150, 0	
+[7/5/18 09:50PM]	Picked up an item (Id: Item [id=199, amount=1], Amount: 1) at Position: 2187, 3150, 0	
+[7/5/18 09:52PM]	Picked up an item (Id: Item [id=561, amount=15], Amount: 15) at Position: 2186, 3149, 0	
+[7/5/18 09:53PM]	Picked up an item (Id: Item [id=1213, amount=1], Amount: 1) at Position: 2187, 3150, 0	
+[7/5/18 09:54PM]	Picked up an item (Id: Item [id=205, amount=1], Amount: 1) at Position: 2187, 3150, 0	
+[7/5/18 10:15PM]	Picked up an item (Id: Item [id=526, amount=1], Amount: 1) at Position: 2187, 3153, 0	
+[7/5/18 10:16PM]	Picked up an item (Id: Item [id=987, amount=1], Amount: 1) at Position: 2188, 3152, 0	
+[7/5/18 10:18PM]	Picked up an item (Id: Item [id=5280, amount=1], Amount: 1) at Position: 2189, 3152, 0	
+[7/5/18 10:18PM]	Picked up an item (Id: Item [id=526, amount=1], Amount: 1) at Position: 2188, 3152, 0	
+[7/5/18 10:18PM]	Picked up an item (Id: Item [id=526, amount=1], Amount: 1) at Position: 2188, 3153, 0	
+[7/5/18 10:18PM]	Dropped Item (Id: Item [id=5280, amount=1], Amount: 1) at Position: 2188, 3152, 0	
+[7/5/18 10:20PM]	Picked up an item (Id: Item [id=199, amount=1], Amount: 1) at Position: 2185, 3152, 0	
+[7/5/18 10:20PM]	Picked up an item (Id: Item [id=213, amount=1], Amount: 1) at Position: 2185, 3151, 0	
+[7/5/18 10:22PM]	Picked up an item (Id: Item [id=987, amount=1], Amount: 1) at Position: 2187, 3150, 0	
+[7/5/18 10:22PM]	Picked up an item (Id: Item [id=526, amount=1], Amount: 1) at Position: 2188, 3150, 0	
+[7/5/18 10:22PM]	Picked up an item (Id: Item [id=526, amount=1], Amount: 1) at Position: 2187, 3149, 0	
+[7/5/18 10:23PM]	Picked up an item (Id: Item [id=526, amount=1], Amount: 1) at Position: 2185, 3151, 0	
+[7/5/18 10:23PM]	Picked up an item (Id: Item [id=987, amount=1], Amount: 1) at Position: 2189, 3152, 0	
+[7/5/18 10:23PM]	Picked up an item (Id: Item [id=215, amount=1], Amount: 1) at Position: 2188, 3153, 0	

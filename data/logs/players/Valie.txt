@@ -1,0 +1,33 @@
+---[8/23/18 04:20AM]	---
+Valie has received 1 Chocolate Cake from Vali
+Valie has received 5 Fire Rune from Vali
+[8/23/18 04:30AM]	Dropped Item (Id: Item [id=1897, amount=1], Amount: 50000) at Position: 3089, 3489, 0	
+[8/23/18 04:30AM]	Dropped Item (Id: Item [id=1129, amount=1], Amount: 50000) at Position: 3089, 3489, 0	
+[8/23/18 04:30AM]	Dropped Item (Id: Item [id=1379, amount=1], Amount: 50000) at Position: 3089, 3489, 0	
+[8/23/18 04:30AM]	Dropped Item (Id: Item [id=1323, amount=1], Amount: 50000) at Position: 3089, 3489, 0	
+[8/23/18 04:30AM]	Dropped Item (Id: Item [id=1095, amount=1], Amount: 50000) at Position: 3089, 3489, 0	
+[8/23/18 04:30AM]	Dropped Item (Id: Item [id=579, amount=1], Amount: 50000) at Position: 3089, 3489, 0	
+[8/23/18 04:30AM]	Dropped Item (Id: Item [id=577, amount=1], Amount: 50000) at Position: 3089, 3489, 0	
+[8/23/18 04:30AM]	Dropped Item (Id: Item [id=3842, amount=1], Amount: 50000) at Position: 3089, 3489, 0	
+[8/23/18 04:30AM]	Dropped Item (Id: Item [id=1011, amount=1], Amount: 50000) at Position: 3089, 3489, 0	
+[8/23/18 04:30AM]	Dropped Item (Id: Item [id=995, amount=50000], Amount: 0) at Position: 3089, 3489, 0	
+[8/23/18 04:30AM]	Dropped Item (Id: Item [id=8013, amount=10], Amount: 200) at Position: 3089, 3489, 0	
+[8/23/18 04:30AM]	Dropped Item (Id: Item [id=558, amount=400], Amount: 0) at Position: 3089, 3489, 0	
+[8/23/18 04:30AM]	Dropped Item (Id: Item [id=556, amount=400], Amount: 0) at Position: 3089, 3489, 0	
+[8/23/18 04:30AM]	Dropped Item (Id: Item [id=554, amount=205], Amount: 0) at Position: 3089, 3489, 0	
+[8/23/18 04:30AM]	Dropped Item (Id: Item [id=555, amount=200], Amount: 0) at Position: 3089, 3489, 0	
+[8/23/18 04:30AM]	Dropped Item (Id: Item [id=557, amount=200], Amount: 0) at Position: 3089, 3489, 0	
+[8/23/18 04:30AM]	Dropped Item (Id: Item [id=380, amount=50], Amount: 0) at Position: 3089, 3489, 0	
+[8/23/18 04:30AM]	Dropped Item (Id: Item [id=1856, amount=1], Amount: 0) at Position: 3089, 3489, 0	
+[8/23/18 04:31AM]	Picked up an item (Id: Item [id=380, amount=50], Amount: 50) at Position: 3089, 3489, 0	
+[8/23/18 04:31AM]	Picked up an item (Id: Item [id=556, amount=400], Amount: 400) at Position: 3089, 3489, 0	
+[8/23/18 04:31AM]	Picked up an item (Id: Item [id=554, amount=205], Amount: 205) at Position: 3088, 3489, 0	
+[8/23/18 04:31AM]	Picked up an item (Id: Item [id=555, amount=200], Amount: 200) at Position: 3088, 3490, 0	
+[8/23/18 04:32AM]	Picked up an item (Id: Item [id=557, amount=200], Amount: 200) at Position: 3088, 3490, 0	
+[8/23/18 04:32AM]	Picked up an item (Id: Item [id=1856, amount=1], Amount: 1) at Position: 3089, 3489, 0	
+---[8/23/18 06:24PM]	---
+Valie has received 1 Dragon Claws from Vali
+---[8/23/18 06:25PM]	---
+Valie has given 1 Dragon Claws to Vali
+---[8/23/18 06:25PM]	---
+Valie has received 1 Dragon Claws from Vali

@@ -1,0 +1,24 @@
+[7/27/18 03:30PM]	Dropped Item (Id: Item [id=2007, amount=1], Amount: 1) at Position: 3097, 3504, 0	
+[7/27/18 03:30PM]	Picked up an item (Id: Item [id=2714, amount=1], Amount: 1) at Position: 3097, 3504, 0	
+[7/27/18 03:30PM]	Dropped Item (Id: Item [id=2007, amount=1], Amount: 0) at Position: 3097, 3504, 0	
+[7/27/18 03:31PM]	Picked up an item (Id: Item [id=2007, amount=1], Amount: 1) at Position: 3097, 3504, 0	
+[7/27/18 03:40PM]	Holyreaper received an uncut onyx from the gem stall.	
+[7/27/18 03:55PM]	Picked up an item (Id: Item [id=2714, amount=1], Amount: 1) at Position: 3094, 3493, 0	
+[7/27/18 04:39PM]	Picked up an item (Id: Item [id=2714, amount=1], Amount: 1) at Position: 3099, 3503, 0	
+[7/27/18 04:52PM]	Dropped Item (Id: Item [id=2007, amount=1], Amount: 1) at Position: 3099, 3504, 0	
+[7/27/18 05:02PM]	Dropped Item (Id: Item [id=13109, amount=1], Amount: 1) at Position: 3099, 3504, 0	
+[7/27/18 05:38PM]	Bought Item from shop (29) (Id: 1755, Amount: 1)	
+[7/27/18 05:38PM]	Bought Item from shop (0) (Id: 228, Amount: 500)	
+[7/27/18 05:38PM]	Bought Item from shop (0) (Id: 228, Amount: 500)	
+[7/27/18 05:38PM]	Bought Item from shop (0) (Id: 1778, Amount: 500)	
+[7/27/18 05:38PM]	Bought Item from shop (0) (Id: 1778, Amount: 500)	
+[7/27/18 05:38PM]	Bought Item from shop (0) (Id: 952, Amount: 1)	
+[7/27/18 05:38PM]	Bought Item from shop (0) (Id: 2347, Amount: 1)	
+[7/27/18 05:38PM]	Bought Item from shop (0) (Id: 1269, Amount: 1)	
+[7/27/18 05:38PM]	Bought Item from shop (0) (Id: 1265, Amount: 1)	
+[7/27/18 05:38PM]	Bought Item from shop (0) (Id: 1351, Amount: 1)	
+[7/27/18 05:38PM]	Bought Item from shop (0) (Id: 1353, Amount: 1)	
+[7/27/18 05:38PM]	Bought Item from shop (0) (Id: 590, Amount: 1)	
+[7/27/18 05:39PM]	Bought Item from shop (0) (Id: 1523, Amount: 10)	
+[7/27/18 05:40PM]	Picked up an item (Id: Item [id=995, amount=78160], Amount: 78160) at Position: 3095, 3497, 0	
+[7/27/18 05:40PM]	Picked up an item (Id: Item [id=2714, amount=1], Amount: 1) at Position: 3095, 3497, 0	

@@ -1,0 +1,110 @@
+[3/8/18 01:57AM]	Dropped Item (Id: Item [id=11694, amount=1], Amount: 1) at Position: 3093, 3491, 0	
+[3/8/18 03:18AM]	Sent Private-Message to User: vali and said 'f'	
+[3/11/18 06:33PM]	Thrasher has won 1 Warrior helm from Vali.	
+[3/11/18 06:33PM]	Thrasher has won 1 Granite maul from Vali.	
+[3/11/18 06:33PM]	Thrasher has won 1 Armadyl godsword from Vali.	
+[3/14/18 01:10AM]	Dropped Item (Id: Item [id=20093, amount=1], Amount: 1) at Position: 2958, 3615, 0	
+[3/14/18 01:10AM]	Dropped Item (Id: Item [id=20090, amount=1], Amount: 1) at Position: 2958, 3615, 0	
+[3/14/18 01:16AM]	Thrasher has won 20000000 Coins from Vali.	
+[3/14/18 01:18AM]	Thrasher has won 20000000 Coins from Vali.	
+[3/14/18 01:20AM]	Thrasher has won 20000000 Coins from Vali.	
+[3/14/18 02:39AM]	Thrasher has won 20000000 Coins from Vali.	
+[3/14/18 02:43AM]	Thrasher has won 100000000 Coins from Vali.	
+[3/14/18 02:43AM]	Thrasher has won 1 Santa hat from Vali.	
+[3/14/18 03:21AM]	Picked up an item (Id: Item [id=6759, amount=1], Amount: 1) at Position: 3106, 3935, 0	
+[3/14/18 03:21AM]	Picked up an item (Id: Item [id=4093, amount=1], Amount: 1) at Position: 3107, 3935, 0	
+[3/14/18 03:22AM]	Picked up an item (Id: Item [id=7398, amount=1], Amount: 1) at Position: 3106, 3934, 0	
+---[3/15/18 12:44AM]	---
+Thrasher has given 1 Rock-Shell Legs to Vali
+---[3/15/18 12:44AM]	---
+Thrasher has received 1 Verac'S Plateskirt from Vali
+Thrasher has received 1 Guthan'S Platebody from Vali
+[3/15/18 06:55PM]	Picked up an item (Id: Item [id=1405, amount=1], Amount: 1) at Position: 2946, 4386, 0	
+[3/15/18 06:57PM]	Picked up an item (Id: Item [id=5953, amount=40], Amount: 40) at Position: 2946, 4386, 0	
+[3/15/18 06:57PM]	Picked up an item (Id: Item [id=1624, amount=5], Amount: 5) at Position: 2946, 4386, 0	
+[3/15/18 06:58PM]	Picked up an item (Id: Item [id=566, amount=250], Amount: 250) at Position: 2946, 4385, 0	
+[3/15/18 06:58PM]	Picked up an item (Id: Item [id=12158, amount=1], Amount: 1) at Position: 2946, 4386, 0	
+[3/15/18 06:58PM]	Picked up an item (Id: Item [id=987, amount=1], Amount: 1) at Position: 2946, 4386, 0	
+[3/15/18 07:00PM]	Picked up an item (Id: Item [id=5321, amount=24], Amount: 24) at Position: 2946, 4385, 0	
+[3/15/18 07:00PM]	Picked up an item (Id: Item [id=6759, amount=1], Amount: 1) at Position: 2946, 4386, 0	
+[3/15/18 07:00PM]	Picked up an item (Id: Item [id=12163, amount=1], Amount: 1) at Position: 2950, 4385, 0	
+[3/15/18 07:00PM]	Picked up an item (Id: Item [id=1405, amount=1], Amount: 1) at Position: 2951, 4384, 0	
+[3/15/18 07:24PM]	Picked up an item (Id: Item [id=11230, amount=2], Amount: 2) at Position: 3090, 3529, 0	
+[3/15/18 07:24PM]	Picked up an item (Id: Item [id=385, amount=1], Amount: 1) at Position: 3090, 3529, 0	
+[3/15/18 09:46PM]	Recieved Private-Message from User: Vali which said 'yo '	
+[3/26/18 08:38PM]	Picked up an item (Id: Item [id=9244, amount=11], Amount: 11) at Position: 1778, 5340, 1	
+[3/26/18 08:38PM]	Picked up an item (Id: Item [id=9244, amount=3], Amount: 3) at Position: 1778, 5340, 1	
+[3/26/18 08:38PM]	Picked up an item (Id: Item [id=2359, amount=3], Amount: 3) at Position: 1778, 5340, 1	
+[3/26/18 08:38PM]	Dropped Item (Id: Item [id=2359, amount=1], Amount: 1) at Position: 1778, 5340, 1	
+[3/26/18 08:38PM]	Dropped Item (Id: Item [id=2359, amount=1], Amount: 1) at Position: 1778, 5340, 1	
+[3/26/18 08:38PM]	Dropped Item (Id: Item [id=2359, amount=1], Amount: 1) at Position: 1778, 5340, 1	
+[3/26/18 08:38PM]	Picked up an item (Id: Item [id=565, amount=27], Amount: 27) at Position: 1778, 5340, 1	
+[3/26/18 08:38PM]	Picked up an item (Id: Item [id=2359, amount=1], Amount: 1) at Position: 1778, 5340, 1	
+[3/26/18 08:38PM]	Picked up an item (Id: Item [id=2359, amount=1], Amount: 1) at Position: 1778, 5340, 1	
+[3/26/18 08:38PM]	Picked up an item (Id: Item [id=2359, amount=1], Amount: 1) at Position: 1778, 5340, 1	
+[3/26/18 08:38PM]	Picked up an item (Id: Item [id=12160, amount=1], Amount: 1) at Position: 1778, 5340, 1	
+[3/26/18 08:38PM]	Picked up an item (Id: Item [id=536, amount=1], Amount: 1) at Position: 1778, 5340, 1	
+[3/26/18 08:38PM]	Picked up an item (Id: Item [id=6759, amount=1], Amount: 1) at Position: 1778, 5340, 1	
+[3/26/18 08:38PM]	Picked up an item (Id: Item [id=985, amount=1], Amount: 1) at Position: 1778, 5340, 1	
+[3/26/18 08:38PM]	Dropped Item (Id: Item [id=2359, amount=1], Amount: 1) at Position: 1778, 5340, 1	
+[3/26/18 08:38PM]	Dropped Item (Id: Item [id=2359, amount=1], Amount: 1) at Position: 1778, 5340, 1	
+[3/26/18 08:38PM]	Dropped Item (Id: Item [id=2359, amount=1], Amount: 1) at Position: 1778, 5340, 1	
+[3/26/18 08:46PM]	Picked up an item (Id: Item [id=811, amount=14], Amount: 14) at Position: 1779, 5342, 1	
+[3/26/18 08:46PM]	Picked up an item (Id: Item [id=868, amount=19], Amount: 19) at Position: 1779, 5342, 1	
+[3/26/18 08:46PM]	Picked up an item (Id: Item [id=9244, amount=1], Amount: 1) at Position: 1779, 5342, 1	
+[3/26/18 08:46PM]	Picked up an item (Id: Item [id=9244, amount=1], Amount: 1) at Position: 1779, 5343, 1	
+[3/26/18 08:53PM]	Picked up an item (Id: Item [id=12160, amount=8], Amount: 8) at Position: 1780, 5340, 1	
+[3/26/18 08:53PM]	Picked up an item (Id: Item [id=2714, amount=1], Amount: 1) at Position: 1780, 5340, 1	
+---[5/21/18 12:25AM]	---
+Thrasher has given 2 Super Restore (4) to Vali
+Thrasher has given 8 Rune Knife to Vali
+Thrasher has given 1 Black D'Hide Body to Vali
+Thrasher has given 11 Rune Dart to Vali
+[5/21/18 12:31AM]	Dropped Item (Id: Item [id=6882, amount=1], Amount: 1) at Position: 3094, 3497, 0	
+[5/21/18 12:31AM]	Picked up an item (Id: Item [id=6882, amount=1], Amount: 1) at Position: 3094, 3497, 0	
+[5/21/18 03:40PM]	Picked up an item (Id: Item [id=1113, amount=1], Amount: 1) at Position: 3086, 3497, 0	
+[5/21/18 03:40PM]	Picked up an item (Id: Item [id=1197, amount=1], Amount: 1) at Position: 3086, 3498, 0	
+[5/21/18 03:40PM]	Picked up an item (Id: Item [id=592, amount=1], Amount: 1) at Position: 3086, 3498, 0	
+[5/21/18 03:40PM]	Thrasher received Abyssal whip from an Abyssal Demon	
+[5/21/18 03:41PM]	Picked up an item (Id: Item [id=4151, amount=1], Amount: 1) at Position: 3088, 3498, 0	
+[5/21/18 03:41PM]	Picked up an item (Id: Item [id=562, amount=10], Amount: 10) at Position: 3087, 3498, 0	
+[5/21/18 03:41PM]	Picked up an item (Id: Item [id=12158, amount=5], Amount: 5) at Position: 3087, 3498, 0	
+[5/21/18 03:41PM]	Picked up an item (Id: Item [id=592, amount=1], Amount: 1) at Position: 3087, 3498, 0	
+[5/21/18 03:41PM]	Picked up an item (Id: Item [id=213, amount=1], Amount: 1) at Position: 3087, 3498, 0	
+[5/21/18 03:41PM]	Picked up an item (Id: Item [id=1147, amount=1], Amount: 1) at Position: 3087, 3498, 0	
+[5/21/18 03:41PM]	Picked up an item (Id: Item [id=1197, amount=1], Amount: 1) at Position: 3087, 3498, 0	
+[5/21/18 03:41PM]	Picked up an item (Id: Item [id=592, amount=1], Amount: 1) at Position: 3086, 3498, 0	
+[5/23/18 11:06PM]	Dropped Item (Id: Item [id=19748, amount=1], Amount: 1) at Position: 3086, 3517, 0	
+[7/4/18 02:28AM]	Thrasher has won 1 Amulet of glory (4) from Vali.	
+[7/4/18 02:28AM]	Thrasher has won 1 Zamorak team hood from Vali.	
+[7/4/18 02:28AM]	Thrasher has won 1 Zamorak team cape from Vali.	
+[7/4/18 02:28AM]	Thrasher has won 1 Ahrim's robetop from Vali.	
+[7/4/18 02:28AM]	Thrasher has won 1 Ring of duelling (8) from Vali.	
+[7/4/18 02:28AM]	Thrasher has won 1 Granite maul from Vali.	
+[7/4/18 02:28AM]	Thrasher has won 1 Ahrim's robeskirt from Vali.	
+[7/4/18 02:28AM]	Thrasher has won 1 Staff of light from Vali.	
+---[7/5/18 02:36AM]	---
+Thrasher has received 24000 Coins from Vali
+---[7/5/18 02:36AM]	---
+Thrasher has given 1 Amulet Of Glory (4) to Vali
+[7/5/18 05:00PM]	Picked up an item (Id: Item [id=868, amount=2], Amount: 2) at Position: 3088, 3528, 0	
+[7/5/18 05:00PM]	Picked up an item (Id: Item [id=10159, amount=2], Amount: 2) at Position: 3088, 3528, 0	
+[7/5/18 05:00PM]	Picked up an item (Id: Item [id=868, amount=4], Amount: 4) at Position: 3088, 3528, 0	
+[7/5/18 05:00PM]	Picked up an item (Id: Item [id=868, amount=1], Amount: 1) at Position: 3089, 3527, 0	
+[7/8/18 06:28PM]	Bought Item from shop (8) (Id: 2491, Amount: 1)	
+[7/8/18 06:28PM]	Bought Item from shop (8) (Id: 2497, Amount: 1)	
+[7/8/18 06:28PM]	Bought Item from shop (8) (Id: 2503, Amount: 1)	
+[7/8/18 06:28PM]	Bought Item from shop (8) (Id: 3749, Amount: 1)	
+[7/8/18 06:28PM]	Bought Item from shop (8) (Id: 10499, Amount: 1)	
+[7/8/18 06:28PM]	Bought Item from shop (8) (Id: 9185, Amount: 1)	
+[7/8/18 06:28PM]	Bought Item from shop (8) (Id: 9144, Amount: 400)	
+[7/8/18 06:28PM]	Bought Item from shop (7) (Id: 1201, Amount: 1)	
+[7/8/18 06:28PM]	Bought Item from shop (27) (Id: 1712, Amount: 5)	
+[7/8/18 06:28PM]	Bought Item from shop (27) (Id: 3105, Amount: 1)	
+[7/8/18 06:28PM]	Bought Item from shop (27) (Id: 2550, Amount: 1)	
+---[7/9/18 01:07AM]	---
+Thrasher has given 100000 Null to Vali
+[7/9/18 01:22AM]	Dropped Item (Id: Item [id=229, amount=1], Amount: 1) at Position: 2861, 5354, 2	
+[7/26/18 03:03AM]	Dropped Item (Id: Item [id=15272, amount=1], Amount: 1) at Position: 3091, 3955, 0	
+[7/26/18 03:03AM]	Dropped Item (Id: Item [id=15272, amount=1], Amount: 1) at Position: 3091, 3955, 0	
+[7/26/18 03:03AM]	Dropped Item (Id: Item [id=15272, amount=1], Amount: 1) at Position: 3091, 3955, 0	

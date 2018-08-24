@@ -1,0 +1,7 @@
+(0) - Always Drops // 100%  1/1
+(1) - Almost Always // 50%  1/2
+(2) - Very Common // 20%  1/5
+(3) - Common // 5%  1/20
+(4) - Uncommon // 2%  1/50
+(5) - Rare // 0.5%  1/200
+(6) - Legendary // 0.2%  1/500

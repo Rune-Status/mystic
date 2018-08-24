@@ -1,0 +1,186 @@
+[7/12/18 05:58AM]	Dropped Item (Id: Item [id=3842, amount=1], Amount: 50000) at Position: 3092, 3481, 0	
+[7/12/18 05:58AM]	Dropped Item (Id: Item [id=1837, amount=1], Amount: 50000) at Position: 3092, 3481, 0	
+[7/12/18 05:59AM]	Dropped Item (Id: Item [id=11118, amount=1], Amount: 50000) at Position: 3092, 3481, 0	
+[7/12/18 05:59AM]	Dropped Item (Id: Item [id=1323, amount=1], Amount: 50000) at Position: 3092, 3481, 0	
+[7/12/18 05:59AM]	Dropped Item (Id: Item [id=1007, amount=1], Amount: 50000) at Position: 3092, 3481, 0	
+[7/12/18 05:59AM]	Dropped Item (Id: Item [id=1067, amount=1], Amount: 50000) at Position: 3092, 3481, 0	
+[7/12/18 05:59AM]	Dropped Item (Id: Item [id=1115, amount=1], Amount: 50000) at Position: 3092, 3481, 0	
+[7/12/18 05:59AM]	Dropped Item (Id: Item [id=380, amount=50], Amount: 0) at Position: 3092, 3481, 0	
+[7/12/18 05:59AM]	Dropped Item (Id: Item [id=554, amount=200], Amount: 0) at Position: 3092, 3481, 0	
+[7/12/18 05:59AM]	Dropped Item (Id: Item [id=579, amount=1], Amount: 50000) at Position: 3092, 3481, 0	
+[7/12/18 05:59AM]	Dropped Item (Id: Item [id=577, amount=1], Amount: 50000) at Position: 3092, 3481, 0	
+[7/12/18 05:59AM]	Dropped Item (Id: Item [id=1011, amount=1], Amount: 50000) at Position: 3092, 3481, 0	
+[7/12/18 05:59AM]	Dropped Item (Id: Item [id=557, amount=200], Amount: 0) at Position: 3092, 3481, 0	
+[7/12/18 05:59AM]	Dropped Item (Id: Item [id=555, amount=200], Amount: 0) at Position: 3092, 3481, 0	
+[7/12/18 05:59AM]	Dropped Item (Id: Item [id=556, amount=400], Amount: 0) at Position: 3092, 3481, 0	
+[7/12/18 05:59AM]	Dropped Item (Id: Item [id=558, amount=400], Amount: 0) at Position: 3092, 3481, 0	
+[7/12/18 05:59AM]	Dropped Item (Id: Item [id=1129, amount=1], Amount: 50000) at Position: 3092, 3481, 0	
+[7/12/18 05:59AM]	Dropped Item (Id: Item [id=882, amount=250], Amount: 0) at Position: 3092, 3481, 0	
+[7/12/18 05:59AM]	Dropped Item (Id: Item [id=841, amount=1], Amount: 50000) at Position: 3092, 3481, 0	
+[7/12/18 05:59AM]	Dropped Item (Id: Item [id=1379, amount=1], Amount: 50000) at Position: 3092, 3481, 0	
+[7/12/18 05:59AM]	Dropped Item (Id: Item [id=1095, amount=1], Amount: 50000) at Position: 3092, 3481, 0	
+[7/12/18 05:59AM]	Dropped Item (Id: Item [id=8013, amount=10], Amount: 0) at Position: 3092, 3481, 0	
+[7/12/18 05:59AM]	Dropped Item (Id: Item [id=995, amount=50000], Amount: 0) at Position: 3092, 3481, 0	
+[7/12/18 05:59AM]	Dropped Item (Id: Item [id=1856, amount=1], Amount: 0) at Position: 3092, 3481, 0	
+---[7/12/18 06:01AM]	---
+Plug Pure has received 2 Highwayman Mask from Plug
+Plug Pure has received 2 Black Beret from Plug
+Plug Pure has received 1 D'Hide Body (T) from Plug
+Plug Pure has received 1 Guthix Cloak from Plug
+Plug Pure has received 2 Black Plateskirt (G) from Plug
+Plug Pure has received 6 Guthix Mitre from Plug
+Plug Pure has received 1 Black Platebody (T) from Plug
+Plug Pure has received 5 Zamorak Mitre from Plug
+Plug Pure has received 3 Flared Trousers from Plug
+Plug Pure has received 2 Blue Skirt (G) from Plug
+Plug Pure has received 6 Saradomin Robe Top from Plug
+Plug Pure has received 3 Black Full Helm (T) from Plug
+Plug Pure has received 5 Blue Skirt (T) from Plug
+Plug Pure has received 3 Zamorak Robe Top from Plug
+Plug Pure has received 4 Black Kiteshield (T) from Plug
+Plug Pure has received 2 Wizard Robe (G) from Plug
+Plug Pure has received 1 Black Boater from Plug
+Plug Pure has received 2 Wizard Robe (T) from Plug
+Plug Pure has received 3 Saradomin Robe Legs from Plug
+Plug Pure has received 1 Black Platelegs (G) from Plug
+Plug Pure has received 1 Wizard Hat (G) from Plug
+Plug Pure has received 2 Guthix Robe Legs from Plug
+Plug Pure has received 4 Black Full Helm (G) from Plug
+Plug Pure has received 3 Wizard Hat (T) from Plug
+Plug Pure has received 2 Adam Kiteshield (T) from Plug
+Plug Pure has received 1 Desert Boots from Plug
+Plug Pure has received 1 Bat Mask from Plug
+---[7/12/18 06:02AM]	---
+Plug Pure has received 1 Agile Top from Plug
+---[7/12/18 06:04AM]	---
+Plug Pure has received 1 Green Ele' Skirt from Plug
+Plug Pure has received 3 White Beret from Plug
+Plug Pure has received 1 D'Hide Body (G) from Plug
+Plug Pure has received 1 Saradomin Cloak from Plug
+Plug Pure has received 1 D'Hide Chaps (G) from Plug
+Plug Pure has received 1 Saradomin Mitre from Plug
+Plug Pure has received 1 D'Hide Chaps (G) from Plug
+Plug Pure has received 3 Adam Plateskirt (G) from Plug
+Plug Pure has received 4 A Powdered Wig from Plug
+Plug Pure has received 1 Black Platelegs (T) from Plug
+Plug Pure has received 3 Orange Boater from Plug
+Plug Pure has received 2 Green Boater from Plug
+Plug Pure has received 2 Pantaloons from Plug
+Plug Pure has received 1 Blue Boater from Plug
+Plug Pure has received 1 Guthix Robe Top from Plug
+Plug Pure has received 2 Sleeping Cap from Plug
+Plug Pure has received 1 Black Platebody (G) from Plug
+Plug Pure has received 2 Black Ele' Shirt from Plug
+Plug Pure has received 1 Black Ele' Legs from Plug
+Plug Pure has received 2 Zamorak Robe Legs from Plug
+Plug Pure has received 2 Black Kiteshield (G) from Plug
+Plug Pure has received 1 Red Ele' Legs from Plug
+Plug Pure has received 1 Adam Full Helm (T) from Plug
+Plug Pure has received 1 Green Ele' Legs from Plug
+Plug Pure has received 1 Adam Platebody (G) from Plug
+Plug Pure has received 1 Purple Ele' Shirt from Plug
+Plug Pure has received 2 Red Ele' Blouse from Plug
+Plug Pure has received 1 Blue Ele' Blouse from Plug
+---[7/12/18 06:05AM]	---
+Plug Pure has received 1 Purple Ele' Blouse from Plug
+Plug Pure has received 1 Blue Ele' Shirt from Plug
+Plug Pure has received 1 Adam Platelegs (T) from Plug
+Plug Pure has received 1 Blue Ele' Legs from Plug
+Plug Pure has received 1 Fremennik Blade from Plug
+Plug Pure has received 1 D'Hide Body (T) from Plug
+Plug Pure has received 1 Dark Cavalier from Plug
+Plug Pure has received 1 Adam Platelegs (G) from Plug
+Plug Pure has received 1 Ranger Boots from Plug
+Plug Pure has received 2 Adam Full Helm (G) from Plug
+Plug Pure has received 1 Cat Mask from Plug
+Plug Pure has received 1 Red Ele' Skirt from Plug
+Plug Pure has received 1 Wolf Mask from Plug
+Plug Pure has received 1 Blue Ele' Skirt from Plug
+---[7/12/18 05:19PM]	---
+Plug Pure has received 20000 Coins from Plug
+Plug Pure has received 1 Regen Bracelet from Plug
+[7/12/18 05:19PM]	Bought Item from shop (27) (Id: 3844, Amount: 1)	
+[7/12/18 05:19PM]	Bought Item from shop (27) (Id: 3842, Amount: 1)	
+[7/12/18 05:19PM]	Dropped Item (Id: Item [id=3842, amount=1], Amount: 0) at Position: 3088, 3502, 0	
+[7/12/18 05:20PM]	Picked up an item (Id: Item [id=2714, amount=1], Amount: 1) at Position: 3262, 3271, 0	
+[7/12/18 05:21PM]	Picked up an item (Id: Item [id=2714, amount=1], Amount: 1) at Position: 3263, 3271, 0	
+[7/12/18 05:23PM]	Picked up an item (Id: Item [id=2714, amount=1], Amount: 1) at Position: 3257, 3277, 0	
+[7/12/18 05:23PM]	Picked up an item (Id: Item [id=985, amount=1], Amount: 1) at Position: 3258, 3277, 0	
+[7/12/18 05:24PM]	Picked up an item (Id: Item [id=985, amount=1], Amount: 1) at Position: 3260, 3268, 0	
+[7/12/18 05:24PM]	Picked up an item (Id: Item [id=2714, amount=1], Amount: 1) at Position: 3260, 3271, 0	
+[7/12/18 05:25PM]	Picked up an item (Id: Item [id=987, amount=1], Amount: 1) at Position: 3261, 3274, 0	
+[7/12/18 05:26PM]	Picked up an item (Id: Item [id=2714, amount=1], Amount: 1) at Position: 3262, 3272, 0	
+[7/12/18 05:27PM]	Picked up an item (Id: Item [id=2714, amount=1], Amount: 1) at Position: 3263, 3271, 0	
+[7/12/18 05:28PM]	Picked up an item (Id: Item [id=2714, amount=1], Amount: 1) at Position: 3260, 3285, 0	
+[7/12/18 05:28PM]	Picked up an item (Id: Item [id=987, amount=1], Amount: 1) at Position: 3255, 3278, 0	
+---[7/12/18 07:21PM]	---
+Plug Pure has given 400 Willow Logs to Plug
+Plug Pure has given 67457 Coins to Plug
+Plug Pure has given 400 Iron Ore to Plug
+Plug Pure has given 25 Dragon Bones to Plug
+Plug Pure has given 2 Uncut Dragonstone to Plug
+[7/12/18 07:21PM]	Dropped Item (Id: Item [id=4131, amount=1], Amount: 0) at Position: 3084, 3499, 0	
+---[7/14/18 02:41AM]	---
+Plug Pure has received 1 Purple Ele' Blouse from Plug
+Plug Pure has received 4 Highwayman Mask from Plug
+Plug Pure has received 6 Black Beret from Plug
+Plug Pure has received 1 Guthix Cloak from Plug
+Plug Pure has received 2 Zamorak Cloak from Plug
+Plug Pure has received 2 D'Hide Chaps (G) from Plug
+Plug Pure has received 5 Saradomin Mitre from Plug
+Plug Pure has received 4 Black Plateskirt (G) from Plug
+Plug Pure has received 1 Adam Plateskirt (T) from Plug
+Plug Pure has received 6 Guthix Mitre from Plug
+Plug Pure has received 1 Adam Plateskirt (G) from Plug
+Plug Pure has received 1 D'Hide Chaps (G) from Plug
+Plug Pure has received 6 Black Platebody (T) from Plug
+Plug Pure has received 2 Red Boater from Plug
+Plug Pure has received 2 A Powdered Wig from Plug
+Plug Pure has received 4 Zamorak Mitre from Plug
+Plug Pure has received 3 Blue Skirt (T) from Plug
+Plug Pure has received 5 Zamorak Robe Top from Plug
+Plug Pure has received 3 Blue Boater from Plug
+Plug Pure has received 3 Black Kiteshield (T) from Plug
+Plug Pure has received 1 Black Boater from Plug
+Plug Pure has received 7 Saradomin Robe Legs from Plug
+Plug Pure has received 6 Black Platelegs (G) from Plug
+Plug Pure has received 6 Black Full Helm (G) from Plug
+Plug Pure has received 7 Zamorak Robe Legs from Plug
+Plug Pure has received 2 Red Ele' Shirt from Plug
+Plug Pure has received 8 Black Kiteshield (G) from Plug
+Plug Pure has received 1 Blue Ele' Shirt from Plug
+---[7/14/18 02:43AM]	---
+Plug Pure has received 1 Green Ele' Skirt from Plug
+Plug Pure has received 4 Blue Beret from Plug
+Plug Pure has received 2 White Beret from Plug
+Plug Pure has received 1 D'Hide Body (G) from Plug
+Plug Pure has received 1 D'Hide Chaps (T) from Plug
+Plug Pure has received 2 Black Platelegs (T) from Plug
+Plug Pure has received 3 Saradomin Robe Top from Plug
+Plug Pure has received 6 Flared Trousers from Plug
+Plug Pure has received 4 Blue Skirt (G) from Plug
+Plug Pure has received 9 Black Full Helm (T) from Plug
+Plug Pure has received 3 Pantaloons from Plug
+Plug Pure has received 2 Guthix Robe Top from Plug
+Plug Pure has received 4 Sleeping Cap from Plug
+Plug Pure has received 4 Wizard Robe (G) from Plug
+Plug Pure has received 2 Black Platebody (G) from Plug
+Plug Pure has received 5 Wizard Robe (T) from Plug
+Plug Pure has received 2 Wizard Hat (G) from Plug
+Plug Pure has received 5 Guthix Robe Legs from Plug
+Plug Pure has received 1 Wizard Hat (T) from Plug
+Plug Pure has received 1 Adam Kiteshield (T) from Plug
+Plug Pure has received 2 Green Ele' Legs from Plug
+Plug Pure has received 2 Purple Ele' Shirt from Plug
+Plug Pure has received 1 Adam Platelegs (G) from Plug
+Plug Pure has received 1 Sheep Mask from Plug
+Plug Pure has received 3 Penguin Mask from Plug
+Plug Pure has received 2 White Ele' Skirt from Plug
+Plug Pure has received 2 Cat Mask from Plug
+Plug Pure has received 1 Wolf Mask from Plug
+---[7/14/18 02:44AM]	---
+Plug Pure has received 1 Wizard Boots from Plug
+Plug Pure has received 1 Amulet Of Fury from Plug
+Plug Pure has received 1 Blue Ele' Skirt from Plug
+[7/14/18 02:44AM]	Dropped Item (Id: Item [id=1837, amount=1], Amount: 0) at Position: 3094, 3493, 0	
+[7/14/18 02:44AM]	Dropped Item (Id: Item [id=1712, amount=1], Amount: 0) at Position: 3094, 3493, 0	

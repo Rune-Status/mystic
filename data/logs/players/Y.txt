@@ -1,0 +1,99 @@
+[7/12/18 12:35PM]	Bought Item from shop (7) (Id: 4587, Amount: 1)	
+[7/12/18 12:35PM]	Bought Item from shop (7) (Id: 1333, Amount: 1)	
+[7/12/18 12:36PM]	Picked up an item (Id: Item [id=12158, amount=2], Amount: 2) at Position: 3262, 3271, 0	
+[7/12/18 12:37PM]	Picked up an item (Id: Item [id=12158, amount=4], Amount: 4) at Position: 3261, 3272, 0	
+[7/12/18 12:37PM]	Picked up an item (Id: Item [id=12158, amount=4], Amount: 4) at Position: 3261, 3272, 0	
+[7/12/18 12:38PM]	Picked up an item (Id: Item [id=12158, amount=4], Amount: 4) at Position: 3260, 3271, 0	
+[7/12/18 12:44PM]	Bought Item from shop (27) (Id: 1725, Amount: 1)	
+[7/12/18 12:44PM]	Bought Item from shop (27) (Id: 11133, Amount: 1)	
+[7/12/18 12:44PM]	Bought Item from shop (27) (Id: 3105, Amount: 1)	
+[7/12/18 12:44PM]	Bought Item from shop (7) (Id: 1079, Amount: 1)	
+[7/12/18 12:44PM]	Bought Item from shop (7) (Id: 10828, Amount: 1)	
+[7/12/18 12:44PM]	Bought Item from shop (7) (Id: 1127, Amount: 1)	
+[7/12/18 12:45PM]	Sent Private-Message to User: cloudtheonly and said 'lets max'	
+[7/12/18 12:46PM]	Recieved Private-Message from User: Cloudtheonly which said 'lol sure i think im gonna train combat first '	
+[7/12/18 12:46PM]	Sent Private-Message to User: cloudtheonly and said 'same '	
+[7/12/18 12:46PM]	Sent Private-Message to User: cloudtheonly and said 'grind out 138 comb '	
+[7/12/18 12:46PM]	Sent Private-Message to User: cloudtheonly and said 'see the guy at home, wizard, he teles u around '	
+[7/12/18 12:46PM]	Sent Private-Message to User: cloudtheonly and said 'if u need starter cash id thieve its decent '	
+[7/12/18 12:55PM]	Bought Item from shop (27) (Id: 2441, Amount: 50)	
+[7/12/18 12:56PM]	Bought Item from shop (27) (Id: 2443, Amount: 50)	
+[7/12/18 12:56PM]	Bought Item from shop (27) (Id: 2437, Amount: 50)	
+[7/12/18 12:57PM]	Picked up an item (Id: Item [id=12158, amount=6], Amount: 6) at Position: 3045, 9582, 0	
+[7/12/18 12:58PM]	Picked up an item (Id: Item [id=526, amount=1], Amount: 1) at Position: 3045, 9582, 0	
+[7/12/18 12:58PM]	Dropped Item (Id: Item [id=526, amount=1], Amount: 1) at Position: 3046, 9582, 0	
+[7/12/18 12:58PM]	Picked up an item (Id: Item [id=987, amount=1], Amount: 1) at Position: 3046, 9582, 0	
+[7/12/18 12:58PM]	Picked up an item (Id: Item [id=5314, amount=1], Amount: 1) at Position: 3046, 9582, 0	
+[7/12/18 12:59PM]	Picked up an item (Id: Item [id=12159, amount=5], Amount: 5) at Position: 3046, 9581, 0	
+[7/12/18 01:00PM]	Picked up an item (Id: Item [id=6759, amount=1], Amount: 1) at Position: 3046, 9580, 0	
+[7/12/18 01:00PM]	Picked up an item (Id: Item [id=12159, amount=1], Amount: 1) at Position: 3046, 9580, 0	
+[7/12/18 01:00PM]	Picked up an item (Id: Item [id=12159, amount=2], Amount: 2) at Position: 3045, 9580, 0	
+[7/12/18 01:00PM]	Dropped Item (Id: Item [id=379, amount=1], Amount: 1) at Position: 3046, 9581, 0	
+[7/12/18 01:00PM]	Dropped Item (Id: Item [id=379, amount=1], Amount: 1) at Position: 3046, 9581, 0	
+[7/12/18 01:00PM]	Picked up an item (Id: Item [id=6759, amount=1], Amount: 1) at Position: 3046, 9581, 0	
+[7/12/18 01:00PM]	Dropped Item (Id: Item [id=6759, amount=1], Amount: 1) at Position: 3045, 9581, 0	
+[7/12/18 01:00PM]	Picked up an item (Id: Item [id=6759, amount=1], Amount: 1) at Position: 3045, 9581, 0	
+[7/12/18 01:00PM]	Dropped Item (Id: Item [id=6759, amount=1], Amount: 1) at Position: 3045, 9581, 0	
+[7/12/18 01:01PM]	Picked up an item (Id: Item [id=6759, amount=1], Amount: 1) at Position: 3045, 9581, 0	
+[7/12/18 01:01PM]	Picked up an item (Id: Item [id=2714, amount=1], Amount: 1) at Position: 3045, 9581, 0	
+[7/12/18 01:02PM]	Picked up an item (Id: Item [id=12158, amount=1], Amount: 1) at Position: 3045, 9582, 0	
+[7/12/18 01:03PM]	Picked up an item (Id: Item [id=12158, amount=4], Amount: 4) at Position: 3044, 9582, 0	
+[7/12/18 01:03PM]	Picked up an item (Id: Item [id=2714, amount=1], Amount: 1) at Position: 3044, 9583, 0	
+[7/12/18 01:03PM]	Picked up an item (Id: Item [id=379, amount=1], Amount: 1) at Position: 3046, 9582, 0	
+[7/12/18 01:03PM]	Picked up an item (Id: Item [id=379, amount=1], Amount: 1) at Position: 3046, 9581, 0	
+[7/12/18 01:04PM]	Picked up an item (Id: Item [id=12158, amount=7], Amount: 7) at Position: 3046, 9581, 0	
+[7/12/18 01:05PM]	Picked up an item (Id: Item [id=987, amount=1], Amount: 1) at Position: 3046, 9581, 0	
+[7/12/18 01:06PM]	Picked up an item (Id: Item [id=12158, amount=4], Amount: 4) at Position: 3046, 9582, 0	
+[7/12/18 01:06PM]	Recieved Private-Message from User: Cloudtheonly which said 'rock crabs to 70? good idea? '	
+[7/12/18 01:06PM]	Bought Item from shop (7) (Id: 1201, Amount: 1)	
+[7/12/18 01:06PM]	Sent Private-Message to User: cloudtheonly and said '70 melees, yes '	
+[7/12/18 01:07PM]	Sent Private-Message to User: cloudtheonly and said 'stuff can hit hard with low def and armor'	
+[7/12/18 01:07PM]	Bought Item from shop (53) (Id: 4155, Amount: 1)	
+[7/12/18 01:08PM]	Sold Item to shop (Id: 443, Amount: 5)	
+[7/12/18 01:08PM]	Sold Item to shop (Id: 443, Amount: 10)	
+[7/12/18 01:08PM]	Sold Item to shop (Id: 443, Amount: 10)	
+[7/12/18 01:08PM]	Sold Item to shop (Id: 443, Amount: 5)	
+[7/12/18 01:10PM]	Sent Private-Message to User: cloudtheonly and said 'go get 80+ thieve and steal us some onyxs bb '	
+[7/12/18 01:10PM]	Picked up an item (Id: Item [id=12159, amount=5], Amount: 5) at Position: 3042, 9582, 0	
+[7/12/18 01:10PM]	Picked up an item (Id: Item [id=2714, amount=1], Amount: 1) at Position: 3043, 9582, 0	
+[7/12/18 01:10PM]	Sent Private-Message to User: cloudtheonly and said 'gilded plateskirt'	
+[7/12/18 01:10PM]	Picked up an item (Id: Item [id=526, amount=1], Amount: 1) at Position: 3043, 9582, 0	
+[7/12/18 01:10PM]	Recieved Private-Message from User: Cloudtheonly which said 'im almost 70 att'	
+[7/12/18 01:10PM]	Picked up an item (Id: Item [id=6759, amount=1], Amount: 1) at Position: 3043, 9581, 0	
+[7/12/18 01:10PM]	Dropped Item (Id: Item [id=526, amount=1], Amount: 1) at Position: 3043, 9581, 0	
+[7/12/18 01:11PM]	Sent Private-Message to User: cloudtheonly and said 'lets get high comb and boss '	
+[7/12/18 01:11PM]	Recieved Private-Message from User: Cloudtheonly which said 'yeah that sounds fun'	
+[7/12/18 01:11PM]	Picked up an item (Id: Item [id=12159, amount=4], Amount: 4) at Position: 3047, 9582, 0	
+[7/12/18 01:11PM]	Picked up an item (Id: Item [id=6759, amount=1], Amount: 1) at Position: 3048, 9582, 0	
+[7/12/18 01:11PM]	Sent Private-Message to User: cloudtheonly and said 'osrs is back '	
+[7/12/18 01:11PM]	Recieved Private-Message from User: Cloudtheonly which said 'it seems like you have good luck all the time lol '	
+[7/12/18 01:12PM]	Picked up an item (Id: Item [id=2714, amount=1], Amount: 1) at Position: 3048, 9582, 0	
+[7/12/18 01:12PM]	Picked up an item (Id: Item [id=199, amount=1], Amount: 1) at Position: 3047, 9582, 0	
+[7/12/18 01:12PM]	Recieved Private-Message from User: Cloudtheonly which said 'so were ditching this rsps right? '	
+[7/12/18 01:12PM]	Sent Private-Message to User: cloudtheonly and said 'up to you '	
+[7/12/18 01:12PM]	Sent Private-Message to User: cloudtheonly and said 'gilded platelegs lmao '	
+[7/12/18 01:12PM]	Recieved Private-Message from User: Cloudtheonly which said 'lol '	
+[7/12/18 01:12PM]	Recieved Private-Message from User: Cloudtheonly which said 'caskets right?'	
+[7/12/18 01:12PM]	Sent Private-Message to User: cloudtheonly and said 'what u think?'	
+[7/12/18 01:12PM]	Recieved Private-Message from User: Cloudtheonly which said 'true lol'	
+[7/12/18 01:13PM]	Picked up an item (Id: Item [id=12158, amount=1], Amount: 1) at Position: 3047, 9582, 0	
+[7/12/18 01:13PM]	Picked up an item (Id: Item [id=2714, amount=1], Amount: 1) at Position: 3047, 9582, 0	
+[7/12/18 01:13PM]	Sent Private-Message to User: cloudtheonly and said 'want to keep playing this? '	
+[7/12/18 01:13PM]	Picked up an item (Id: Item [id=12159, amount=3], Amount: 3) at Position: 3046, 9582, 0	
+[7/12/18 01:13PM]	Recieved Private-Message from User: Cloudtheonly which said 'nah cause i know your not lets just go back to osrs'	
+[7/12/18 01:13PM]	Picked up an item (Id: Item [id=985, amount=1], Amount: 1) at Position: 3047, 9582, 0	
+[7/12/18 01:13PM]	Sent Private-Message to User: cloudtheonly and said 'true'	
+[7/12/18 01:14PM]	Recieved Private-Message from User: Cloudtheonly which said 'alright see you there '	
+[7/12/18 01:14PM]	Picked up an item (Id: Item [id=2714, amount=1], Amount: 1) at Position: 3045, 9581, 0	
+[7/12/18 01:14PM]	Picked up an item (Id: Item [id=12158, amount=4], Amount: 4) at Position: 3046, 9581, 0	
+[7/12/18 01:15PM]	Picked up an item (Id: Item [id=217, amount=1], Amount: 1) at Position: 3046, 9581, 0	
+[7/12/18 01:15PM]	Picked up an item (Id: Item [id=987, amount=1], Amount: 1) at Position: 3046, 9581, 0	
+[7/12/18 01:15PM]	Recieved Private-Message from User: Cloudtheonly which said 'lol whos gonna log off first'	
+[7/12/18 01:15PM]	Picked up an item (Id: Item [id=12158, amount=7], Amount: 7) at Position: 3046, 9581, 0	
+[7/12/18 01:15PM]	Sent Private-Message to User: cloudtheonly and said 'after task'	
+[7/12/18 01:16PM]	Picked up an item (Id: Item [id=12159, amount=5], Amount: 5) at Position: 3045, 9581, 0	
+[7/12/18 01:39PM]	Bought Item from shop (29) (Id: 305, Amount: 1)	
+[7/12/18 01:39PM]	Bought Item from shop (29) (Id: 301, Amount: 1)	
+[7/12/18 01:39PM]	Bought Item from shop (29) (Id: 311, Amount: 1)	
+[7/12/18 01:39PM]	Bought Item from shop (29) (Id: 303, Amount: 1)	
+[7/12/18 01:39PM]	Sold Item to shop (Id: 305, Amount: 1)	

@@ -1,0 +1,957 @@
+[3/7/18 04:36PM]	Bought Item from shop (Id: 12435, Amount: 10)	
+[3/7/18 05:26PM]	Picked up an item (Id: Item [id=1283, amount=1], Amount: 1) at Position: 3085, 3491, 0	
+[3/7/18 05:26PM]	Picked up an item (Id: Item [id=1319, amount=1], Amount: 1) at Position: 3086, 3491, 0	
+[3/7/18 05:26PM]	Picked up an item (Id: Item [id=592, amount=1], Amount: 1) at Position: 3086, 3491, 0	
+[3/7/18 08:52PM]	Bought Item from shop (Id: 12039, Amount: 1)	
+[3/7/18 11:31PM]	Bought Item from shop (Id: 12039, Amount: 1)	
+[3/7/18 11:37PM]	Picked up an item (Id: Item [id=14878, amount=1], Amount: 1) at Position: 3089, 3540, 0	
+[3/7/18 11:45PM]	Dropped Item (Id: Item [id=15272, amount=1], Amount: 1) at Position: 3090, 3531, 0	
+[3/7/18 11:46PM]	Picked up an item (Id: Item [id=15272, amount=1], Amount: 1) at Position: 3089, 3532, 0	
+[3/8/18 01:39AM]	Dropped Item (Id: Item [id=1079, amount=1], Amount: 1) at Position: 3094, 3493, 0	
+[3/8/18 01:52AM]	Dropped Item (Id: Item [id=15272, amount=1], Amount: 1) at Position: 3097, 3498, 0	
+[3/8/18 01:52AM]	Picked up an item (Id: Item [id=15272, amount=1], Amount: 1) at Position: 3097, 3498, 0	
+[3/8/18 03:18AM]	Recieved Private-Message from User: Thrasher which said 'f'	
+[3/10/18 12:23AM]	Picked up an item (Id: Item [id=6759, amount=1], Amount: 1) at Position: 3087, 3500, 0	
+[3/10/18 12:23AM]	Picked up an item (Id: Item [id=1747, amount=1], Amount: 1) at Position: 3086, 3499, 0	
+[3/10/18 12:23AM]	Picked up an item (Id: Item [id=536, amount=1], Amount: 1) at Position: 3086, 3499, 0	
+[3/10/18 02:22AM]	Dropped Item (Id: Item [id=15272, amount=1], Amount: 1) at Position: 3094, 3493, 0	
+[3/10/18 02:22AM]	Dropped Item (Id: Item [id=15272, amount=1], Amount: 1) at Position: 3094, 3493, 0	
+[3/10/18 02:22AM]	Dropped Item (Id: Item [id=15272, amount=1], Amount: 1) at Position: 3094, 3493, 0	
+[3/10/18 02:22AM]	Dropped Item (Id: Item [id=15272, amount=1], Amount: 1) at Position: 3094, 3493, 0	
+[3/10/18 02:22AM]	Dropped Item (Id: Item [id=15272, amount=1], Amount: 1) at Position: 3094, 3493, 0	
+[3/10/18 02:22AM]	Dropped Item (Id: Item [id=15272, amount=1], Amount: 1) at Position: 3094, 3493, 0	
+[3/10/18 02:22AM]	Dropped Item (Id: Item [id=15272, amount=1], Amount: 1) at Position: 3094, 3493, 0	
+[3/10/18 02:22AM]	Dropped Item (Id: Item [id=15272, amount=1], Amount: 1) at Position: 3094, 3493, 0	
+[3/10/18 02:24AM]	Dropped Item (Id: Item [id=5698, amount=1], Amount: 1) at Position: 3093, 3494, 0	
+[3/10/18 02:26AM]	Dropped Item (Id: Item [id=10289, amount=1], Amount: 1) at Position: 3089, 3496, 0	
+[3/12/18 11:26PM]	Picked up an item (Id: Item [id=565, amount=30], Amount: 30) at Position: 3100, 3495, 0	
+[3/12/18 11:26PM]	Picked up an item (Id: Item [id=12159, amount=10], Amount: 10) at Position: 3100, 3496, 0	
+[3/12/18 11:26PM]	Picked up an item (Id: Item [id=1747, amount=1], Amount: 1) at Position: 3100, 3496, 0	
+[3/12/18 11:26PM]	Picked up an item (Id: Item [id=2714, amount=1], Amount: 1) at Position: 3100, 3496, 0	
+[3/12/18 11:26PM]	Picked up an item (Id: Item [id=536, amount=1], Amount: 1) at Position: 3100, 3496, 0	
+[3/13/18 01:13AM]	Picked up an item (Id: Item [id=1319, amount=1], Amount: 1) at Position: 2872, 5361, 2	
+[3/13/18 01:13AM]	Picked up an item (Id: Item [id=561, amount=130], Amount: 130) at Position: 2873, 5362, 2	
+[3/13/18 01:13AM]	Picked up an item (Id: Item [id=4834, amount=1], Amount: 1) at Position: 2873, 5362, 2	
+[3/13/18 01:16AM]	Picked up an item (Id: Item [id=454, amount=164], Amount: 164) at Position: 2871, 5364, 2	
+[3/13/18 01:16AM]	Picked up an item (Id: Item [id=4834, amount=1], Amount: 1) at Position: 2871, 5364, 2	
+[3/13/18 01:21AM]	Picked up an item (Id: Item [id=4834, amount=1], Amount: 1) at Position: 2872, 5365, 2	
+[3/13/18 02:28AM]	Picked up an item (Id: Item [id=1275, amount=1], Amount: 1) at Position: 2871, 5363, 2	
+[3/13/18 02:28AM]	Picked up an item (Id: Item [id=3001, amount=3], Amount: 3) at Position: 2871, 5364, 2	
+[3/13/18 02:29AM]	Picked up an item (Id: Item [id=6759, amount=1], Amount: 1) at Position: 3738, 9386, 0	
+[3/13/18 02:30AM]	Picked up an item (Id: Item [id=201, amount=1], Amount: 1) at Position: 3726, 9387, 0	
+[3/13/18 02:30AM]	Dropped Item (Id: Item [id=251, amount=1], Amount: 1) at Position: 3730, 9388, 0	
+[3/13/18 02:30AM]	Picked up an item (Id: Item [id=12159, amount=3], Amount: 3) at Position: 3737, 9385, 0	
+[3/13/18 02:30AM]	Picked up an item (Id: Item [id=532, amount=1], Amount: 1) at Position: 3737, 9386, 0	
+[3/13/18 02:30AM]	Picked up an item (Id: Item [id=532, amount=1], Amount: 1) at Position: 3737, 9386, 0	
+[3/13/18 02:30AM]	Picked up an item (Id: Item [id=532, amount=1], Amount: 1) at Position: 3736, 9385, 0	
+[3/13/18 02:33AM]	Picked up an item (Id: Item [id=6759, amount=1], Amount: 1) at Position: 3434, 3565, 1	
+[3/13/18 02:33AM]	Vali received Mystic boots Mystic boots from Infernal Mage	
+[3/13/18 02:33AM]	Picked up an item (Id: Item [id=6759, amount=1], Amount: 1) at Position: 3435, 3561, 1	
+[3/13/18 02:33AM]	Picked up an item (Id: Item [id=4107, amount=1], Amount: 1) at Position: 3438, 3560, 1	
+[3/13/18 02:35AM]	Picked up an item (Id: Item [id=555, amount=21], Amount: 21) at Position: 3439, 3562, 1	
+[3/13/18 02:35AM]	Picked up an item (Id: Item [id=526, amount=1], Amount: 1) at Position: 3438, 3561, 1	
+[3/13/18 02:35AM]	Picked up an item (Id: Item [id=559, amount=101], Amount: 101) at Position: 3438, 3561, 1	
+[3/13/18 02:35AM]	Picked up an item (Id: Item [id=12160, amount=1], Amount: 1) at Position: 3438, 3561, 1	
+[3/13/18 02:35AM]	Picked up an item (Id: Item [id=6759, amount=1], Amount: 1) at Position: 3438, 3561, 1	
+[3/13/18 02:35AM]	Picked up an item (Id: Item [id=985, amount=1], Amount: 1) at Position: 3438, 3561, 1	
+[3/13/18 02:35AM]	Picked up an item (Id: Item [id=526, amount=1], Amount: 1) at Position: 3437, 3561, 1	
+[3/13/18 02:35AM]	Picked up an item (Id: Item [id=526, amount=1], Amount: 1) at Position: 3437, 3561, 1	
+[3/13/18 02:35AM]	Picked up an item (Id: Item [id=554, amount=14], Amount: 14) at Position: 3436, 3563, 1	
+[3/13/18 02:35AM]	Picked up an item (Id: Item [id=526, amount=1], Amount: 1) at Position: 3436, 3563, 1	
+[3/13/18 02:35AM]	Picked up an item (Id: Item [id=6759, amount=1], Amount: 1) at Position: 3436, 3563, 1	
+[3/13/18 02:35AM]	Picked up an item (Id: Item [id=554, amount=14], Amount: 14) at Position: 3434, 3564, 1	
+[3/13/18 02:35AM]	Picked up an item (Id: Item [id=2714, amount=1], Amount: 1) at Position: 3434, 3564, 1	
+[3/13/18 02:35AM]	Picked up an item (Id: Item [id=526, amount=1], Amount: 1) at Position: 3434, 3564, 1	
+[3/13/18 02:35AM]	Picked up an item (Id: Item [id=2714, amount=1], Amount: 1) at Position: 3434, 3561, 1	
+[3/13/18 02:36AM]	Picked up an item (Id: Item [id=12158, amount=5], Amount: 5) at Position: 3433, 3563, 1	
+[3/13/18 02:36AM]	Picked up an item (Id: Item [id=2714, amount=1], Amount: 1) at Position: 3438, 3562, 1	
+[3/13/18 02:36AM]	Picked up an item (Id: Item [id=2714, amount=1], Amount: 1) at Position: 3440, 3562, 1	
+[3/13/18 05:44PM]	Dropped Item (Id: Item [id=15272, amount=1], Amount: 1) at Position: 3094, 3504, 0	
+[3/13/18 05:44PM]	Dropped Item (Id: Item [id=995, amount=8100], Amount: 0) at Position: 3097, 3503, 0	
+[3/13/18 05:44PM]	Picked up an item (Id: Item [id=15272, amount=1], Amount: 1) at Position: 3095, 3503, 0	
+[3/14/18 01:17AM]	Vali has won 20000000 Coins from Thrasher.	
+[3/14/18 01:20AM]	Vali has won 10000000 Coins from Thrasher.	
+[3/14/18 01:59AM]	Picked up an item (Id: Item [id=7937, amount=150], Amount: 150) at Position: 3099, 3508, 0	
+[3/14/18 01:59AM]	Picked up an item (Id: Item [id=560, amount=1000], Amount: 1000) at Position: 3099, 3508, 0	
+[3/14/18 01:59AM]	Picked up an item (Id: Item [id=561, amount=500], Amount: 500) at Position: 3099, 3508, 0	
+[3/14/18 01:59AM]	Picked up an item (Id: Item [id=2364, amount=36], Amount: 36) at Position: 3099, 3508, 0	
+[3/14/18 02:00AM]	Picked up an item (Id: Item [id=1127, amount=1], Amount: 1) at Position: 3099, 3508, 0	
+[3/14/18 02:00AM]	Picked up an item (Id: Item [id=1079, amount=1], Amount: 1) at Position: 3099, 3508, 0	
+[3/14/18 02:00AM]	Picked up an item (Id: Item [id=1079, amount=1], Amount: 1) at Position: 3099, 3508, 0	
+[3/14/18 02:00AM]	Picked up an item (Id: Item [id=454, amount=1400], Amount: 1400) at Position: 3099, 3508, 0	
+[3/14/18 02:00AM]	Picked up an item (Id: Item [id=384, amount=125], Amount: 125) at Position: 3099, 3508, 0	
+[3/14/18 02:00AM]	Picked up an item (Id: Item [id=1215, amount=1], Amount: 1) at Position: 3099, 3508, 0	
+[3/14/18 02:00AM]	Picked up an item (Id: Item [id=1215, amount=1], Amount: 1) at Position: 3099, 3508, 0	
+[3/14/18 02:00AM]	Picked up an item (Id: Item [id=1215, amount=1], Amount: 1) at Position: 3099, 3508, 0	
+[3/14/18 02:00AM]	Picked up an item (Id: Item [id=228, amount=1500], Amount: 1500) at Position: 3099, 3508, 0	
+[3/14/18 02:00AM]	Picked up an item (Id: Item [id=1516, amount=50], Amount: 50) at Position: 3099, 3508, 0	
+[3/14/18 02:00AM]	Picked up an item (Id: Item [id=1618, amount=12], Amount: 12) at Position: 3099, 3508, 0	
+[3/14/18 02:00AM]	Picked up an item (Id: Item [id=1620, amount=10], Amount: 10) at Position: 3099, 3508, 0	
+[3/14/18 02:00AM]	Picked up an item (Id: Item [id=210, amount=30], Amount: 30) at Position: 3099, 3508, 0	
+[3/14/18 02:00AM]	Picked up an item (Id: Item [id=200, amount=20], Amount: 20) at Position: 3099, 3508, 0	
+[3/14/18 02:00AM]	Picked up an item (Id: Item [id=208, amount=4], Amount: 4) at Position: 3099, 3508, 0	
+[3/14/18 02:00AM]	Picked up an item (Id: Item [id=987, amount=1], Amount: 1) at Position: 3099, 3508, 0	
+[3/14/18 02:00AM]	Picked up an item (Id: Item [id=987, amount=1], Amount: 1) at Position: 3099, 3508, 0	
+[3/14/18 02:40AM]	Vali has won 100000000 Coins from Thrasher.	
+[3/14/18 03:21AM]	Picked up an item (Id: Item [id=2714, amount=1], Amount: 1) at Position: 3097, 3930, 0	
+[3/14/18 03:22AM]	Picked up an item (Id: Item [id=7400, amount=1], Amount: 1) at Position: 3108, 3934, 0	
+[3/14/18 03:22AM]	Picked up an item (Id: Item [id=12158, amount=7], Amount: 7) at Position: 3108, 3935, 0	
+[3/14/18 03:23AM]	Picked up an item (Id: Item [id=4111, amount=1], Amount: 1) at Position: 3109, 3937, 0	
+[3/14/18 03:23AM]	Picked up an item (Id: Item [id=557, amount=58], Amount: 58) at Position: 3109, 3936, 0	
+[3/14/18 03:23AM]	Picked up an item (Id: Item [id=6759, amount=1], Amount: 1) at Position: 3107, 3936, 0	
+[3/14/18 03:24AM]	Picked up an item (Id: Item [id=4091, amount=1], Amount: 1) at Position: 3107, 3936, 0	
+[3/14/18 03:26AM]	Picked up an item (Id: Item [id=6759, amount=1], Amount: 1) at Position: 3104, 3932, 0	
+[3/14/18 03:30AM]	Picked up an item (Id: Item [id=2714, amount=1], Amount: 1) at Position: 3110, 3931, 0	
+[3/15/18 12:28AM]	Dropped Item (Id: Item [id=2053, amount=1], Amount: 1) at Position: 3093, 3496, 0	
+---[3/15/18 12:44AM]	---
+Vali has received 1 Rock-Shell Legs from Thrasher
+---[3/15/18 12:44AM]	---
+Vali has given 1 Verac'S Plateskirt to Thrasher
+Vali has given 1 Guthan'S Platebody to Thrasher
+[3/15/18 05:44PM]	Picked up an item (Id: Item [id=10816, amount=1], Amount: 1) at Position: 2326, 3798, 0	
+[3/15/18 05:44PM]	Picked up an item (Id: Item [id=6759, amount=1], Amount: 1) at Position: 2327, 3799, 0	
+[3/15/18 05:44PM]	Dropped Item (Id: Item [id=10816, amount=1], Amount: 1) at Position: 2325, 3798, 0	
+[3/15/18 05:46PM]	Picked up an item (Id: Item [id=12158, amount=10], Amount: 10) at Position: 2319, 3792, 0	
+[3/15/18 05:46PM]	Picked up an item (Id: Item [id=2714, amount=1], Amount: 1) at Position: 2321, 3794, 0	
+[3/15/18 05:46PM]	Picked up an item (Id: Item [id=985, amount=1], Amount: 1) at Position: 2326, 3792, 0	
+[3/15/18 05:46PM]	Picked up an item (Id: Item [id=2714, amount=1], Amount: 1) at Position: 2324, 3791, 0	
+[3/15/18 05:46PM]	Picked up an item (Id: Item [id=12158, amount=9], Amount: 9) at Position: 2325, 3791, 0	
+[3/15/18 06:52PM]	Picked up an item (Id: Item [id=6759, amount=1], Amount: 1) at Position: 3102, 5537, 0	
+[3/15/18 06:54PM]	Picked up an item (Id: Item [id=1127, amount=1], Amount: 1) at Position: 3099, 5537, 0	
+[3/15/18 06:54PM]	Picked up an item (Id: Item [id=532, amount=1], Amount: 1) at Position: 3099, 5537, 0	
+[3/15/18 06:59PM]	Picked up an item (Id: Item [id=1618, amount=3], Amount: 3) at Position: 2949, 4385, 0	
+[3/15/18 06:59PM]	Picked up an item (Id: Item [id=9144, amount=250], Amount: 250) at Position: 2949, 4385, 0	
+[3/15/18 07:10PM]	Dropped Item (Id: Item [id=3483, amount=1], Amount: 1) at Position: 3088, 3504, 0	
+[3/15/18 07:10PM]	Dropped Item (Id: Item [id=15272, amount=1], Amount: 1) at Position: 3088, 3504, 0	
+[3/15/18 07:19PM]	Dropped Item (Id: Item [id=554, amount=100], Amount: 0) at Position: 3101, 3511, 0	
+[3/15/18 07:23PM]	Dropped Item (Id: Item [id=385, amount=1], Amount: 96) at Position: 3091, 3529, 0	
+[3/15/18 07:25PM]	Picked up an item (Id: Item [id=11212, amount=1], Amount: 1) at Position: 3085, 3534, 0	
+[3/15/18 07:38PM]	Dropped Item (Id: Item [id=1623, amount=1], Amount: 1) at Position: 3102, 3504, 0	
+[3/15/18 07:38PM]	Dropped Item (Id: Item [id=1623, amount=1], Amount: 1) at Position: 3102, 3504, 0	
+[3/15/18 07:38PM]	Dropped Item (Id: Item [id=1617, amount=1], Amount: 1) at Position: 3102, 3504, 0	
+[3/15/18 07:38PM]	Dropped Item (Id: Item [id=1619, amount=1], Amount: 1) at Position: 3102, 3504, 0	
+[3/15/18 07:38PM]	Dropped Item (Id: Item [id=1619, amount=1], Amount: 1) at Position: 3102, 3504, 0	
+[3/15/18 09:46PM]	Sent Private-Message to User: thrasher and said 'yo '	
+[3/15/18 11:00PM]	Dropped Item (Id: Item [id=4896, amount=1], Amount: 1) at Position: 3094, 3495, 0	
+[3/15/18 11:00PM]	Picked up an item (Id: Item [id=4896, amount=1], Amount: 1) at Position: 3093, 3494, 0	
+[3/15/18 11:00PM]	Dropped Item (Id: Item [id=229, amount=1], Amount: 1) at Position: 3093, 3495, 0	
+[3/16/18 06:25PM]	Picked up an item (Id: Item [id=13879, amount=1], Amount: 1) at Position: 3089, 3501, 0	
+[3/16/18 06:25PM]	Picked up an item (Id: Item [id=13879, amount=1], Amount: 1) at Position: 3090, 3501, 0	
+[3/16/18 06:28PM]	Dropped Item (Id: Item [id=229, amount=1], Amount: 1) at Position: 3086, 3497, 0	
+---[3/17/18 06:53PM]	---
+Vali has given 560 Raw Shark to Woox
+Vali has given 75000 Pure Essence to Woox
+Vali has given 2000 Adamantite Ore to Woox
+Vali has given 620 Runite Ore to Woox
+Vali has given 5249 Mahogany Logs to Woox
+Vali has given 10000000 Needle to Woox
+Vali has given 400000 Coal to Woox
+Vali has given 60000 Blue D-Leather to Woox
+Vali has given 30000 Red D-Leather to Woox
+Vali has given 10000 Leather to Woox
+Vali has given 30000 Black D-Leather to Woox
+Vali has given 1 Tinderbox to Woox
+Vali has given 10000 Hard Leather to Woox
+Vali has given 119 Uncut Diamond to Woox
+Vali has given 1000 Green D-Leather to Woox
+Vali has given 100 Uncut Ruby to Woox
+Vali has given 443 Uncut Sapphire to Woox
+Vali has given 1500 Green Dragonhide to Woox
+Vali has given 100 Chisel to Woox
+Vali has given 30000 Logs to Woox
+Vali has given 822 Magic Logs to Woox
+Vali has given 1000000 Willow Logs to Woox
+Vali has given 10000000 Copper Ore to Woox
+Vali has given 100000 Tin Ore to Woox
+Vali has given 20500 Runite Bolts to Woox
+Vali has given 3000000 Silver Ore to Woox
+---[3/17/18 06:53PM]	---
+Vali has received 1 Guide Book from Woox
+Vali has received 1 Wizard Robe from Woox
+Vali has received 1 Wizard Hat from Woox
+Vali has received 50000 Coins from Woox
+Vali has received 1 Shortbow from Woox
+Vali has received 200 Fire Rune from Woox
+Vali has received 1 Iron Platelegs from Woox
+Vali has received 1 Iron Scimitar from Woox
+Vali has received 200 Water Rune from Woox
+Vali has received 400 Air Rune from Woox
+Vali has received 200 Earth Rune from Woox
+Vali has received 10 Teleport To House from Woox
+Vali has received 1 Games Necklace (8) from Woox
+Vali has received 400 Mind Rune from Woox
+Vali has received 1 Blue Skirt from Woox
+Vali has received 1 Ring Of Duelling (8) from Woox
+Vali has received 1 Iron Platebody from Woox
+Vali has received 5 Lobster from Woox
+Vali has received 44 Lobster from Woox
+[3/17/18 06:54PM]	Bought Item from shop (Id: 1265, Amount: 1)	
+[3/17/18 06:54PM]	Bought Item from shop (Id: 1351, Amount: 1)	
+[3/17/18 06:54PM]	Bought Item from shop (Id: 5340, Amount: 1)	
+[3/17/18 06:54PM]	Bought Item from shop (Id: 5343, Amount: 1)	
+[3/17/18 06:54PM]	Bought Item from shop (Id: 5341, Amount: 1)	
+[3/17/18 06:54PM]	Bought Item from shop (Id: 5329, Amount: 1)	
+[3/17/18 06:54PM]	Bought Item from shop (Id: 946, Amount: 1)	
+[3/17/18 06:54PM]	Bought Item from shop (Id: 1755, Amount: 1)	
+[3/17/18 06:54PM]	Bought Item from shop (Id: 314, Amount: 10)	
+[3/17/18 06:54PM]	Bought Item from shop (Id: 314, Amount: 500)	
+[3/17/18 06:54PM]	Bought Item from shop (Id: 314, Amount: 500)	
+[3/17/18 06:54PM]	Bought Item from shop (Id: 307, Amount: 1)	
+[3/17/18 06:54PM]	Bought Item from shop (Id: 309, Amount: 1)	
+[3/17/18 06:54PM]	Bought Item from shop (Id: 311, Amount: 1)	
+[3/17/18 06:54PM]	Bought Item from shop (Id: 303, Amount: 1)	
+[3/17/18 06:54PM]	Bought Item from shop (Id: 301, Amount: 1)	
+[3/17/18 06:54PM]	Bought Item from shop (Id: 305, Amount: 1)	
+[3/17/18 06:55PM]	Bought Item from shop (Id: 952, Amount: 1)	
+[3/17/18 06:55PM]	Bought Item from shop (Id: 1592, Amount: 1)	
+[3/17/18 06:55PM]	Bought Item from shop (Id: 1595, Amount: 1)	
+[3/17/18 06:55PM]	Bought Item from shop (Id: 1597, Amount: 1)	
+[3/17/18 06:55PM]	Bought Item from shop (Id: 5523, Amount: 1)	
+[3/17/18 06:55PM]	Bought Item from shop (Id: 1523, Amount: 1)	
+[3/17/18 06:55PM]	Bought Item from shop (Id: 1735, Amount: 1)	
+---[3/17/18 06:55PM]	---
+Vali has given 1 Bronze Hatchet to Woox
+Vali has given 1 Shears to Woox
+Vali has given 1 Lobster Pot to Woox
+Vali has given 1 Small Fishing Net to Woox
+Vali has given 1 Bronze Pickaxe to Woox
+Vali has given 1 Big Fishing Net to Woox
+Vali has given 1 Secateurs to Woox
+Vali has given 1 Knife to Woox
+Vali has given 1 Tiara Mould to Woox
+Vali has given 1 Lockpick to Woox
+Vali has given 1 Fishing Rod to Woox
+Vali has given 1 Fly Fishing Rod to Woox
+Vali has given 1 Harpoon to Woox
+Vali has given 1 Spade to Woox
+Vali has given 1 Ring Mould to Woox
+Vali has given 1010 Feather to Woox
+Vali has given 1 Chisel to Woox
+Vali has given 1 Amulet Mould to Woox
+Vali has given 1 Watering Can (8) to Woox
+Vali has given 1 Rake to Woox
+Vali has given 1 Necklace Mould to Woox
+Vali has given 1 Seed Dibber to Woox
+[3/19/18 02:41AM]	Picked up an item (Id: Item [id=1511, amount=1], Amount: 1) at Position: 3109, 3503, 0	
+[3/19/18 02:42AM]	Sold Item to shop (Id: 365, Amount: 2)	
+[3/19/18 02:43AM]	Picked up an item (Id: Item [id=1511, amount=1], Amount: 1) at Position: 3165, 3492, 0	
+[3/19/18 02:47AM]	Picked up an item (Id: Item [id=1519, amount=1], Amount: 1) at Position: 3114, 3501, 0	
+[3/23/18 07:48PM]	Dropped Item (Id: Item [id=1901, amount=1], Amount: 26800) at Position: 3092, 3501, 0	
+[3/23/18 07:48PM]	Picked up an item (Id: Item [id=1901, amount=1], Amount: 1) at Position: 3092, 3501, 0	
+[3/26/18 06:25PM]	Picked up an item (Id: Item [id=1511, amount=1], Amount: 1) at Position: 3097, 3250, 0	
+[3/26/18 06:27PM]	Picked up an item (Id: Item [id=1511, amount=1], Amount: 1) at Position: 3093, 3244, 0	
+[3/29/18 07:01PM]	Bought Item from shop (Id: 4107, Amount: 1)	
+[3/29/18 07:01PM]	Bought Item from shop (Id: 3753, Amount: 1)	
+---[5/21/18 12:25AM]	---
+Vali has received 2 Super Restore (4) from Thrasher
+Vali has received 8 Rune Knife from Thrasher
+Vali has received 1 Black D'Hide Body from Thrasher
+Vali has received 11 Rune Dart from Thrasher
+[5/22/18 10:16PM]	Dropped Item (Id: Item [id=18476, amount=1], Amount: 1) at Position: 3087, 3488, 0	
+[5/23/18 03:03PM]	Picked up an item (Id: Item [id=563, amount=3], Amount: 3) at Position: 3087, 3490, 0	
+[5/23/18 03:03PM]	Dropped Item (Id: Item [id=563, amount=3], Amount: 0) at Position: 3087, 3490, 0	
+---[5/23/18 03:16PM]	---
+Vali has given 1 Hunters' Crossbow to Woox
+Vali has given 200 Dragon Bolts (E) to Woox
+Vali has given 79 Long Kebbit Bolts to Woox
+[5/23/18 07:35PM]	Picked up an item (Id: Item [id=952, amount=1], Amount: 1) at Position: 3563, 3305, 0	
+[5/23/18 11:12PM]	Picked up an item (Id: Item [id=7937, amount=60], Amount: 60) at Position: 3094, 3497, 0	
+[5/23/18 11:12PM]	Picked up an item (Id: Item [id=592, amount=1], Amount: 1) at Position: 3094, 3498, 0	
+[6/24/18 06:49PM]	Picked up an item (Id: Item [id=6759, amount=1], Amount: 1) at Position: 2800, 2780, 0	
+[6/27/18 06:55PM]	Picked up an item (Id: Item [id=6332, amount=1], Amount: 1) at Position: 3100, 3497, 0	
+[6/29/18 02:03PM]	Dropped Item (Id: Item [id=995, amount=239280], Amount: 0) at Position: 3094, 3493, 0	
+[6/29/18 02:03PM]	Picked up an item (Id: Item [id=995, amount=239280], Amount: 239280) at Position: 3093, 3494, 0	
+[6/29/18 03:00PM]	Dropped Item (Id: Item [id=9801, amount=1], Amount: 1) at Position: 3078, 3494, 0	
+[6/29/18 04:32PM]	Picked up an item (Id: Item [id=1197, amount=1], Amount: 1) at Position: 3083, 3503, 0	
+[6/29/18 04:32PM]	Picked up an item (Id: Item [id=6759, amount=1], Amount: 1) at Position: 3084, 3504, 0	
+[6/29/18 04:33PM]	Picked up an item (Id: Item [id=379, amount=1], Amount: 1) at Position: 3080, 3503, 0	
+[6/29/18 04:34PM]	Picked up an item (Id: Item [id=12163, amount=10], Amount: 10) at Position: 3081, 3504, 0	
+[6/29/18 04:59PM]	Picked up an item (Id: Item [id=133, amount=1], Amount: 1) at Position: 3086, 3498, 0	
+[6/29/18 05:01PM]	Picked up an item (Id: Item [id=592, amount=1], Amount: 1) at Position: 3085, 3497, 0	
+[6/29/18 05:01PM]	Picked up an item (Id: Item [id=985, amount=1], Amount: 1) at Position: 3085, 3496, 0	
+[6/29/18 05:01PM]	Picked up an item (Id: Item [id=2714, amount=1], Amount: 1) at Position: 3085, 3496, 0	
+[6/29/18 05:01PM]	Picked up an item (Id: Item [id=379, amount=1], Amount: 1) at Position: 3085, 3498, 0	
+[6/29/18 05:02PM]	Picked up an item (Id: Item [id=6759, amount=1], Amount: 1) at Position: 3087, 3494, 0	
+[6/29/18 05:04PM]	Picked up an item (Id: Item [id=6759, amount=1], Amount: 1) at Position: 3085, 3496, 0	
+[6/29/18 05:05PM]	Picked up an item (Id: Item [id=12158, amount=7], Amount: 7) at Position: 3086, 3496, 0	
+[6/29/18 05:05PM]	Picked up an item (Id: Item [id=1319, amount=1], Amount: 1) at Position: 3086, 3496, 0	
+[6/29/18 05:07PM]	Picked up an item (Id: Item [id=2714, amount=1], Amount: 1) at Position: 3086, 3496, 0	
+[6/29/18 05:52PM]	Picked up an item (Id: Item [id=565, amount=7], Amount: 7) at Position: 3087, 3495, 0	
+[6/29/18 05:52PM]	Picked up an item (Id: Item [id=2714, amount=1], Amount: 1) at Position: 3087, 3495, 0	
+[6/29/18 05:53PM]	Picked up an item (Id: Item [id=592, amount=1], Amount: 1) at Position: 3087, 3495, 0	
+[6/29/18 05:53PM]	Picked up an item (Id: Item [id=217, amount=1], Amount: 1) at Position: 3087, 3495, 0	
+[6/29/18 06:10PM]	Picked up an item (Id: Item [id=1731, amount=1], Amount: 1) at Position: 3086, 3496, 0	
+[6/29/18 06:10PM]	Picked up an item (Id: Item [id=1747, amount=1], Amount: 1) at Position: 3086, 3497, 0	
+[6/29/18 06:10PM]	Picked up an item (Id: Item [id=536, amount=1], Amount: 1) at Position: 3086, 3497, 0	
+[6/29/18 06:11PM]	Picked up an item (Id: Item [id=12158, amount=8], Amount: 8) at Position: 3087, 3497, 0	
+[6/29/18 08:39PM]	Picked up an item (Id: Item [id=4834, amount=1], Amount: 1) at Position: 2869, 5366, 2	
+[6/29/18 08:44PM]	Picked up an item (Id: Item [id=554, amount=100], Amount: 100) at Position: 3413, 3551, 1	
+[6/29/18 08:46PM]	Picked up an item (Id: Item [id=4153, amount=1], Amount: 1) at Position: 3438, 3548, 2	
+[6/29/18 08:46PM]	Picked up an item (Id: Item [id=12163, amount=6], Amount: 6) at Position: 3437, 3548, 2	
+[6/29/18 08:48PM]	Picked up an item (Id: Item [id=6759, amount=1], Amount: 1) at Position: 3422, 3551, 2	
+[6/29/18 09:18PM]	Picked up an item (Id: Item [id=4834, amount=1], Amount: 1) at Position: 2871, 5364, 2	
+[6/30/18 01:47AM]	Picked up an item (Id: Item [id=2440, amount=1], Amount: 1) at Position: 3275, 3919, 0	
+[6/30/18 01:49AM]	Picked up an item (Id: Item [id=12158, amount=4], Amount: 4) at Position: 2967, 3880, 0	
+[6/30/18 01:49AM]	Picked up an item (Id: Item [id=6759, amount=1], Amount: 1) at Position: 2965, 3880, 0	
+[7/2/18 11:29PM]	Picked up an item (Id: Item [id=536, amount=1], Amount: 1) at Position: 3151, 3695, 0	
+[7/2/18 11:29PM]	Picked up an item (Id: Item [id=1753, amount=1], Amount: 1) at Position: 3150, 3696, 0	
+[7/2/18 11:29PM]	Picked up an item (Id: Item [id=1753, amount=1], Amount: 1) at Position: 3153, 3692, 0	
+[7/2/18 11:29PM]	Picked up an item (Id: Item [id=536, amount=1], Amount: 1) at Position: 3153, 3692, 0	
+[7/3/18 12:24AM]	Picked up an item (Id: Item [id=1511, amount=1], Amount: 1) at Position: 3097, 3509, 0	
+[7/3/18 12:41AM]	Picked up an item (Id: Item [id=1511, amount=1], Amount: 1) at Position: 3099, 3498, 0	
+[7/3/18 02:20PM]	Picked up an item (Id: Item [id=1511, amount=1], Amount: 1) at Position: 3089, 3490, 0	
+[7/3/18 02:44PM]	Picked up an item (Id: Item [id=1511, amount=1], Amount: 1) at Position: 3088, 3496, 0	
+[7/3/18 05:01PM]	Dropped Item (Id: Item [id=4177, amount=1], Amount: 1) at Position: 3244, 3259, 0	
+[7/3/18 05:01PM]	Dropped Item (Id: Item [id=15426, amount=1], Amount: 1) at Position: 3244, 3264, 0	
+[7/3/18 05:01PM]	Dropped Item (Id: Item [id=1546, amount=1], Amount: 1) at Position: 3244, 3264, 0	
+[7/3/18 05:01PM]	Dropped Item (Id: Item [id=1542, amount=1], Amount: 1) at Position: 3244, 3264, 0	
+[7/4/18 01:01AM]	Picked up an item (Id: Item [id=1511, amount=1], Amount: 1) at Position: 3087, 3493, 0	
+[7/4/18 02:31AM]	Vali has won 1 Saradomin team hood from Thrasher.	
+[7/4/18 02:31AM]	Vali has won 1 Saradomin team cape from Thrasher.	
+[7/4/18 05:32PM]	Picked up an item (Id: Item [id=526, amount=1], Amount: 1) at Position: 2884, 9816, 0	
+[7/4/18 05:32PM]	Picked up an item (Id: Item [id=215, amount=1], Amount: 1) at Position: 2885, 9816, 0	
+[7/4/18 06:34PM]	Bought Item from shop (Id: 1201, Amount: 1)	
+[7/4/18 06:34PM]	Bought Item from shop (Id: 3753, Amount: 1)	
+[7/4/18 06:34PM]	Bought Item from shop (Id: 1079, Amount: 1)	
+[7/4/18 06:34PM]	Bought Item from shop (Id: 3122, Amount: 1)	
+[7/4/18 06:34PM]	Bought Item from shop (Id: 3122, Amount: 1)	
+[7/4/18 06:34PM]	Bought Item from shop (Id: 6809, Amount: 1)	
+[7/4/18 06:34PM]	Bought Item from shop (Id: 1127, Amount: 1)	
+[7/4/18 06:34PM]	Bought Item from shop (Id: 3753, Amount: 1)	
+[7/4/18 06:34PM]	Bought Item from shop (Id: 1333, Amount: 1)	
+[7/4/18 06:34PM]	Bought Item from shop (Id: 3105, Amount: 1)	
+[7/4/18 06:35PM]	Bought Item from shop (Id: 1725, Amount: 1)	
+[7/4/18 06:35PM]	Bought Item from shop (Id: 2552, Amount: 1)	
+[7/4/18 06:35PM]	Bought Item from shop (Id: 11118, Amount: 1)	
+[7/4/18 06:35PM]	Bought Item from shop (Id: 1305, Amount: 1)	
+[7/5/18 02:10AM]	Bought Item from shop (Id: 9778, Amount: 1)	
+[7/5/18 02:11AM]	Bought Item from shop (Id: 9775, Amount: 1)	
+[7/5/18 02:12AM]	Bought Item from shop (Id: 9766, Amount: 1)	
+[7/5/18 02:12AM]	Bought Item from shop (Id: 9775, Amount: 1)	
+[7/5/18 02:12AM]	Bought Item from shop (Id: 9776, Amount: 1)	
+[7/5/18 02:12AM]	Bought Item from shop (Id: 9781, Amount: 1)	
+[7/5/18 02:12AM]	Bought Item from shop (Id: 9782, Amount: 1)	
+---[7/5/18 02:36AM]	---
+Vali has given 24000 Coins to Thrasher
+---[7/5/18 02:36AM]	---
+Vali has received 1 Amulet Of Glory (4) from Thrasher
+[7/5/18 03:13AM]	Dropped Item (Id: Item [id=383, amount=1], Amount: 39970) at Position: 3094, 3498, 0	
+[7/5/18 02:11PM]	Dropped Item (Id: Item [id=995, amount=2146856], Amount: 0) at Position: 3088, 3497, 0	
+[7/5/18 02:11PM]	Dropped Item (Id: Item [id=995, amount=722078], Amount: 0) at Position: 3088, 3497, 0	
+[7/5/18 02:11PM]	Picked up an item (Id: Item [id=995, amount=2868934], Amount: 2868934) at Position: 3088, 3497, 0	
+[7/5/18 02:12PM]	Dropped Item (Id: Item [id=995, amount=5027239], Amount: 0) at Position: 3088, 3497, 0	
+[7/5/18 02:24PM]	Picked up an item (Id: Item [id=12160, amount=4], Amount: 4) at Position: 3088, 3499, 0	
+[7/5/18 02:46PM]	Bought Item from shop (Id: 12788, Amount: 1)	
+---[7/5/18 03:04PM]	---
+Vali has given 1 Chest to Zelazz
+[7/5/18 03:07PM]	Bought Item from shop (Id: 10952, Amount: 1)	
+[7/5/18 03:09PM]	Bought Item from shop (Id: 6199, Amount: 1)	
+[7/5/18 03:09PM]	Bought Item from shop (Id: 6199, Amount: 1)	
+[7/5/18 03:09PM]	Bought Item from shop (Id: 6199, Amount: 1)	
+[7/5/18 03:09PM]	Bought Item from shop (Id: 6199, Amount: 1)	
+[7/5/18 03:11PM]	Bought Item from shop (Id: 607, Amount: 1)	
+[7/5/18 03:19PM]	Picked up an item (Id: Item [id=209, amount=1], Amount: 1) at Position: 3087, 3494, 0	
+[7/5/18 03:19PM]	Picked up an item (Id: Item [id=532, amount=1], Amount: 1) at Position: 3088, 3494, 0	
+[7/5/18 03:21PM]	Picked up an item (Id: Item [id=205, amount=1], Amount: 1) at Position: 3093, 3494, 0	
+[7/5/18 03:21PM]	Picked up an item (Id: Item [id=532, amount=1], Amount: 1) at Position: 3093, 3494, 0	
+[7/5/18 03:30PM]	Picked up an item (Id: Item [id=9075, amount=15], Amount: 15) at Position: 2856, 5350, 2	
+[7/5/18 04:28PM]	Bought Item from shop (Id: 3122, Amount: 1)	
+[7/5/18 04:28PM]	Bought Item from shop (Id: 1073, Amount: 1)	
+[7/5/18 04:28PM]	Bought Item from shop (Id: 1123, Amount: 1)	
+[7/5/18 04:28PM]	Bought Item from shop (Id: 1161, Amount: 1)	
+[7/5/18 04:30PM]	Picked up an item (Id: Item [id=1123, amount=1], Amount: 1) at Position: 2856, 3538, 0	
+[7/5/18 04:30PM]	Picked up an item (Id: Item [id=1161, amount=1], Amount: 1) at Position: 2857, 3538, 0	
+[7/5/18 04:30PM]	Picked up an item (Id: Item [id=1073, amount=1], Amount: 1) at Position: 2857, 3538, 0	
+[7/5/18 04:30PM]	Picked up an item (Id: Item [id=8851, amount=60], Amount: 60) at Position: 2857, 3538, 0	
+[7/5/18 04:51PM]	Picked up an item (Id: Item [id=868, amount=1], Amount: 1) at Position: 3088, 3543, 0	
+[7/5/18 05:15PM]	Bought Item from shop (Id: 2497, Amount: 1)	
+[7/5/18 05:15PM]	Bought Item from shop (Id: 2491, Amount: 1)	
+[7/5/18 05:15PM]	Bought Item from shop (Id: 1129, Amount: 1)	
+[7/5/18 05:15PM]	Bought Item from shop (Id: 10499, Amount: 1)	
+[7/5/18 05:15PM]	Bought Item from shop (Id: 861, Amount: 1)	
+[7/5/18 05:15PM]	Bought Item from shop (Id: 892, Amount: 300)	
+[7/5/18 05:15PM]	Bought Item from shop (Id: 2444, Amount: 1)	
+[7/5/18 05:15PM]	Bought Item from shop (Id: 386, Amount: 10)	
+[7/5/18 05:15PM]	Bought Item from shop (Id: 386, Amount: 10)	
+[7/5/18 05:15PM]	Bought Item from shop (Id: 386, Amount: 10)	
+---[7/5/18 05:17PM]	---
+Vali has given 680394 Coins to Speedy
+[7/5/18 05:19PM]	Recieved Private-Message from User: Iron pete which said 'i think the obsticale pipe in taverly dung is bugged '	
+[7/5/18 05:20PM]	Recieved Private-Message from User: Iron pete which said 'should i post bugs on forum or just tell you? '	
+[7/5/18 05:21PM]	Sent Private-Message to User: iron pete and said 'on the forums, depending how many you find'	
+[7/5/18 05:25PM]	Recieved Private-Message from User: Speedy which said 'ad 4 pkp to my acc'	
+[7/5/18 05:25PM]	Recieved Private-Message from User: Speedy which said 'killed 5 people only got 1 '	
+[7/5/18 05:27PM]	Recieved Private-Message from User: Iron pete which said 'its fixed but need agility level for it'	
+[7/5/18 05:27PM]	Recieved Private-Message from User: Iron pete which said 'which is fine i think '	
+[7/5/18 05:29PM]	Recieved Private-Message from User: Iron pete which said 'whats forum link'	
+[7/5/18 05:29PM]	Recieved Private-Message from User: Iron pete which said 'i dont see it in the advertisement threads'	
+[7/5/18 05:29PM]	Sent Private-Message to User: iron pete and said 'mystic-ps.com '	
+[7/5/18 05:29PM]	Sent Private-Message to User: iron pete and said 'then go to community '	
+[7/5/18 05:29PM]	Recieved Private-Message from User: Iron pete which said 'thanks '	
+[7/5/18 05:31PM]	Recieved Private-Message from User: Iron pete which said 'for the runeserver vote it says no such server found '	
+[7/5/18 05:31PM]	Sent Private-Message to User: iron pete and said 'voting isn't done yet '	
+[7/5/18 05:32PM]	Sent Private-Message to User: iron pete and said 'will be done the next hour '	
+[7/5/18 05:32PM]	Recieved Private-Message from User: Iron pete which said 'alright no problem'	
+[7/5/18 05:32PM]	Recieved Private-Message from User: Iron pete which said 'was just checking '	
+[7/5/18 06:07PM]	Recieved Private-Message from User: Iron pete which said 'where is achievement shop'	
+[7/5/18 06:07PM]	Recieved Private-Message from User: Iron pete which said 'or is ther eone '	
+[7/5/18 06:07PM]	Recieved Private-Message from User: Iron pete which said 'there one* '	
+[7/5/18 06:07PM]	Sent Private-Message to User: iron pete and said 'i don't think there is one yet '	
+[7/5/18 06:08PM]	Sent Private-Message to User: iron pete and said 'i have to make a special one for iron men as wlel '	
+[7/5/18 06:08PM]	Sent Private-Message to User: iron pete and said 'well* '	
+[7/5/18 06:08PM]	Recieved Private-Message from User: Iron pete which said 'ight no worries just wondering '	
+[7/6/18 03:50PM]	Recieved Private-Message from User: Plug which said 'can you add in a green dragon teleport later today too?'	
+[7/6/18 03:55PM]	Sent Private-Message to User: plug and said 'the lever inside edge bank'	
+[7/6/18 03:55PM]	Sent Private-Message to User: plug and said 'takes you to wilderness places '	
+[7/6/18 03:55PM]	Recieved Private-Message from User: Plug which said 'ohhh thanks :p '	
+[7/6/18 04:11PM]	Picked up an item (Id: Item [id=3024, amount=3], Amount: 3) at Position: 2897, 5265, 0	
+---[7/6/18 04:11PM]	---
+Vali has given 3 Super Restore (4) to Plug
+[7/6/18 04:14PM]	Recieved Private-Message from User: Iron pete which said 'would you ever consider making the fight caves like the last 10 waves? '	
+[7/6/18 04:15PM]	Recieved Private-Message from User: Iron pete which said 'like the 10 prior waves before jad then fight jad '	
+[7/6/18 04:15PM]	Sent Private-Message to User: iron pete and said 'yeah of course '	
+[7/6/18 04:15PM]	Recieved Private-Message from User: Iron pete which said 'niiiice'	
+[7/6/18 04:15PM]	Sent Private-Message to User: iron pete and said 'although it would need to be 16'	
+[7/6/18 04:15PM]	Recieved Private-Message from User: Iron pete which said 'the whole process is toxic lol '	
+[7/6/18 04:15PM]	Sent Private-Message to User: iron pete and said 'since we have a gold member feature '	
+[7/6/18 04:15PM]	Sent Private-Message to User: iron pete and said 'that cuts the waves in half '	
+[7/6/18 04:15PM]	Sent Private-Message to User: iron pete and said '16 waves for normal players '	
+[7/6/18 04:15PM]	Sent Private-Message to User: iron pete and said '8 for gold members'	
+[7/6/18 04:16PM]	Recieved Private-Message from User: Iron pete which said 'what do you get for gold member? '	
+[7/6/18 04:16PM]	Recieved Private-Message from User: Iron pete which said 'like all the bonuses'	
+[7/6/18 04:16PM]	Sent Private-Message to User: iron pete and said 'uhm'	
+[7/6/18 04:16PM]	Sent Private-Message to User: iron pete and said 'summoning familiar specials attacks dont need scrolls '	
+[7/6/18 04:16PM]	Sent Private-Message to User: iron pete and said '[$] title in-game '	
+[7/6/18 04:16PM]	Sent Private-Message to User: iron pete and said 'you can use the resting feature '	
+[7/6/18 04:16PM]	Sent Private-Message to User: iron pete and said 'on the run orb '	
+[7/6/18 04:17PM]	Sent Private-Message to User: iron pete and said 'extra slayer points on task completion '	
+[7/6/18 04:17PM]	Sent Private-Message to User: iron pete and said 'ability to sell more items in your player owned shop '	
+[7/6/18 04:17PM]	Sent Private-Message to User: iron pete and said 'extra pest control points per game '	
+[7/6/18 04:17PM]	Sent Private-Message to User: iron pete and said 'god wars requires half the kill count to enter'	
+[7/6/18 04:17PM]	Sent Private-Message to User: iron pete and said 'runecrafting pouches hold more essence '	
+[7/6/18 04:17PM]	Recieved Private-Message from User: Iron pete which said 'you should for sure add this to forum '	
+[7/6/18 04:17PM]	Sent Private-Message to User: iron pete and said 'keep 5 items when dying outside the wildeness instead of 3'	
+[7/6/18 04:18PM]	Sent Private-Message to User: iron pete and said 'keep all untradeables on death '	
+[7/6/18 04:18PM]	Sent Private-Message to User: iron pete and said 'resetting a slayer task costs 50% less '	
+[7/6/18 04:18PM]	Recieved Private-Message from User: Iron pete which said 'i'm sure if more people know about it more would donate'	
+[7/6/18 04:18PM]	Sent Private-Message to User: iron pete and said 'i'll make a thread about it on the forums '	
+[7/6/18 04:19PM]	Sent Private-Message to User: iron pete and said 'either way we aren't making this server for money'	
+[7/6/18 04:19PM]	Sent Private-Message to User: iron pete and said 'we just wanna be around for awhile'	
+[7/6/18 04:19PM]	Sent Private-Message to User: iron pete and said 'my goal is to get 150 players'	
+[7/6/18 04:20PM]	Sent Private-Message to User: iron pete and said 'then 300 '	
+[7/6/18 04:20PM]	Recieved Private-Message from User: Iron pete which said 'advertisement is key haha. people like media '	
+[7/6/18 04:20PM]	Sent Private-Message to User: iron pete and said 'yeah i ran a server in the past called ardi '	
+[7/6/18 04:20PM]	Recieved Private-Message from User: Iron pete which said 'also show leaderboards a lot of people like playing just for that'	
+[7/6/18 04:20PM]	Sent Private-Message to User: iron pete and said 'and it hit 100 players '	
+[7/6/18 04:20PM]	Recieved Private-Message from User: Iron pete which said 'oh nice'	
+[7/6/18 04:20PM]	Recieved Private-Message from User: Iron pete which said 'how much is gold member'	
+[7/6/18 04:21PM]	Sent Private-Message to User: iron pete and said 'it's 10 bucks '	
+[7/6/18 04:21PM]	Recieved Private-Message from User: Iron pete which said 'paypal only? '	
+[7/6/18 04:21PM]	Sent Private-Message to User: iron pete and said 'yeah '	
+[7/6/18 04:22PM]	Recieved Private-Message from User: Iron pete which said 'i'll try to set another one up but last time i did it was a fuck fest lol '	
+[7/6/18 04:22PM]	Sent Private-Message to User: iron pete and said 'haha :p '	
+[7/6/18 04:29PM]	Picked up an item (Id: Item [id=6759, amount=1], Amount: 1) at Position: 2871, 5364, 2	
+[7/6/18 04:29PM]	Picked up an item (Id: Item [id=1319, amount=1], Amount: 1) at Position: 2871, 5364, 2	
+[7/6/18 04:29PM]	Picked up an item (Id: Item [id=1275, amount=1], Amount: 1) at Position: 2871, 5364, 2	
+[7/6/18 04:29PM]	Picked up an item (Id: Item [id=1303, amount=1], Amount: 1) at Position: 2871, 5364, 2	
+[7/6/18 04:31PM]	Picked up an item (Id: Item [id=454, amount=188], Amount: 188) at Position: 2872, 5362, 2	
+[7/6/18 05:05PM]	Picked up an item (Id: Item [id=1319, amount=1], Amount: 1) at Position: 2869, 5365, 2	
+[7/6/18 05:12PM]	Picked up an item (Id: Item [id=995, amount=27339], Amount: 27339) at Position: 2871, 5366, 2	
+[7/6/18 05:12PM]	Picked up an item (Id: Item [id=4834, amount=1], Amount: 1) at Position: 2871, 5367, 2	
+[7/6/18 05:29PM]	Picked up an item (Id: Item [id=2714, amount=1], Amount: 1) at Position: 3107, 3503, 0	
+[7/6/18 05:29PM]	Picked up an item (Id: Item [id=12159, amount=7], Amount: 7) at Position: 3106, 3503, 0	
+[7/6/18 05:29PM]	Picked up an item (Id: Item [id=592, amount=1], Amount: 1) at Position: 3106, 3503, 0	
+[7/6/18 05:29PM]	Picked up an item (Id: Item [id=201, amount=1], Amount: 1) at Position: 3106, 3503, 0	
+[7/6/18 06:12PM]	Recieved Private-Message from User: Josh which said 'u stuck with the valor base ;] '	
+[7/6/18 06:58PM]	Recieved Private-Message from User: Iron pete which said 'what are member point scrolls? '	
+[7/6/18 06:59PM]	Sent Private-Message to User: iron pete and said 'they give you member points '	
+[7/6/18 06:59PM]	Recieved Private-Message from User: Iron pete which said 'what do you get with the points'	
+[7/6/18 07:15PM]	Dropped Item (Id: Item [id=995, amount=14800], Amount: 0) at Position: 3097, 3504, 0	
+[7/6/18 07:15PM]	Picked up an item (Id: Item [id=995, amount=14800], Amount: 14800) at Position: 3096, 3504, 0	
+[7/6/18 07:54PM]	Recieved Private-Message from User: Plug which said 'blazin is online'	
+---[7/6/18 08:02PM]	---
+Vali has received 11 Uncut Emerald from Plug
+---[7/6/18 08:02PM]	---
+Vali has given 8 Key to Plug
+---[7/6/18 08:03PM]	---
+Vali has given 10 Key to Blazinblunts
+[7/6/18 08:24PM]	Recieved Private-Message from User: Plug which said 'i think he might be autoclicking im not sure tho '	
+[7/6/18 08:24PM]	Recieved Private-Message from User: Plug which said 'i just ran thru him w my minotaur and he spam clicked it and then stopped'	
+[7/6/18 08:24PM]	Recieved Private-Message from User: Plug which said 'thieving for like 30 secs'	
+[7/6/18 08:25PM]	Recieved Private-Message from User: Plug which said 'hmm i think hes aware now haha '	
+[7/6/18 08:25PM]	Sent Private-Message to User: plug and said 'don't worry'	
+[7/6/18 08:25PM]	Sent Private-Message to User: plug and said 'random events coming soon'	
+[7/6/18 08:25PM]	Recieved Private-Message from User: Plug which said 'ye :p'	
+[7/6/18 09:19PM]	Recieved Private-Message from User: Plug which said 'he got an onyx from botting :l'	
+[7/6/18 10:14PM]	Recieved Private-Message from User: Plug which said 'yo '	
+[7/6/18 11:08PM]	Recieved Private-Message from User: Plug which said 'someone got a video of blazin botting again'	
+[7/6/18 11:10PM]	Recieved Private-Message from User: Plug which said 'he got an onyx when he was afk botting lel '	
+[7/6/18 11:11PM]	Recieved Private-Message from User: Plug which said '& he still doesnt know you caught him yesterday'	
+[7/6/18 11:13PM]	Sent Private-Message to User: plug and said 'i'll figure it out '	
+[7/6/18 11:13PM]	Sent Private-Message to User: plug and said 'i don't wanna ban him since he seems to like the server '	
+[7/6/18 11:13PM]	Recieved Private-Message from User: Plug which said 'yeah i understand'	
+[7/6/18 11:13PM]	Sent Private-Message to User: plug and said 'but the onyx might of been gained unfairly'	
+[7/6/18 11:13PM]	Sent Private-Message to User: plug and said 'and i'll remove it in the future if so '	
+[7/6/18 11:14PM]	Sent Private-Message to User: plug and said 'i'm gonna add random events pretty soon'	
+[7/6/18 11:14PM]	Recieved Private-Message from User: Plug which said 'foxx has the video whenever he gets on '	
+[7/6/18 11:14PM]	Sent Private-Message to User: plug and said 'i'll add guards around the stalls '	
+[7/6/18 11:14PM]	Recieved Private-Message from User: Plug which said 'of him walking the same odd path '	
+[7/6/18 11:40PM]	Recieved Private-Message from User: Josh which said 'yo when i click third option it prints npc id etc '	
+[7/7/18 12:16AM]	Bought Item from shop (Id: 9781, Amount: 1)	
+[7/7/18 12:16AM]	Bought Item from shop (Id: 9782, Amount: 1)	
+[7/7/18 01:46AM]	Picked up an item (Id: Item [id=5300, amount=1], Amount: 1) at Position: 2871, 5364, 2	
+[7/7/18 02:29AM]	Picked up an item (Id: Item [id=554, amount=100], Amount: 100) at Position: 3427, 3539, 1	
+[7/7/18 01:19PM]	Recieved Private-Message from User: Blazinblunts which said 'valiii '	
+[7/7/18 01:20PM]	Recieved Private-Message from User: Blazinblunts which said 'i cant figure out how to fill vials '	
+[7/7/18 01:21PM]	Bought Item from shop (Id: 230, Amount: 10)	
+[7/7/18 01:21PM]	Bought Item from shop (Id: 230, Amount: 10)	
+[7/7/18 01:21PM]	Bought Item from shop (Id: 230, Amount: 26)	
+[7/7/18 01:21PM]	Bought Item from shop (Id: 230, Amount: 10)	
+[7/7/18 01:21PM]	Bought Item from shop (Id: 230, Amount: 5)	
+[7/7/18 01:21PM]	Bought Item from shop (Id: 230, Amount: 10)	
+[7/7/18 01:21PM]	Bought Item from shop (Id: 230, Amount: 10)	
+[7/7/18 01:21PM]	Bought Item from shop (Id: 230, Amount: 5)	
+[7/7/18 01:21PM]	Bought Item from shop (Id: 230, Amount: 10)	
+[7/7/18 01:30PM]	Picked up an item (Id: Item [id=4834, amount=1], Amount: 1) at Position: 2868, 5359, 2	
+[7/7/18 01:30PM]	Picked up an item (Id: Item [id=1319, amount=1], Amount: 1) at Position: 2867, 5358, 2	
+[7/7/18 01:36PM]	Recieved Private-Message from User: Blazinblunts which said 'sell me some water vials xd'	
+---[7/7/18 01:36PM]	---
+Vali has given 1001 Vial Of Water to Blazinblunts
+[7/7/18 02:06PM]	Recieved Private-Message from User: Tanksta which said 'i think its urddos protection thts messing up the updater'	
+[7/7/18 02:10PM]	Sent Private-Message to User: tanksta and said 'i'll try and do it through another website. '	
+[7/7/18 02:10PM]	Recieved Private-Message from User: Tanksta which said 'but then when it downloads thr client doesnt pop up'	
+[7/7/18 02:11PM]	Recieved Private-Message from User: Tanksta which said 'cause i did the robot confirmation thing and it loaded the percents '	
+[7/7/18 02:11PM]	Recieved Private-Message from User: Tanksta which said 'but then not the actual client or 2nd interface where you chose ur revison'	
+[7/7/18 02:11PM]	Sent Private-Message to User: tanksta and said 'fair enough '	
+[7/7/18 02:11PM]	Sent Private-Message to User: tanksta and said 'i need to fix it then '	
+[7/7/18 02:11PM]	Sent Private-Message to User: tanksta and said 'a lot of people cant get online'	
+[7/7/18 02:11PM]	Sent Private-Message to User: tanksta and said 'cause of it '	
+[7/7/18 02:12PM]	Recieved Private-Message from User: Tanksta which said 'i think for now relase a non updater version '	
+[7/7/18 02:12PM]	Recieved Private-Message from User: Tanksta which said 'just a jar strait up fixx it rerealease the one with an updaer'	
+[7/7/18 02:15PM]	Sent Private-Message to User: tanksta and said 'could do '	
+[7/7/18 02:15PM]	Sent Private-Message to User: tanksta and said 'there aren't many client updates to be made now '	
+[7/7/18 02:15PM]	Sent Private-Message to User: tanksta and said 'anyways  '	
+[7/7/18 02:15PM]	Sent Private-Message to User: tanksta and said 'since the client is pretty much done'	
+[7/7/18 02:16PM]	Recieved Private-Message from User: Tanksta which said 'just 4 new items'	
+[7/7/18 02:16PM]	Recieved Private-Message from User: Tanksta which said 'n maps  '	
+[7/8/18 01:09AM]	Picked up an item (Id: Item [id=12158, amount=8], Amount: 8) at Position: 3261, 3270, 0	
+[7/8/18 04:12PM]	Picked up an item (Id: Item [id=2714, amount=1], Amount: 1) at Position: 3408, 3538, 0	
+[7/8/18 04:13PM]	Picked up an item (Id: Item [id=995, amount=148], Amount: 148) at Position: 3411, 3537, 0	
+[7/8/18 04:15PM]	Picked up an item (Id: Item [id=6759, amount=1], Amount: 1) at Position: 2630, 9515, 2	
+[7/8/18 04:19PM]	Picked up an item (Id: Item [id=12158, amount=8], Amount: 8) at Position: 2634, 9477, 2	
+[7/8/18 04:19PM]	Picked up an item (Id: Item [id=6759, amount=1], Amount: 1) at Position: 2634, 9477, 2	
+[7/8/18 04:22PM]	Picked up an item (Id: Item [id=2714, amount=1], Amount: 1) at Position: 2634, 9477, 2	
+[7/8/18 04:22PM]	Picked up an item (Id: Item [id=562, amount=17], Amount: 17) at Position: 2634, 9485, 2	
+[7/8/18 04:22PM]	Picked up an item (Id: Item [id=6759, amount=1], Amount: 1) at Position: 2633, 9486, 2	
+[7/8/18 05:53PM]	Picked up an item (Id: Item [id=6759, amount=1], Amount: 1) at Position: 2805, 10019, 0	
+[7/8/18 05:53PM]	Picked up an item (Id: Item [id=6759, amount=1], Amount: 1) at Position: 2800, 10011, 0	
+[7/8/18 05:53PM]	Picked up an item (Id: Item [id=6759, amount=1], Amount: 1) at Position: 2803, 10023, 0	
+[7/8/18 07:02PM]	Picked up an item (Id: Item [id=12163, amount=1], Amount: 1) at Position: 3086, 3488, 0	
+[7/8/18 07:02PM]	Picked up an item (Id: Item [id=2714, amount=1], Amount: 1) at Position: 3086, 3488, 0	
+[7/8/18 07:02PM]	Picked up an item (Id: Item [id=592, amount=1], Amount: 1) at Position: 3086, 3488, 0	
+[7/8/18 07:02PM]	Picked up an item (Id: Item [id=199, amount=1], Amount: 1) at Position: 3086, 3488, 0	
+[7/8/18 07:02PM]	Picked up an item (Id: Item [id=215, amount=1], Amount: 1) at Position: 3086, 3488, 0	
+[7/8/18 07:10PM]	Dropped Item (Id: Item [id=1621, amount=1], Amount: 208000) at Position: 3081, 3512, 0	
+[7/8/18 07:10PM]	Sold Item to shop (Id: 1712, Amount: 1)	
+[7/8/18 07:15PM]	Dropped Item (Id: Item [id=995, amount=3525], Amount: 0) at Position: 3093, 3504, 0	
+[7/8/18 07:15PM]	Dropped Item (Id: Item [id=995, amount=5625], Amount: 0) at Position: 3095, 3504, 0	
+[7/8/18 07:15PM]	Dropped Item (Id: Item [id=995, amount=3275], Amount: 0) at Position: 3095, 3504, 0	
+[7/8/18 07:16PM]	Dropped Item (Id: Item [id=995, amount=8600], Amount: 0) at Position: 3097, 3504, 0	
+[7/8/18 07:20PM]	Bought Item from shop (24) (Id: 5341, Amount: 1)	
+[7/8/18 07:20PM]	Bought Item from shop (24) (Id: 5329, Amount: 1)	
+[7/8/18 07:20PM]	Bought Item from shop (24) (Id: 5343, Amount: 1)	
+[7/8/18 07:20PM]	Bought Item from shop (24) (Id: 5340, Amount: 1)	
+[7/9/18 01:02AM]	Dropped Item (Id: Item [id=12196, amount=1], Amount: 1) at Position: 3094, 3493, 0	
+[7/9/18 01:02AM]	Picked up an item (Id: Item [id=12196, amount=1], Amount: 1) at Position: 3093, 3492, 0	
+---[7/9/18 01:07AM]	---
+Vali has received 100000 Null from Thrasher
+[7/9/18 01:09AM]	Dropped Item (Id: Item [id=5698, amount=1], Amount: 1) at Position: 3095, 3496, 0	
+[7/9/18 01:09AM]	Picked up an item (Id: Item [id=5698, amount=1], Amount: 1) at Position: 3095, 3496, 0	
+[7/9/18 01:09AM]	Dropped Item (Id: Item [id=5698, amount=1], Amount: 1) at Position: 3095, 3496, 0	
+[7/9/18 01:24AM]	Picked up an item (Id: Item [id=2714, amount=1], Amount: 1) at Position: 2866, 5354, 2	
+[7/9/18 01:24AM]	Picked up an item (Id: Item [id=4834, amount=1], Amount: 1) at Position: 2865, 5353, 2	
+[7/9/18 01:25AM]	Picked up an item (Id: Item [id=2714, amount=1], Amount: 1) at Position: 2871, 5363, 2	
+---[7/9/18 03:05PM]	---
+Vali has given 1 Dragon Platelegs to Turtle
+---[7/9/18 03:05PM]	---
+Vali has received 1 Dragon Plateskirt from Turtle
+[7/9/18 02:47PM]	Bought Item from shop (7) (Id: 1127, Amount: 1)	
+[7/9/18 02:47PM]	Bought Item from shop (7) (Id: 1163, Amount: 1)	
+[7/9/18 02:47PM]	Bought Item from shop (7) (Id: 1079, Amount: 1)	
+[7/9/18 02:48PM]	Picked up an item (Id: Item [id=1127, amount=1], Amount: 1) at Position: 2854, 3538, 0	
+[7/9/18 02:48PM]	Picked up an item (Id: Item [id=8851, amount=80], Amount: 80) at Position: 2854, 3539, 0	
+[7/9/18 02:48PM]	Picked up an item (Id: Item [id=1079, amount=1], Amount: 1) at Position: 2854, 3539, 0	
+[7/9/18 02:48PM]	Picked up an item (Id: Item [id=1163, amount=1], Amount: 1) at Position: 2854, 3539, 0	
+[7/9/18 03:18PM]	Picked up an item (Id: Item [id=532, amount=1], Amount: 1) at Position: 2841, 3541, 2	
+[7/9/18 03:18PM]	Picked up an item (Id: Item [id=6759, amount=1], Amount: 1) at Position: 2841, 3540, 2	
+[7/9/18 03:18PM]	Picked up an item (Id: Item [id=869, amount=43], Amount: 43) at Position: 2841, 3540, 2	
+[7/9/18 03:27PM]	Picked up an item (Id: Item [id=12160, amount=5], Amount: 5) at Position: 2855, 3543, 2	
+[7/9/18 04:40PM]	Recieved Private-Message from User: Turtle1 which said 'i attempted 'ariel1968' '	
+[7/9/18 04:40PM]	Recieved Private-Message from User: Turtle1 which said 'capital a '	
+---[7/10/18 12:55AM]	---
+Vali has given 21 Raw Lobster to Daddy
+---[7/10/18 01:10AM]	---
+Vali has received 13 Willow Logs from Daddy
+---[7/10/18 01:10AM]	---
+Vali has given 12 Raw Lobster to Daddy
+[7/10/18 01:12AM]	Dropped Item (Id: Item [id=6579, amount=1], Amount: 1) at Position: 3113, 3498, 0	
+---[7/10/18 01:19AM]	---
+Vali has given 20 Raw Lobster to Daddy
+[7/10/18 02:50AM]	Picked up an item (Id: Item [id=2714, amount=1], Amount: 1) at Position: 3728, 9374, 0	
+[7/10/18 02:50AM]	Picked up an item (Id: Item [id=5302, amount=1], Amount: 1) at Position: 3728, 9374, 0	
+[7/10/18 02:50AM]	Picked up an item (Id: Item [id=532, amount=1], Amount: 1) at Position: 3728, 9374, 0	
+[7/10/18 02:52AM]	Picked up an item (Id: Item [id=6759, amount=1], Amount: 1) at Position: 3725, 9388, 0	
+[7/10/18 02:00PM]	Recieved Private-Message from User: Raymond which said 'hey'	
+[7/10/18 02:33PM]	Picked up an item (Id: Item [id=2714, amount=1], Amount: 1) at Position: 3016, 3849, 0	
+[7/10/18 02:49PM]	Sent Private-Message to User: raymond and said 'hes asking if your staff or a player'	
+[7/10/18 02:49PM]	Recieved Private-Message from User: Raymond which said 'me lol '	
+[7/10/18 02:49PM]	Sent Private-Message to User: raymond and said 'should i tell him you were mod before '	
+[7/10/18 02:49PM]	Recieved Private-Message from User: Raymond which said ''raymond' or thug'	
+[7/10/18 02:49PM]	Sent Private-Message to User: raymond and said 'you'	
+[7/10/18 02:49PM]	Recieved Private-Message from User: Raymond which said 'up2u'	
+[7/10/18 02:49PM]	Recieved Private-Message from User: Raymond which said 'just say im a player '	
+[7/10/18 02:49PM]	Recieved Private-Message from User: Raymond which said 'that i donated 10 '	
+[7/10/18 02:49PM]	Sent Private-Message to User: raymond and said 'kk'	
+[7/10/18 03:39PM]	Picked up an item (Id: Item [id=995, amount=26987], Amount: 26987) at Position: 2950, 3876, 0	
+[7/10/18 03:39PM]	Picked up an item (Id: Item [id=995, amount=25160], Amount: 25160) at Position: 2950, 3876, 0	
+[7/10/18 03:47PM]	Dropped Item (Id: Item [id=995, amount=52147], Amount: 0) at Position: 2954, 3877, 0	
+[7/10/18 03:47PM]	Dropped Item (Id: Item [id=995, amount=188482], Amount: 0) at Position: 2954, 3877, 0	
+[7/10/18 03:47PM]	Picked up an item (Id: Item [id=995, amount=240629], Amount: 240629) at Position: 2954, 3877, 0	
+[7/10/18 06:13PM]	Bought Item from shop (13) (Id: 1872, Amount: 10)	
+[7/10/18 06:13PM]	Bought Item from shop (13) (Id: 1872, Amount: 25)	
+[7/10/18 06:13PM]	Dropped Item (Id: Item [id=1872, amount=35], Amount: 0) at Position: 3078, 3506, 0	
+[7/10/18 06:13PM]	Bought Item from shop (13) (Id: 4621, Amount: 26)	
+[7/10/18 06:13PM]	Sold Item to shop (Id: 4621, Amount: 10)	
+[7/10/18 06:13PM]	Sold Item to shop (Id: 4621, Amount: 10)	
+[7/10/18 06:13PM]	Sold Item to shop (Id: 4621, Amount: 6)	
+[7/10/18 06:13PM]	Bought Item from shop (13) (Id: 9594, Amount: 26)	
+[7/10/18 06:14PM]	Sold Item to shop (Id: 9594, Amount: 10)	
+[7/10/18 06:14PM]	Sold Item to shop (Id: 9594, Amount: 10)	
+[7/10/18 06:14PM]	Sold Item to shop (Id: 9594, Amount: 6)	
+[7/10/18 06:14PM]	Bought Item from shop (13) (Id: 12110, Amount: 10)	
+[7/10/18 06:14PM]	Bought Item from shop (13) (Id: 12110, Amount: 25)	
+[7/10/18 06:14PM]	Picked up an item (Id: Item [id=1872, amount=35], Amount: 35) at Position: 3078, 3506, 0	
+[7/10/18 06:14PM]	Dropped Item (Id: Item [id=12110, amount=35], Amount: 0) at Position: 3078, 3506, 0	
+[7/10/18 06:14PM]	Dropped Item (Id: Item [id=1872, amount=35], Amount: 0) at Position: 3078, 3506, 0	
+---[7/11/18 01:40AM]	---
+Vali has received 1 Prayer Potion (2) from Pops
+Vali has received 1 Prayer Potion (1) from Pops
+[7/11/18 01:48AM]	Recieved Private-Message from User: Raymond which said 'this is gold donator ?'	
+[7/11/18 01:48AM]	Recieved Private-Message from User: Raymond which said 'or gold member i mean'	
+[7/11/18 01:48AM]	Sent Private-Message to User: raymond and said 'ye '	
+[7/11/18 01:48AM]	Recieved Private-Message from User: Raymond which said 'whats diff '	
+[7/11/18 01:48AM]	Recieved Private-Message from User: Raymond which said 'between gold member n donator '	
+[7/11/18 01:48AM]	Recieved Private-Message from User: Raymond which said 'tried to yell'	
+[7/11/18 01:49AM]	Sent Private-Message to User: raymond and said 'well ppl can donate but not for the rank '	
+[7/11/18 01:49AM]	Recieved Private-Message from User: Raymond which said 'ah'	
+[7/11/18 01:49AM]	Sent Private-Message to User: raymond and said 'like you donate for items '	
+[7/11/18 01:49AM]	Recieved Private-Message from User: Raymond which said 'ahh '	
+[7/11/18 01:49AM]	Sent Private-Message to User: raymond and said 'gold member is the only rank'	
+[7/11/18 01:49AM]	Sent Private-Message to User: raymond and said 'for donators '	
+[7/11/18 01:49AM]	Sent Private-Message to User: raymond and said 'to buy'	
+[7/11/18 01:49AM]	Recieved Private-Message from User: Raymond which said 'cause it says you must be gold member to yell '	
+[7/11/18 01:49AM]	Sent Private-Message to User: raymond and said 'really? '	
+[7/11/18 01:49AM]	Recieved Private-Message from User: Raymond which said 'ye '	
+[7/11/18 01:49AM]	Sent Private-Message to User: raymond and said 'i'll have to fix that ;p'	
+[7/11/18 01:49AM]	Recieved Private-Message from User: Raymond which said 'quest tab says gold member: no'	
+[7/11/18 02:23AM]	Bought Item from shop (9) (Id: 1383, Amount: 1)	
+[7/11/18 02:23AM]	Picked up an item (Id: Item [id=952, amount=1], Amount: 1) at Position: 3563, 3306, 0	
+---[7/11/18 02:14PM]	---
+Vali has given 1 Key to Intro
+[7/11/18 02:31PM]	Recieved Private-Message from User: Intro which said 'i swear none of the hp is correct on the fight cave npcs. '	
+---[7/11/18 02:31PM]	---
+Vali has received 1 Key from Zelazz
+[7/11/18 02:32PM]	Recieved Private-Message from User: Intro which said 'the 180 has a ton of hp, about as much as the 360. '	
+[7/11/18 02:35PM]	Sent Private-Message to User: intro and said 'looking into it now'	
+[7/11/18 02:35PM]	Recieved Private-Message from User: Intro which said 'lemmie swindle like 25 bolts, if i run out during caves ill kms. '	
+[7/11/18 02:36PM]	Recieved Private-Message from User: Intro which said 'o '	
+[7/11/18 02:36PM]	Recieved Private-Message from User: Intro which said 'even better bolts.'	
+[7/11/18 02:36PM]	Sent Private-Message to User: intro and said 'only id i remember'	
+[7/11/18 02:36PM]	Sent Private-Message to User: intro and said 'enjoy '	
+[7/11/18 02:36PM]	Recieved Private-Message from User: Intro which said 'l0l0l '	
+[7/11/18 02:36PM]	Recieved Private-Message from User: Intro which said 'they'll work.'	
+[7/11/18 02:36PM]	Recieved Private-Message from User: Intro which said '2 restores, 12 sharks, gl m3. '	
+[7/11/18 02:37PM]	Recieved Private-Message from User: Intro which said 'ill drop whatever gp on the ground after this towards those bolts.'	
+[7/11/18 02:37PM]	Sent Private-Message to User: intro and said 'what wave are you on?'	
+[7/11/18 02:38PM]	Recieved Private-Message from User: Intro which said 'cant tell.'	
+[7/11/18 02:38PM]	Sent Private-Message to User: intro and said 'should say in the chat'	
+[7/11/18 02:38PM]	Recieved Private-Message from User: Intro which said 'doesnt.'	
+[7/11/18 02:38PM]	Recieved Private-Message from User: Intro which said 'im scared now of running out of prayer, honestly.'	
+[7/11/18 02:38PM]	Recieved Private-Message from User: Intro which said 'they take so long to kill. '	
+[7/11/18 02:38PM]	Recieved Private-Message from User: Intro which said 'my prayer drains fast as fuck. '	
+[7/11/18 02:42PM]	Recieved Private-Message from User: Intro which said 'o fuck thanks. '	
+[7/11/18 02:57PM]	Recieved Private-Message from User: Intro which said 'this is actually confusing, cause its so random on monster spawns.'	
+[7/11/18 02:57PM]	Recieved Private-Message from User: Intro which said 'one wave was purely high level monsters. '	
+[7/11/18 02:58PM]	Sent Private-Message to User: intro and said 'are you gonna make it? '	
+[7/11/18 02:58PM]	Recieved Private-Message from User: Intro which said 'honestly. '	
+[7/11/18 02:58PM]	Recieved Private-Message from User: Intro which said 'with how i've used 300 rune bolts. '	
+[7/11/18 02:58PM]	Recieved Private-Message from User: Intro which said 'and almsot all the d bolts.'	
+[7/11/18 02:59PM]	Recieved Private-Message from User: Intro which said 'i don't think so, the npcs hp are way too high it feels. '	
+[7/11/18 02:59PM]	Recieved Private-Message from User: Intro which said 'ive been in this for 40mins on a supposed 24 wave game.'	
+[7/11/18 02:59PM]	Recieved Private-Message from User: Intro which said 'lol. '	
+[7/11/18 03:01PM]	Recieved Private-Message from User: Intro which said 'literally going to run out of restores and bolts. '	
+[7/11/18 03:01PM]	Recieved Private-Message from User: Intro which said 'it feels un doable.'	
+[7/11/18 03:01PM]	Recieved Private-Message from User: Intro which said 'till updated. '	
+[7/11/18 03:05PM]	Recieved Private-Message from User: Intro which said 'gg.'	
+[7/11/18 03:06PM]	Recieved Private-Message from User: Intro which said '0 restores, 16 bolts. ill wait till updated, this shits impossible.'	
+[7/11/18 03:12PM]	Dropped Item (Id: Item [id=3008, amount=1], Amount: 1) at Position: 2381, 5081, 2136	
+[7/11/18 03:12PM]	Picked up an item (Id: Item [id=3008, amount=1], Amount: 1) at Position: 2381, 5081, 2136	
+[7/11/18 04:13PM]	Recieved Private-Message from User: Intro which said 'did you make chests give even more cash?'	
+[7/11/18 04:16PM]	Sent Private-Message to User: intro and said 'i didn't '	
+[7/11/18 04:16PM]	Sent Private-Message to User: intro and said 'zelazz did '	
+[7/11/18 04:16PM]	Sent Private-Message to User: intro and said 'he said everyone was complaining '	
+[7/11/18 04:16PM]	Recieved Private-Message from User: Intro which said 'lmao. '	
+[7/11/18 04:16PM]	Recieved Private-Message from User: Intro which said 'it gives a fuck ton more now. '	
+[7/11/18 04:16PM]	Recieved Private-Message from User: Intro which said '200k is like average. '	
+[7/11/18 04:16PM]	Sent Private-Message to User: intro and said 'yeah well hes been changing shit'	
+[7/11/18 04:16PM]	Sent Private-Message to User: intro and said 'without telling me '	
+[7/11/18 04:16PM]	Recieved Private-Message from User: Intro which said ':\\'	
+[7/11/18 04:16PM]	Recieved Private-Message from User: Intro which said 'we even sat there debating what was smart or not. '	
+[7/11/18 04:16PM]	Recieved Private-Message from User: Intro which said 'it literally averages around 150-200k per chest you open. '	
+[7/11/18 04:17PM]	Recieved Private-Message from User: Intro which said 'i liked how it was 5k-150k.'	
+[7/11/18 04:17PM]	Sent Private-Message to User: intro and said 'same '	
+[7/11/18 04:18PM]	Sent Private-Message to User: intro and said 'i made it 5k - 150k for normal users'	
+[7/11/18 04:18PM]	Sent Private-Message to User: intro and said 'and 10k - 250k for gold members'	
+[7/11/18 02:30PM]	Picked up an item (Id: Item [id=2359, amount=3], Amount: 3) at Position: 1778, 5341, 1	
+[7/11/18 02:33PM]	Picked up an item (Id: Item [id=2359, amount=3], Amount: 3) at Position: 1779, 5341, 1	
+[7/11/18 02:37PM]	Picked up an item (Id: Item [id=995, amount=1261], Amount: 1261) at Position: 1780, 5340, 1	
+[7/11/18 02:37PM]	Picked up an item (Id: Item [id=12158, amount=1], Amount: 1) at Position: 1779, 5341, 1	
+[7/11/18 02:40PM]	Picked up an item (Id: Item [id=830, amount=8], Amount: 8) at Position: 1782, 5338, 1	
+[7/11/18 02:46PM]	Picked up an item (Id: Item [id=2359, amount=3], Amount: 3) at Position: 1779, 5340, 1	
+[7/11/18 02:46PM]	Picked up an item (Id: Item [id=1373, amount=1], Amount: 1) at Position: 1779, 5340, 1	
+[7/11/18 02:51PM]	Picked up an item (Id: Item [id=830, amount=8], Amount: 8) at Position: 1780, 5344, 1	
+[7/11/18 02:51PM]	Picked up an item (Id: Item [id=2359, amount=1], Amount: 1) at Position: 1779, 5344, 1	
+[7/11/18 02:51PM]	Picked up an item (Id: Item [id=2359, amount=1], Amount: 1) at Position: 1779, 5344, 1	
+[7/11/18 02:51PM]	Picked up an item (Id: Item [id=2359, amount=1], Amount: 1) at Position: 1779, 5344, 1	
+[7/11/18 02:51PM]	Picked up an item (Id: Item [id=11497, amount=1], Amount: 1) at Position: 1779, 5344, 1	
+[7/11/18 02:51PM]	Picked up an item (Id: Item [id=536, amount=1], Amount: 1) at Position: 1779, 5344, 1	
+[7/11/18 02:51PM]	Picked up an item (Id: Item [id=6759, amount=1], Amount: 1) at Position: 1779, 5344, 1	
+[7/11/18 02:58PM]	Dropped Item (Id: Item [id=229, amount=1], Amount: 8) at Position: 3095, 3508, 0	
+[7/11/18 05:45PM]	Picked up an item (Id: Item [id=6135, amount=1], Amount: 1) at Position: 2914, 4455, 0	
+[7/11/18 05:45PM]	Picked up an item (Id: Item [id=2489, amount=1], Amount: 1) at Position: 2913, 4455, 0	
+[7/11/18 05:45PM]	Picked up an item (Id: Item [id=12158, amount=7], Amount: 7) at Position: 2913, 4455, 0	
+[7/11/18 05:45PM]	Picked up an item (Id: Item [id=6155, amount=1], Amount: 1) at Position: 2913, 4455, 0	
+[7/11/18 05:45PM]	Picked up an item (Id: Item [id=2714, amount=1], Amount: 1) at Position: 2913, 4455, 0	
+[7/11/18 05:45PM]	Picked up an item (Id: Item [id=6729, amount=1], Amount: 1) at Position: 2913, 4455, 0	
+[7/11/18 06:08PM]	Bought Item from shop (29) (Id: 1275, Amount: 1)	
+[7/11/18 06:08PM]	Dropped Item (Id: Item [id=434, amount=1], Amount: 49980800) at Position: 2940, 3284, 0	
+[7/11/18 06:09PM]	Dropped Item (Id: Item [id=453, amount=1], Amount: 49980800) at Position: 3035, 9740, 0	
+[7/11/18 07:13PM]	Picked up an item (Id: Item [id=200, amount=30], Amount: 30) at Position: 3099, 3508, 0	
+[7/11/18 07:13PM]	Picked up an item (Id: Item [id=7937, amount=300], Amount: 300) at Position: 3099, 3508, 0	
+[7/11/18 07:13PM]	Picked up an item (Id: Item [id=2364, amount=24], Amount: 24) at Position: 3099, 3508, 0	
+[7/11/18 07:13PM]	Picked up an item (Id: Item [id=1127, amount=1], Amount: 1) at Position: 3099, 3508, 0	
+[7/11/18 07:13PM]	Picked up an item (Id: Item [id=1079, amount=1], Amount: 1) at Position: 3099, 3508, 0	
+[7/11/18 07:13PM]	Picked up an item (Id: Item [id=1079, amount=1], Amount: 1) at Position: 3099, 3508, 0	
+[7/11/18 07:13PM]	Picked up an item (Id: Item [id=1079, amount=1], Amount: 1) at Position: 3099, 3508, 0	
+[7/11/18 07:13PM]	Picked up an item (Id: Item [id=1079, amount=1], Amount: 1) at Position: 3099, 3508, 0	
+[7/11/18 07:13PM]	Picked up an item (Id: Item [id=560, amount=200], Amount: 200) at Position: 3099, 3508, 0	
+[7/11/18 07:13PM]	Picked up an item (Id: Item [id=1215, amount=1], Amount: 1) at Position: 3099, 3508, 0	
+[7/11/18 07:13PM]	Picked up an item (Id: Item [id=1215, amount=1], Amount: 1) at Position: 3099, 3508, 0	
+[7/11/18 07:13PM]	Picked up an item (Id: Item [id=1215, amount=1], Amount: 1) at Position: 3099, 3508, 0	
+[7/11/18 07:13PM]	Picked up an item (Id: Item [id=561, amount=100], Amount: 100) at Position: 3099, 3508, 0	
+[7/11/18 07:13PM]	Picked up an item (Id: Item [id=1514, amount=25], Amount: 25) at Position: 3099, 3508, 0	
+[7/11/18 07:13PM]	Picked up an item (Id: Item [id=1516, amount=25], Amount: 25) at Position: 3099, 3508, 0	
+[7/11/18 07:13PM]	Picked up an item (Id: Item [id=228, amount=250], Amount: 250) at Position: 3099, 3508, 0	
+[7/11/18 07:13PM]	Picked up an item (Id: Item [id=985, amount=1], Amount: 1) at Position: 3099, 3508, 0	
+[7/11/18 07:32PM]	Recieved Private-Message from User: Pops which said 'ooo did duos slayer get added yet?  '	
+[7/11/18 07:32PM]	Recieved Private-Message from User: Pops which said 'i forgot about that'	
+[7/11/18 07:33PM]	Sent Private-Message to User: pops and said 'not yet'	
+[7/11/18 07:33PM]	Sent Private-Message to User: pops and said 'i'm gonna work on it right now actually'	
+[7/11/18 07:33PM]	Sent Private-Message to User: pops and said 'so we can do it later '	
+[7/11/18 07:33PM]	Recieved Private-Message from User: Pops which said 'kk sweeeet '	
+[7/11/18 07:38PM]	Recieved Private-Message from User: Pops which said 'kk pce ima be back later '	
+[7/11/18 07:39PM]	Sent Private-Message to User: pops and said 'pce '	
+---[7/11/18 07:40PM]	---
+Vali has given 1 Dragon Pickaxe to Turtle
+[7/11/18 07:53PM]	Recieved Private-Message from User: Plug which said 'ayy x3'	
+[7/11/18 08:09PM]	Recieved Private-Message from User: Turtle which said 'dag kings drop charms and ckeys?'	
+[7/11/18 08:09PM]	Sent Private-Message to User: turtle and said 'yup '	
+[7/11/18 08:32PM]	Picked up an item (Id: Item [id=6759, amount=1], Amount: 1) at Position: 2912, 4442, 0	
+[7/11/18 08:32PM]	Picked up an item (Id: Item [id=1315, amount=1], Amount: 1) at Position: 2909, 4443, 0	
+[7/11/18 08:33PM]	Picked up an item (Id: Item [id=6759, amount=1], Amount: 1) at Position: 3107, 3933, 0	
+[7/11/18 08:33PM]	Picked up an item (Id: Item [id=2714, amount=1], Amount: 1) at Position: 3107, 3934, 0	
+[7/11/18 08:34PM]	Recieved Private-Message from User: Raymond which said 'gonna record lmfao'	
+[7/11/18 08:40PM]	Recieved Private-Message from User: Raymond which said 'wanna hook me with a super str pot'	
+[7/11/18 08:40PM]	Recieved Private-Message from User: Raymond which said '2440 ill relog to clear chat history'	
+[7/11/18 08:40PM]	Recieved Private-Message from User: Raymond which said 'ty '	
+[7/11/18 08:40PM]	Recieved Private-Message from User: Raymond which said 'relogging'	
+[7/11/18 08:40PM]	Recieved Private-Message from User: Raymond which said 'after this kill '	
+[7/11/18 08:41PM]	Recieved Private-Message from User: Raymond which said 'hes going l00l0l0ll0 '	
+[7/11/18 08:41PM]	Recieved Private-Message from User: Raymond which said 'my priv going off '	
+[7/11/18 08:48PM]	Recieved Private-Message from User: Raymond which said 'think ima tb this kid l0l'	
+[7/11/18 08:49PM]	Recieved Private-Message from User: Turtle which said 'bork drop yet? '	
+[7/11/18 08:51PM]	Sent Private-Message to User: turtle and said 'not yet'	
+[7/11/18 08:54PM]	Recieved Private-Message from User: Raymond which said 'if this kid skulls im tbing him and koing him btw '	
+[7/11/18 08:54PM]	Picked up an item (Id: Item [id=6759, amount=1], Amount: 1) at Position: 3107, 3933, 0	
+[7/11/18 08:54PM]	Picked up an item (Id: Item [id=6759, amount=1], Amount: 1) at Position: 3109, 3935, 0	
+[7/11/18 08:55PM]	Picked up an item (Id: Item [id=4111, amount=1], Amount: 1) at Position: 3108, 3934, 0	
+[7/11/18 08:55PM]	Picked up an item (Id: Item [id=4111, amount=1], Amount: 1) at Position: 3108, 3934, 0	
+[7/11/18 08:57PM]	Recieved Private-Message from User: Raymond which said 'get that lil boy to atk u first'	
+[7/11/18 08:57PM]	Recieved Private-Message from User: Raymond which said 'when u tele to him :) '	
+[7/11/18 08:58PM]	Recieved Private-Message from User: Raymond which said 'if that kid skulls im tbing him omg'	
+[7/11/18 08:58PM]	Recieved Private-Message from User: Raymond which said 'free mbook'	
+[7/11/18 09:28PM]	Recieved Private-Message from User: Turtle which said 'revs still comin? '	
+[7/11/18 09:28PM]	Recieved Private-Message from User: Turtle which said ';)'	
+[7/11/18 09:29PM]	Sent Private-Message to User: turtle and said 'yup '	
+[7/11/18 09:29PM]	Recieved Private-Message from User: Raymond which said 'row untradeable apparently '	
+[7/11/18 09:30PM]	Recieved Private-Message from User: Turtle which said 'bro'	
+[7/11/18 09:30PM]	Recieved Private-Message from User: Turtle which said 'you should add a wildy task slayer master '	
+[7/11/18 09:30PM]	Sent Private-Message to User: turtle and said 'i will '	
+[7/11/18 09:30PM]	Recieved Private-Message from User: Turtle which said 'i read your mind'	
+[7/11/18 10:18PM]	Picked up an item (Id: Item [id=985, amount=1], Amount: 1) at Position: 3466, 9482, 2	
+[7/11/18 10:28PM]	Picked up an item (Id: Item [id=2714, amount=1], Amount: 1) at Position: 3443, 3551, 2	
+[7/11/18 10:30PM]	Picked up an item (Id: Item [id=985, amount=1], Amount: 1) at Position: 3440, 3540, 2	
+[7/11/18 08:47PM]	Picked up an item (Id: Item [id=12163, amount=1], Amount: 1) at Position: 2898, 5265, 0	
+[7/11/18 08:48PM]	Vali received Curved bone from General Graardor	
+[7/11/18 08:48PM]	Picked up an item (Id: Item [id=10977, amount=1], Amount: 1) at Position: 2868, 5359, 2	
+[7/11/18 08:48PM]	Picked up an item (Id: Item [id=995, amount=35472], Amount: 35472) at Position: 2869, 5358, 2	
+[7/11/18 08:48PM]	Picked up an item (Id: Item [id=4834, amount=1], Amount: 1) at Position: 2869, 5358, 2	
+[7/11/18 11:52PM]	Picked up an item (Id: Item [id=2714, amount=1], Amount: 1) at Position: 2924, 5343, 2	
+[7/11/18 11:52PM]	Picked up an item (Id: Item [id=562, amount=14], Amount: 14) at Position: 2924, 5343, 2	
+[7/11/18 11:52PM]	Picked up an item (Id: Item [id=12158, amount=7], Amount: 7) at Position: 2924, 5343, 2	
+[7/11/18 11:52PM]	Picked up an item (Id: Item [id=556, amount=37], Amount: 37) at Position: 2924, 5343, 2	
+[7/12/18 02:19AM]	Picked up an item (Id: Item [id=952, amount=1], Amount: 1) at Position: 3564, 3306, 0	
+[7/12/18 01:07PM]	Recieved Private-Message from User: Raymond which said 'loc present '	
+[7/12/18 01:08PM]	Recieved Private-Message from User: Raymond which said 'also loc healing thing for gold members '	
+[7/12/18 01:08PM]	Recieved Private-Message from User: Raymond which said 'stated in gold member perks thread'	
+[7/12/18 01:12PM]	Sent Private-Message to User: raymond and said 'it's in neitiznot at the moment '	
+[7/12/18 01:12PM]	Sent Private-Message to User: raymond and said 'need to add it somewhere at edge '	
+[7/12/18 01:12PM]	Recieved Private-Message from User: Raymond which said 'i c'	
+[7/12/18 01:13PM]	Recieved Private-Message from User: Raymond which said 'well whatever you're tossing me for 99 agil  '	
+[7/12/18 01:13PM]	Recieved Private-Message from User: Raymond which said 'add ddefender + fcape tyy'	
+[7/13/18 01:27PM]	Picked up an item (Id: Item [id=6759, amount=1], Amount: 1) at Position: 3445, 3552, 2	
+---[7/13/18 04:34PM]	---
+Vali has given 500 Gold Bar to Turtle
+---[7/13/18 04:34PM]	---
+Vali has received 500 Gold Ore from Turtle
+[7/13/18 04:54PM]	Picked up an item (Id: Item [id=1147, amount=1], Amount: 1) at Position: 3412, 3551, 2	
+[7/13/18 04:54PM]	Picked up an item (Id: Item [id=1197, amount=1], Amount: 1) at Position: 3412, 3551, 2	
+[7/13/18 03:09PM]	Bought Item from shop (27) (Id: 2452, Amount: 5)	
+[7/13/18 03:09PM]	Bought Item from shop (27) (Id: 2446, Amount: 5)	
+[7/13/18 03:14PM]	Bought Item from shop (27) (Id: 2446, Amount: 1)	
+[7/13/18 03:14PM]	Bought Item from shop (27) (Id: 2452, Amount: 1)	
+[7/13/18 05:31PM]	Picked up an item (Id: Item [id=2714, amount=1], Amount: 1) at Position: 3423, 3550, 2	
+[7/13/18 05:32PM]	Picked up an item (Id: Item [id=6759, amount=1], Amount: 1) at Position: 3421, 3550, 2	
+[7/13/18 05:40PM]	Picked up an item (Id: Item [id=6759, amount=1], Amount: 1) at Position: 3424, 3552, 2	
+[7/14/18 02:47AM]	Picked up an item (Id: Item [id=1712, amount=1], Amount: 1) at Position: 3093, 3494, 0	
+[7/14/18 03:01AM]	Sent Private-Message to User: aki and said 'watch '	
+[7/14/18 03:01AM]	Sent Private-Message to User: aki and said 'this'	
+[7/14/18 03:01AM]	Picked up an item (Id: Item [id=888, amount=2], Amount: 2) at Position: 3089, 3541, 0	
+[7/14/18 03:02AM]	Picked up an item (Id: Item [id=888, amount=2], Amount: 2) at Position: 3087, 3540, 0	
+[7/16/18 03:22AM]	Dropped Item (Id: Item [id=4884, amount=1], Amount: 0) at Position: 3103, 3495, 0	
+[7/16/18 03:22AM]	Picked up an item (Id: Item [id=4884, amount=1], Amount: 1) at Position: 3103, 3495, 0	
+[8/7/18 07:38PM]	Dropped Item (Id: Item [id=385, amount=1], Amount: 1) at Position: 3086, 3487, 0	
+[8/7/18 07:38PM]	Picked up an item (Id: Item [id=385, amount=1], Amount: 1) at Position: 3086, 3487, 0	
+[8/7/18 07:38PM]	Dropped Item (Id: Item [id=385, amount=1], Amount: 1) at Position: 3086, 3487, 0	
+[8/7/18 07:38PM]	Picked up an item (Id: Item [id=385, amount=1], Amount: 1) at Position: 3086, 3487, 0	
+[8/7/18 07:38PM]	Dropped Item (Id: Item [id=385, amount=1], Amount: 1) at Position: 3086, 3487, 0	
+[8/7/18 07:38PM]	Picked up an item (Id: Item [id=385, amount=1], Amount: 1) at Position: 3086, 3487, 0	
+[8/7/18 07:38PM]	Dropped Item (Id: Item [id=385, amount=1], Amount: 1) at Position: 3086, 3487, 0	
+[8/7/18 07:38PM]	Picked up an item (Id: Item [id=385, amount=1], Amount: 1) at Position: 3086, 3487, 0	
+[8/7/18 07:49PM]	Dropped Item (Id: Item [id=15272, amount=1], Amount: 1) at Position: 3099, 3579, 0	
+[8/7/18 08:03PM]	Dropped Item (Id: Item [id=15272, amount=1], Amount: 1) at Position: 3086, 3485, 0	
+[8/7/18 08:03PM]	Dropped Item (Id: Item [id=15272, amount=1], Amount: 1) at Position: 3086, 3485, 0	
+[8/7/18 08:03PM]	Dropped Item (Id: Item [id=15272, amount=1], Amount: 1) at Position: 3086, 3485, 0	
+[8/7/18 08:10PM]	Dropped Item (Id: Item [id=15272, amount=1], Amount: 1) at Position: 3086, 3488, 0	
+[8/7/18 08:10PM]	Dropped Item (Id: Item [id=15272, amount=1], Amount: 1) at Position: 3086, 3488, 0	
+[8/7/18 08:10PM]	Dropped Item (Id: Item [id=15272, amount=1], Amount: 1) at Position: 3086, 3488, 0	
+[8/7/18 08:16PM]	Dropped Item (Id: Item [id=15272, amount=1], Amount: 1) at Position: 3086, 3486, 0	
+[8/7/18 08:16PM]	Dropped Item (Id: Item [id=15272, amount=1], Amount: 1) at Position: 3086, 3486, 0	
+[8/7/18 08:16PM]	Dropped Item (Id: Item [id=15272, amount=1], Amount: 1) at Position: 3086, 3486, 0	
+[8/21/18 02:35AM]	Picked up an item (Id: Item [id=2714, amount=1], Amount: 1) at Position: 3044, 10318, 0	
+[8/21/18 02:37AM]	Picked up an item (Id: Item [id=6759, amount=1], Amount: 1) at Position: 3045, 10320, 0	
+[8/22/18 03:49AM]	Bought Item from shop (7) (Id: 1201, Amount: 1)	
+[8/22/18 03:49AM]	Bought Item from shop (7) (Id: 1079, Amount: 1)	
+[8/22/18 03:49AM]	Bought Item from shop (7) (Id: 1127, Amount: 1)	
+[8/22/18 03:49AM]	Bought Item from shop (7) (Id: 1163, Amount: 1)	
+[8/22/18 03:49AM]	Bought Item from shop (7) (Id: 4587, Amount: 1)	
+[8/22/18 02:24PM]	Dropped Item (Id: Item [id=305, amount=1], Amount: 1) at Position: 3087, 3495, 0	
+[8/22/18 02:24PM]	Dropped Item (Id: Item [id=363, amount=1], Amount: 0) at Position: 3087, 3495, 0	
+[8/22/18 02:24PM]	Dropped Item (Id: Item [id=341, amount=1], Amount: 0) at Position: 3086, 3494, 0	
+[8/22/18 02:24PM]	Dropped Item (Id: Item [id=341, amount=1], Amount: 0) at Position: 3086, 3494, 0	
+[8/22/18 02:24PM]	Dropped Item (Id: Item [id=385, amount=1], Amount: 0) at Position: 3086, 3494, 0	
+[8/22/18 02:24PM]	Dropped Item (Id: Item [id=387, amount=1], Amount: 0) at Position: 3086, 3494, 0	
+[8/22/18 02:24PM]	Dropped Item (Id: Item [id=383, amount=1], Amount: 0) at Position: 3086, 3494, 0	
+[8/22/18 02:24PM]	Dropped Item (Id: Item [id=371, amount=1], Amount: 0) at Position: 3086, 3494, 0	
+[8/22/18 02:24PM]	Picked up an item (Id: Item [id=385, amount=1], Amount: 1) at Position: 3086, 3495, 0	
+[8/22/18 02:24PM]	Picked up an item (Id: Item [id=383, amount=1], Amount: 1) at Position: 3086, 3494, 0	
+[8/22/18 02:24PM]	Picked up an item (Id: Item [id=371, amount=1], Amount: 1) at Position: 3086, 3494, 0	
+[8/22/18 02:24PM]	Picked up an item (Id: Item [id=341, amount=1], Amount: 1) at Position: 3086, 3494, 0	
+[8/22/18 02:24PM]	Picked up an item (Id: Item [id=341, amount=1], Amount: 1) at Position: 3086, 3494, 0	
+[8/22/18 02:24PM]	Picked up an item (Id: Item [id=387, amount=1], Amount: 1) at Position: 3086, 3494, 0	
+[8/22/18 02:24PM]	Picked up an item (Id: Item [id=363, amount=1], Amount: 1) at Position: 3086, 3494, 0	
+[8/22/18 02:24PM]	Picked up an item (Id: Item [id=305, amount=1], Amount: 1) at Position: 3087, 3495, 0	
+[8/22/18 02:59PM]	Picked up an item (Id: Item [id=2364, amount=54], Amount: 54) at Position: 1761, 5181, 0	
+[8/22/18 02:59PM]	Picked up an item (Id: Item [id=452, amount=13], Amount: 13) at Position: 1761, 5182, 0	
+[8/22/18 02:59PM]	Picked up an item (Id: Item [id=7416, amount=1], Amount: 1) at Position: 1761, 5182, 0	
+[8/22/18 02:59PM]	Picked up an item (Id: Item [id=12163, amount=5], Amount: 5) at Position: 1761, 5182, 0	
+[8/22/18 02:59PM]	Picked up an item (Id: Item [id=7418, amount=1], Amount: 1) at Position: 1761, 5182, 0	
+[8/22/18 02:59PM]	Picked up an item (Id: Item [id=532, amount=1], Amount: 1) at Position: 1761, 5182, 0	
+[8/22/18 04:27PM]	Dropped Item (Id: Item [id=1515, amount=1], Amount: 375) at Position: 3087, 3471, 0	
+[8/22/18 04:27PM]	Dropped Item (Id: Item [id=1515, amount=1], Amount: 375) at Position: 3087, 3471, 0	
+[8/22/18 04:27PM]	Dropped Item (Id: Item [id=1515, amount=1], Amount: 375) at Position: 3087, 3471, 0	
+[8/22/18 04:27PM]	Dropped Item (Id: Item [id=1515, amount=1], Amount: 375) at Position: 3087, 3471, 0	
+[8/22/18 04:27PM]	Dropped Item (Id: Item [id=1515, amount=1], Amount: 375) at Position: 3087, 3471, 0	
+[8/22/18 04:27PM]	Dropped Item (Id: Item [id=1515, amount=1], Amount: 375) at Position: 3087, 3471, 0	
+[8/22/18 04:27PM]	Dropped Item (Id: Item [id=1515, amount=1], Amount: 375) at Position: 3087, 3471, 0	
+[8/23/18 12:22AM]	Dropped Item (Id: Item [id=8880, amount=1], Amount: 0) at Position: 3091, 3497, 0	
+[8/23/18 12:22AM]	Picked up an item (Id: Item [id=8880, amount=1], Amount: 1) at Position: 3091, 3498, 0	
+[8/23/18 02:31AM]	Bought Item from shop (9) (Id: 4103, Amount: 1)	
+[8/23/18 02:31AM]	Bought Item from shop (9) (Id: 4101, Amount: 1)	
+[8/23/18 02:31AM]	Bought Item from shop (9) (Id: 13734, Amount: 1)	
+[8/23/18 03:52AM]	Picked up an item (Id: Item [id=2714, amount=1], Amount: 1) at Position: 3087, 3505, 0	
+[8/23/18 03:54AM]	Picked up an item (Id: Item [id=2357, amount=1], Amount: 1) at Position: 3086, 3498, 0	
+[8/23/18 03:54AM]	Picked up an item (Id: Item [id=592, amount=1], Amount: 1) at Position: 3087, 3497, 0	
+[8/23/18 03:54AM]	Picked up an item (Id: Item [id=12158, amount=1], Amount: 1) at Position: 3087, 3497, 0	
+[8/23/18 03:54AM]	Dropped Item (Id: Item [id=592, amount=1], Amount: 1) at Position: 3088, 3501, 0	
+[8/23/18 03:54AM]	Dropped Item (Id: Item [id=2357, amount=1], Amount: 1) at Position: 3088, 3501, 0	
+[8/23/18 03:54AM]	Dropped Item (Id: Item [id=1619, amount=1], Amount: 1) at Position: 3088, 3501, 0	
+[8/23/18 03:54AM]	Dropped Item (Id: Item [id=12158, amount=1], Amount: 1) at Position: 3088, 3501, 0	
+[8/23/18 03:54AM]	Dropped Item (Id: Item [id=1619, amount=1], Amount: 1) at Position: 3088, 3501, 0	
+[8/23/18 03:55AM]	Picked up an item (Id: Item [id=554, amount=63], Amount: 63) at Position: 3087, 3496, 0	
+[8/23/18 03:55AM]	Picked up an item (Id: Item [id=592, amount=1], Amount: 1) at Position: 3087, 3497, 0	
+[8/23/18 03:55AM]	Picked up an item (Id: Item [id=6759, amount=1], Amount: 1) at Position: 3087, 3497, 0	
+[8/23/18 03:56AM]	Picked up an item (Id: Item [id=6759, amount=1], Amount: 1) at Position: 3087, 3496, 0	
+[8/23/18 03:56AM]	Picked up an item (Id: Item [id=6759, amount=1], Amount: 1) at Position: 3087, 3497, 0	
+[8/23/18 03:57AM]	Picked up an item (Id: Item [id=592, amount=1], Amount: 1) at Position: 3084, 3494, 0	
+[8/23/18 03:57AM]	Picked up an item (Id: Item [id=12160, amount=5], Amount: 5) at Position: 3084, 3495, 0	
+[8/23/18 03:57AM]	Picked up an item (Id: Item [id=2714, amount=1], Amount: 1) at Position: 3084, 3495, 0	
+[8/23/18 03:57AM]	Dropped Item (Id: Item [id=592, amount=1], Amount: 1) at Position: 3100, 3493, 0	
+---[8/23/18 04:20AM]	---
+Vali has given 1 Chocolate Cake to Valie
+Vali has given 5 Fire Rune to Valie
+[8/23/18 04:30AM]	Dropped Item (Id: Item [id=4675, amount=1], Amount: 1) at Position: 3089, 3488, 0	
+[8/23/18 04:31AM]	Picked up an item (Id: Item [id=4675, amount=1], Amount: 1) at Position: 3089, 3488, 0	
+[8/23/18 04:31AM]	Picked up an item (Id: Item [id=995, amount=50000], Amount: 50000) at Position: 3088, 3488, 0	
+[8/23/18 04:31AM]	Picked up an item (Id: Item [id=558, amount=400], Amount: 400) at Position: 3089, 3489, 0	
+[8/23/18 04:31AM]	Picked up an item (Id: Item [id=1379, amount=1], Amount: 1) at Position: 3089, 3489, 0	
+[8/23/18 04:32AM]	Picked up an item (Id: Item [id=1323, amount=1], Amount: 1) at Position: 3089, 3489, 0	
+[8/23/18 04:32AM]	Picked up an item (Id: Item [id=1897, amount=1], Amount: 1) at Position: 3089, 3489, 0	
+[8/23/18 04:32AM]	Picked up an item (Id: Item [id=1129, amount=1], Amount: 1) at Position: 3089, 3489, 0	
+[8/23/18 04:32AM]	Picked up an item (Id: Item [id=1095, amount=1], Amount: 1) at Position: 3089, 3489, 0	
+[8/23/18 04:32AM]	Picked up an item (Id: Item [id=577, amount=1], Amount: 1) at Position: 3089, 3489, 0	
+[8/23/18 04:32AM]	Picked up an item (Id: Item [id=8013, amount=10], Amount: 10) at Position: 3089, 3489, 0	
+[8/23/18 04:32AM]	Picked up an item (Id: Item [id=579, amount=1], Amount: 1) at Position: 3089, 3489, 0	
+[8/23/18 04:32AM]	Picked up an item (Id: Item [id=1011, amount=1], Amount: 1) at Position: 3089, 3489, 0	
+[8/23/18 04:57PM]	Picked up an item (Id: Item [id=12163, amount=7], Amount: 7) at Position: 3087, 3537, 0	
+[8/23/18 04:57PM]	Picked up an item (Id: Item [id=995, amount=36], Amount: 36) at Position: 3087, 3536, 0	
+[8/23/18 04:57PM]	Picked up an item (Id: Item [id=592, amount=1], Amount: 1) at Position: 3087, 3536, 0	
+[8/23/18 06:23PM]	Dropped Item (Id: Item [id=14484, amount=1], Amount: 0) at Position: 3087, 3496, 0	
+[8/23/18 06:23PM]	Picked up an item (Id: Item [id=14484, amount=1], Amount: 1) at Position: 3087, 3496, 0	
+[8/23/18 06:24PM]	Dropped Item (Id: Item [id=3140, amount=1], Amount: 0) at Position: 3087, 3496, 0	
+---[8/23/18 06:24PM]	---
+Vali has given 1 Dragon Claws to Valie
+[8/23/18 06:24PM]	Picked up an item (Id: Item [id=3140, amount=1], Amount: 1) at Position: 3087, 3496, 0	
+---[8/23/18 06:25PM]	---
+Vali has received 1 Dragon Claws from Valie
+[8/23/18 06:25PM]	Dropped Item (Id: Item [id=3140, amount=1], Amount: 0) at Position: 3087, 3496, 0	
+[8/23/18 06:25PM]	Picked up an item (Id: Item [id=3140, amount=1], Amount: 1) at Position: 3087, 3496, 0	
+[8/23/18 06:25PM]	Dropped Item (Id: Item [id=4944, amount=1], Amount: 1) at Position: 3087, 3496, 0	
+---[8/23/18 06:25PM]	---
+Vali has given 1 Dragon Claws to Valie
+[8/23/18 06:25PM]	Picked up an item (Id: Item [id=4944, amount=1], Amount: 1) at Position: 3087, 3496, 0	
+[8/23/18 06:31PM]	Dropped Item (Id: Item [id=4944, amount=1], Amount: 1) at Position: 3087, 3496, 0	
+[8/23/18 09:51PM]	Dropped Item (Id: Item [id=3140, amount=1], Amount: 0) at Position: 3086, 3498, 0	
+[8/23/18 09:51PM]	Picked up an item (Id: Item [id=3140, amount=1], Amount: 1) at Position: 3086, 3498, 0	
+[8/24/18 12:20AM]	Dropped Item (Id: Item [id=4944, amount=1], Amount: 1) at Position: 3092, 3502, 0	
+[8/24/18 12:20AM]	Picked up an item (Id: Item [id=4944, amount=1], Amount: 1) at Position: 3092, 3502, 0	

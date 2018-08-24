@@ -1,0 +1,37 @@
+[7/12/18 12:45PM]	Recieved Private-Message from User: Y which said 'lets max'	
+[7/12/18 12:46PM]	Sent Private-Message to User: y and said 'lol sure i think im gonna train combat first '	
+[7/12/18 12:46PM]	Recieved Private-Message from User: Y which said 'same '	
+[7/12/18 12:46PM]	Recieved Private-Message from User: Y which said 'grind out 138 comb '	
+[7/12/18 12:46PM]	Recieved Private-Message from User: Y which said 'see the guy at home, wizard, he teles u around '	
+[7/12/18 12:46PM]	Recieved Private-Message from User: Y which said 'if u need starter cash id thieve its decent '	
+[7/12/18 12:56PM]	Picked up an item (Id: Item [id=2714, amount=1], Amount: 1) at Position: 3262, 3270, 0	
+[7/12/18 12:59PM]	Bought Item from shop (7) (Id: 1163, Amount: 1)	
+[7/12/18 12:59PM]	Bought Item from shop (7) (Id: 1127, Amount: 1)	
+[7/12/18 12:59PM]	Bought Item from shop (7) (Id: 1079, Amount: 1)	
+[7/12/18 12:59PM]	Bought Item from shop (7) (Id: 1333, Amount: 1)	
+[7/12/18 01:03PM]	Bought Item from shop (27) (Id: 11118, Amount: 1)	
+[7/12/18 01:03PM]	Bought Item from shop (27) (Id: 386, Amount: 50)	
+[7/12/18 01:03PM]	Bought Item from shop (27) (Id: 386, Amount: 50)	
+[7/12/18 01:06PM]	Sent Private-Message to User: y and said 'rock crabs to 70? good idea? '	
+[7/12/18 01:06PM]	Recieved Private-Message from User: Y which said '70 melees, yes '	
+[7/12/18 01:07PM]	Recieved Private-Message from User: Y which said 'stuff can hit hard with low def and armor'	
+[7/12/18 01:10PM]	Recieved Private-Message from User: Y which said 'go get 80+ thieve and steal us some onyxs bb '	
+[7/12/18 01:10PM]	Recieved Private-Message from User: Y which said 'gilded plateskirt'	
+[7/12/18 01:10PM]	Sent Private-Message to User: y and said 'im almost 70 att'	
+[7/12/18 01:11PM]	Recieved Private-Message from User: Y which said 'lets get high comb and boss '	
+[7/12/18 01:11PM]	Sent Private-Message to User: y and said 'yeah that sounds fun'	
+[7/12/18 01:11PM]	Recieved Private-Message from User: Y which said 'osrs is back '	
+[7/12/18 01:11PM]	Sent Private-Message to User: y and said 'it seems like you have good luck all the time lol '	
+[7/12/18 01:12PM]	Sent Private-Message to User: y and said 'so were ditching this rsps right? '	
+[7/12/18 01:12PM]	Recieved Private-Message from User: Y which said 'up to you '	
+[7/12/18 01:12PM]	Recieved Private-Message from User: Y which said 'gilded platelegs lmao '	
+[7/12/18 01:12PM]	Sent Private-Message to User: y and said 'lol '	
+[7/12/18 01:12PM]	Sent Private-Message to User: y and said 'caskets right?'	
+[7/12/18 01:12PM]	Recieved Private-Message from User: Y which said 'what u think?'	
+[7/12/18 01:12PM]	Sent Private-Message to User: y and said 'true lol'	
+[7/12/18 01:13PM]	Recieved Private-Message from User: Y which said 'want to keep playing this? '	
+[7/12/18 01:13PM]	Sent Private-Message to User: y and said 'nah cause i know your not lets just go back to osrs'	
+[7/12/18 01:13PM]	Recieved Private-Message from User: Y which said 'true'	
+[7/12/18 01:14PM]	Sent Private-Message to User: y and said 'alright see you there '	
+[7/12/18 01:15PM]	Sent Private-Message to User: y and said 'lol whos gonna log off first'	
+[7/12/18 01:15PM]	Recieved Private-Message from User: Y which said 'after task'	

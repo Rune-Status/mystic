@@ -1,0 +1,6 @@
+[7/6/18 02:20PM]	Picked up an item (Id: Item [id=12158, amount=3], Amount: 3) at Position: 3261, 3271, 0	
+[7/6/18 02:21PM]	Picked up an item (Id: Item [id=2714, amount=1], Amount: 1) at Position: 3260, 3269, 0	
+[7/6/18 02:21PM]	Picked up an item (Id: Item [id=12158, amount=11], Amount: 11) at Position: 3261, 3270, 0	
+[7/6/18 02:47PM]	Picked up an item (Id: Item [id=882, amount=2], Amount: 2) at Position: 2703, 3717, 0	
+[7/6/18 02:47PM]	Picked up an item (Id: Item [id=882, amount=2], Amount: 2) at Position: 2703, 3718, 0	
+[7/6/18 02:51PM]	Picked up an item (Id: Item [id=882, amount=6], Amount: 6) at Position: 2702, 3719, 0	

@@ -1,0 +1,5 @@
+[7/14/18 03:00AM]	Picked up an item (Id: Item [id=888, amount=7], Amount: 7) at Position: 3087, 3546, 0	
+[7/14/18 03:00AM]	Picked up an item (Id: Item [id=888, amount=1], Amount: 1) at Position: 3088, 3543, 0	
+[7/14/18 03:01AM]	Picked up an item (Id: Item [id=888, amount=1], Amount: 1) at Position: 3086, 3543, 0	
+[7/14/18 03:01AM]	Recieved Private-Message from User: Vali which said 'watch '	
+[7/14/18 03:01AM]	Recieved Private-Message from User: Vali which said 'this'	

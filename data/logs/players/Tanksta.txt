@@ -1,0 +1,147 @@
+[7/5/18 08:00PM]	Bought Item from shop (Id: 10499, Amount: 1)	
+[7/5/18 08:00PM]	Bought Item from shop (Id: 10156, Amount: 1)	
+[7/5/18 08:00PM]	Bought Item from shop (Id: 10159, Amount: 500)	
+[7/5/18 08:06PM]	Picked up an item (Id: Item [id=561, amount=15], Amount: 15) at Position: 2932, 9845, 0	
+[7/5/18 08:06PM]	Picked up an item (Id: Item [id=5302, amount=1], Amount: 1) at Position: 2932, 9846, 0	
+[7/5/18 08:06PM]	Picked up an item (Id: Item [id=199, amount=1], Amount: 1) at Position: 2932, 9846, 0	
+[7/5/18 08:06PM]	Picked up an item (Id: Item [id=2714, amount=1], Amount: 1) at Position: 2932, 9846, 0	
+[7/5/18 08:07PM]	Picked up an item (Id: Item [id=12158, amount=5], Amount: 5) at Position: 2932, 9848, 0	
+[7/5/18 08:07PM]	Picked up an item (Id: Item [id=12158, amount=3], Amount: 3) at Position: 2932, 9845, 0	
+[7/5/18 08:08PM]	Picked up an item (Id: Item [id=12158, amount=11], Amount: 11) at Position: 2933, 9846, 0	
+[7/5/18 08:08PM]	Picked up an item (Id: Item [id=5315, amount=1], Amount: 1) at Position: 2933, 9846, 0	
+[7/5/18 08:08PM]	Picked up an item (Id: Item [id=10159, amount=3], Amount: 3) at Position: 2933, 9846, 0	
+[7/5/18 08:08PM]	Picked up an item (Id: Item [id=555, amount=50], Amount: 50) at Position: 2933, 9846, 0	
+[7/5/18 08:08PM]	Picked up an item (Id: Item [id=199, amount=1], Amount: 1) at Position: 2933, 9846, 0	
+[7/5/18 08:08PM]	Picked up an item (Id: Item [id=12158, amount=11], Amount: 11) at Position: 2930, 9848, 0	
+[7/5/18 08:08PM]	Picked up an item (Id: Item [id=554, amount=100], Amount: 100) at Position: 2930, 9848, 0	
+[7/5/18 08:08PM]	Picked up an item (Id: Item [id=10159, amount=2], Amount: 2) at Position: 2930, 9848, 0	
+[7/5/18 08:08PM]	Picked up an item (Id: Item [id=526, amount=1], Amount: 1) at Position: 2930, 9848, 0	
+[7/5/18 08:08PM]	Picked up an item (Id: Item [id=526, amount=1], Amount: 1) at Position: 2932, 9847, 0	
+[7/5/18 08:10PM]	Bought Item from shop (Id: 2444, Amount: 5)	
+[7/5/18 08:11PM]	Bought Item from shop (Id: 12031, Amount: 1)	
+[7/5/18 08:16PM]	Picked up an item (Id: Item [id=10159, amount=1], Amount: 1) at Position: 3495, 9498, 2	
+[7/5/18 08:16PM]	Picked up an item (Id: Item [id=12163, amount=10], Amount: 10) at Position: 3495, 9497, 2	
+[7/5/18 08:17PM]	Picked up an item (Id: Item [id=12160, amount=3], Amount: 3) at Position: 3495, 9494, 2	
+[7/5/18 08:18PM]	Bought Item from shop (Id: 2497, Amount: 1)	
+[7/5/18 08:19PM]	Bought Item from shop (Id: 2503, Amount: 1)	
+[7/5/18 08:19PM]	Bought Item from shop (Id: 3749, Amount: 1)	
+[7/5/18 08:19PM]	Bought Item from shop (Id: 1540, Amount: 1)	
+[7/5/18 08:20PM]	Picked up an item (Id: Item [id=12163, amount=11], Amount: 11) at Position: 3488, 9524, 2	
+[7/5/18 08:20PM]	Picked up an item (Id: Item [id=6759, amount=1], Amount: 1) at Position: 3487, 9524, 2	
+[7/5/18 08:20PM]	Picked up an item (Id: Item [id=12158, amount=10], Amount: 10) at Position: 3473, 9520, 2	
+[7/5/18 08:21PM]	Picked up an item (Id: Item [id=6759, amount=1], Amount: 1) at Position: 3477, 9524, 2	
+[7/5/18 08:24PM]	Picked up an item (Id: Item [id=12160, amount=11], Amount: 11) at Position: 3485, 9525, 2	
+[7/5/18 08:24PM]	Picked up an item (Id: Item [id=6759, amount=1], Amount: 1) at Position: 3484, 9525, 2	
+[7/5/18 08:25PM]	Picked up an item (Id: Item [id=12158, amount=3], Amount: 3) at Position: 3484, 9525, 2	
+[7/5/18 08:26PM]	Picked up an item (Id: Item [id=12160, amount=2], Amount: 2) at Position: 3484, 9525, 2	
+[7/5/18 08:27PM]	Picked up an item (Id: Item [id=12158, amount=10], Amount: 10) at Position: 3484, 9525, 2	
+[7/5/18 08:29PM]	Picked up an item (Id: Item [id=6759, amount=1], Amount: 1) at Position: 3484, 9524, 2	
+[7/5/18 08:30PM]	Picked up an item (Id: Item [id=12158, amount=7], Amount: 7) at Position: 3479, 9525, 2	
+[7/5/18 08:30PM]	Picked up an item (Id: Item [id=10159, amount=2], Amount: 2) at Position: 3478, 9524, 2	
+[7/5/18 08:31PM]	Picked up an item (Id: Item [id=987, amount=1], Amount: 1) at Position: 3485, 9525, 2	
+[7/5/18 08:31PM]	Picked up an item (Id: Item [id=2714, amount=1], Amount: 1) at Position: 3484, 9525, 2	
+[7/5/18 08:32PM]	Picked up an item (Id: Item [id=12160, amount=5], Amount: 5) at Position: 3481, 9525, 2	
+[7/5/18 08:34PM]	Picked up an item (Id: Item [id=2714, amount=1], Amount: 1) at Position: 3478, 9525, 2	
+[7/5/18 08:35PM]	Picked up an item (Id: Item [id=205, amount=1], Amount: 1) at Position: 3481, 9525, 2	
+[7/5/18 08:35PM]	Picked up an item (Id: Item [id=985, amount=1], Amount: 1) at Position: 3480, 9525, 2	
+[7/5/18 08:38PM]	Picked up an item (Id: Item [id=2714, amount=1], Amount: 1) at Position: 3478, 9525, 2	
+[7/5/18 08:39PM]	Dropped Item (Id: Item [id=205, amount=1], Amount: 234696) at Position: 3480, 9526, 2	
+[7/5/18 08:39PM]	Dropped Item (Id: Item [id=229, amount=1], Amount: 234696) at Position: 3480, 9526, 2	
+[7/5/18 08:39PM]	Dropped Item (Id: Item [id=1129, amount=1], Amount: 234696) at Position: 3480, 9526, 2	
+[7/5/18 08:42PM]	Bought Item from shop (Id: 12073, Amount: 1)	
+[7/5/18 08:43PM]	Bought Item from shop (Id: 12007, Amount: 1)	
+[7/5/18 08:43PM]	Bought Item from shop (Id: 12461, Amount: 55)	
+[7/5/18 08:43PM]	Bought Item from shop (Id: 12461, Amount: 10)	
+[7/5/18 08:43PM]	Bought Item from shop (Id: 9185, Amount: 1)	
+[7/5/18 08:44PM]	Bought Item from shop (Id: 9144, Amount: 100)	
+[7/5/18 08:44PM]	Bought Item from shop (Id: 1351, Amount: 1)	
+[7/5/18 08:48PM]	Picked up an item (Id: Item [id=9144, amount=2], Amount: 2) at Position: 2713, 9435, 0	
+[7/5/18 08:48PM]	Picked up an item (Id: Item [id=536, amount=1], Amount: 1) at Position: 2713, 9435, 0	
+[7/5/18 08:48PM]	Picked up an item (Id: Item [id=12158, amount=3], Amount: 3) at Position: 2713, 9435, 0	
+[7/5/18 08:50PM]	Picked up an item (Id: Item [id=9144, amount=3], Amount: 3) at Position: 2713, 9435, 0	
+[7/5/18 08:50PM]	Picked up an item (Id: Item [id=985, amount=1], Amount: 1) at Position: 2713, 9435, 0	
+[7/5/18 08:50PM]	Picked up an item (Id: Item [id=536, amount=1], Amount: 1) at Position: 2713, 9435, 0	
+[7/5/18 08:52PM]	Picked up an item (Id: Item [id=9144, amount=6], Amount: 6) at Position: 2712, 9435, 0	
+[7/5/18 08:52PM]	Picked up an item (Id: Item [id=536, amount=1], Amount: 1) at Position: 2713, 9434, 0	
+[7/5/18 08:52PM]	Picked up an item (Id: Item [id=9144, amount=3], Amount: 3) at Position: 2713, 9434, 0	
+[7/5/18 08:52PM]	Picked up an item (Id: Item [id=2353, amount=5], Amount: 5) at Position: 2713, 9434, 0	
+[7/5/18 08:52PM]	Dropped Item (Id: Item [id=2353, amount=1], Amount: 58938) at Position: 2713, 9434, 0	
+[7/5/18 08:52PM]	Dropped Item (Id: Item [id=2353, amount=1], Amount: 58938) at Position: 2713, 9434, 0	
+[7/5/18 08:52PM]	Dropped Item (Id: Item [id=2353, amount=1], Amount: 58938) at Position: 2713, 9434, 0	
+[7/5/18 08:53PM]	Dropped Item (Id: Item [id=2353, amount=1], Amount: 58938) at Position: 2713, 9434, 0	
+[7/5/18 08:53PM]	Dropped Item (Id: Item [id=2353, amount=1], Amount: 58938) at Position: 2713, 9434, 0	
+[7/5/18 08:56PM]	Picked up an item (Id: Item [id=536, amount=1], Amount: 1) at Position: 2721, 9443, 0	
+[7/7/18 01:38PM]	Bought Item from shop (Id: 7946, Amount: 10)	
+[7/7/18 01:38PM]	Bought Item from shop (Id: 7946, Amount: 5)	
+[7/7/18 01:39PM]	Bought Item from shop (Id: 7946, Amount: 3)	
+[7/7/18 02:00PM]	Picked up an item (Id: Item [id=9144, amount=1], Amount: 1) at Position: 1767, 5357, 0	
+[7/7/18 02:04PM]	Picked up an item (Id: Item [id=9144, amount=4], Amount: 4) at Position: 1780, 5340, 1	
+[7/7/18 02:04PM]	Picked up an item (Id: Item [id=9144, amount=2], Amount: 2) at Position: 1780, 5340, 1	
+[7/7/18 02:04PM]	Picked up an item (Id: Item [id=536, amount=1], Amount: 1) at Position: 1780, 5340, 1	
+[7/7/18 02:06PM]	Sent Private-Message to User: vali and said 'i think its urddos protection thts messing up the updater'	
+[7/7/18 02:06PM]	Picked up an item (Id: Item [id=6759, amount=1], Amount: 1) at Position: 1781, 5355, 1	
+[7/7/18 02:06PM]	Picked up an item (Id: Item [id=536, amount=1], Amount: 1) at Position: 1781, 5355, 1	
+[7/7/18 02:06PM]	Picked up an item (Id: Item [id=2363, amount=2], Amount: 2) at Position: 1781, 5355, 1	
+[7/7/18 02:06PM]	Picked up an item (Id: Item [id=9144, amount=2], Amount: 2) at Position: 1781, 5355, 1	
+[7/7/18 02:06PM]	Picked up an item (Id: Item [id=9144, amount=1], Amount: 1) at Position: 1781, 5355, 1	
+[7/7/18 02:08PM]	Picked up an item (Id: Item [id=811, amount=14], Amount: 14) at Position: 1779, 5344, 1	
+[7/7/18 02:08PM]	Picked up an item (Id: Item [id=2714, amount=1], Amount: 1) at Position: 1779, 5344, 1	
+[7/7/18 02:08PM]	Dropped Item (Id: Item [id=173, amount=1], Amount: 67822) at Position: 1779, 5344, 1	
+[7/7/18 02:08PM]	Picked up an item (Id: Item [id=12158, amount=11], Amount: 11) at Position: 1779, 5344, 1	
+[7/7/18 02:08PM]	Picked up an item (Id: Item [id=536, amount=1], Amount: 1) at Position: 1779, 5344, 1	
+[7/7/18 02:10PM]	Recieved Private-Message from User: Vali which said 'i'll try and do it through another website. '	
+[7/7/18 02:10PM]	Sent Private-Message to User: vali and said 'but then when it downloads thr client doesnt pop up'	
+[7/7/18 02:11PM]	Sent Private-Message to User: vali and said 'cause i did the robot confirmation thing and it loaded the percents '	
+[7/7/18 02:11PM]	Sent Private-Message to User: vali and said 'but then not the actual client or 2nd interface where you chose ur revison'	
+[7/7/18 02:11PM]	Picked up an item (Id: Item [id=811, amount=14], Amount: 14) at Position: 1782, 5354, 1	
+[7/7/18 02:11PM]	Picked up an item (Id: Item [id=9144, amount=1], Amount: 1) at Position: 1781, 5355, 1	
+[7/7/18 02:11PM]	Picked up an item (Id: Item [id=985, amount=1], Amount: 1) at Position: 1781, 5355, 1	
+[7/7/18 02:11PM]	Recieved Private-Message from User: Vali which said 'fair enough '	
+[7/7/18 02:11PM]	Picked up an item (Id: Item [id=9144, amount=4], Amount: 4) at Position: 1781, 5355, 1	
+[7/7/18 02:11PM]	Recieved Private-Message from User: Vali which said 'i need to fix it then '	
+[7/7/18 02:11PM]	Picked up an item (Id: Item [id=2714, amount=1], Amount: 1) at Position: 1781, 5355, 1	
+[7/7/18 02:11PM]	Picked up an item (Id: Item [id=536, amount=1], Amount: 1) at Position: 1781, 5355, 1	
+[7/7/18 02:11PM]	Recieved Private-Message from User: Vali which said 'a lot of people cant get online'	
+[7/7/18 02:11PM]	Recieved Private-Message from User: Vali which said 'cause of it '	
+[7/7/18 02:12PM]	Sent Private-Message to User: vali and said 'i think for now relase a non updater version '	
+[7/7/18 02:12PM]	Sent Private-Message to User: vali and said 'just a jar strait up fixx it rerealease the one with an updaer'	
+[7/7/18 02:13PM]	Picked up an item (Id: Item [id=1373, amount=1], Amount: 1) at Position: 1779, 5344, 1	
+[7/7/18 02:13PM]	Picked up an item (Id: Item [id=9144, amount=2], Amount: 2) at Position: 1779, 5344, 1	
+[7/7/18 02:13PM]	Picked up an item (Id: Item [id=536, amount=1], Amount: 1) at Position: 1779, 5344, 1	
+[7/7/18 02:15PM]	Recieved Private-Message from User: Vali which said 'could do '	
+[7/7/18 02:15PM]	Recieved Private-Message from User: Vali which said 'there aren't many client updates to be made now '	
+[7/7/18 02:15PM]	Recieved Private-Message from User: Vali which said 'anyways  '	
+[7/7/18 02:15PM]	Recieved Private-Message from User: Vali which said 'since the client is pretty much done'	
+[7/7/18 02:15PM]	Picked up an item (Id: Item [id=12158, amount=7], Amount: 7) at Position: 1781, 5355, 1	
+[7/7/18 02:15PM]	Picked up an item (Id: Item [id=830, amount=8], Amount: 8) at Position: 1781, 5355, 1	
+[7/7/18 02:15PM]	Picked up an item (Id: Item [id=9144, amount=4], Amount: 4) at Position: 1781, 5355, 1	
+[7/7/18 02:15PM]	Picked up an item (Id: Item [id=9144, amount=3], Amount: 3) at Position: 1781, 5355, 1	
+[7/7/18 02:16PM]	Picked up an item (Id: Item [id=536, amount=1], Amount: 1) at Position: 1781, 5355, 1	
+[7/7/18 02:16PM]	Sent Private-Message to User: vali and said 'just 4 new items'	
+[7/7/18 02:16PM]	Sent Private-Message to User: vali and said 'n maps  '	
+[7/7/18 02:17PM]	Dropped Item (Id: Item [id=1379, amount=1], Amount: 67822) at Position: 1782, 5350, 1	
+[7/7/18 02:18PM]	Picked up an item (Id: Item [id=1379, amount=1], Amount: 1) at Position: 1782, 5350, 1	
+[7/7/18 02:18PM]	Picked up an item (Id: Item [id=6759, amount=1], Amount: 1) at Position: 1779, 5344, 1	
+[7/7/18 02:18PM]	Picked up an item (Id: Item [id=1432, amount=1], Amount: 1) at Position: 1779, 5344, 1	
+[7/7/18 02:18PM]	Picked up an item (Id: Item [id=9144, amount=2], Amount: 2) at Position: 1779, 5344, 1	
+[7/7/18 02:18PM]	Picked up an item (Id: Item [id=9144, amount=2], Amount: 2) at Position: 1779, 5344, 1	
+[7/7/18 02:18PM]	Picked up an item (Id: Item [id=536, amount=1], Amount: 1) at Position: 1779, 5344, 1	
+[7/7/18 02:20PM]	Bought Item from shop (50) (Id: 12079, Amount: 1)	
+[7/7/18 02:20PM]	Bought Item from shop (50) (Id: 12077, Amount: 1)	
+[7/7/18 02:20PM]	Bought Item from shop (51) (Id: 12463, Amount: 5)	
+[7/7/18 02:20PM]	Bought Item from shop (51) (Id: 12463, Amount: 10)	
+[7/7/18 02:20PM]	Bought Item from shop (51) (Id: 12463, Amount: 10)	
+[7/7/18 02:20PM]	Bought Item from shop (51) (Id: 12463, Amount: 5)	
+[7/7/18 02:20PM]	Bought Item from shop (27) (Id: 2434, Amount: 1)	
+[7/7/18 02:20PM]	Bought Item from shop (27) (Id: 2434, Amount: 1)	
+[7/7/18 02:20PM]	Bought Item from shop (27) (Id: 7946, Amount: 10)	
+[7/7/18 02:21PM]	Bought Item from shop (27) (Id: 7946, Amount: 5)	
+[7/7/18 02:21PM]	Bought Item from shop (27) (Id: 7946, Amount: 5)	
+[7/7/18 02:23PM]	Picked up an item (Id: Item [id=9144, amount=6], Amount: 6) at Position: 3100, 5535, 0	
+[7/7/18 02:23PM]	Picked up an item (Id: Item [id=1617, amount=1], Amount: 1) at Position: 3099, 5535, 0	
+[7/7/18 02:23PM]	Picked up an item (Id: Item [id=532, amount=1], Amount: 1) at Position: 3100, 5534, 0	
+[7/7/18 02:26PM]	Sold Item to shop (Id: 950, Amount: 5)	
+[7/7/18 02:26PM]	Sold Item to shop (Id: 950, Amount: 10)	
+[7/7/18 02:26PM]	Sold Item to shop (Id: 950, Amount: 5)	
+[7/7/18 02:26PM]	Sold Item to shop (Id: 950, Amount: 5)	
+[7/7/18 02:26PM]	Sold Item to shop (Id: 950, Amount: 1)	

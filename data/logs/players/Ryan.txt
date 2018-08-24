@@ -1,0 +1,78 @@
+[7/12/18 10:26AM]	Ryan received an uncut onyx from the gem stall.	
+[7/12/18 10:40AM]	Bought Item from shop (22) (Id: 1755, Amount: 5)	
+[7/12/18 11:56AM]	Bought Item from shop (22) (Id: 1595, Amount: 1)	
+[7/12/18 11:57AM]	Dropped Item (Id: Item [id=1595, amount=1], Amount: 1) at Position: 2930, 3288, 0	
+[7/12/18 11:58AM]	Bought Item from shop (7) (Id: 10828, Amount: 1)	
+[7/12/18 11:58AM]	Bought Item from shop (7) (Id: 1127, Amount: 1)	
+[7/12/18 11:58AM]	Bought Item from shop (7) (Id: 1079, Amount: 1)	
+[7/12/18 11:58AM]	Bought Item from shop (7) (Id: 1201, Amount: 1)	
+[7/12/18 11:58AM]	Bought Item from shop (7) (Id: 5698, Amount: 1)	
+[7/12/18 11:58AM]	Bought Item from shop (7) (Id: 4587, Amount: 1)	
+[7/12/18 11:58AM]	Bought Item from shop (7) (Id: 1333, Amount: 1)	
+[7/12/18 11:58AM]	Bought Item from shop (7) (Id: 1323, Amount: 1)	
+[7/12/18 11:58AM]	Bought Item from shop (27) (Id: 1712, Amount: 1)	
+[7/12/18 11:58AM]	Bought Item from shop (27) (Id: 11118, Amount: 1)	
+[7/12/18 11:58AM]	Bought Item from shop (27) (Id: 2570, Amount: 1)	
+[7/12/18 11:58AM]	Bought Item from shop (27) (Id: 3105, Amount: 1)	
+[7/12/18 12:05PM]	Sold Item to shop (Id: 1323, Amount: 1)	
+[7/12/18 12:05PM]	Sold Item to shop (Id: 1333, Amount: 1)	
+[7/12/18 12:06PM]	Bought Item from shop (53) (Id: 4155, Amount: 1)	
+[7/12/18 12:08PM]	Bought Item from shop (27) (Id: 7946, Amount: 10)	
+[7/12/18 12:08PM]	Bought Item from shop (27) (Id: 7946, Amount: 10)	
+[7/12/18 12:10PM]	Picked up an item (Id: Item [id=985, amount=1], Amount: 1) at Position: 2792, 2787, 0	
+[7/12/18 12:10PM]	Bought Item from shop (0) (Id: 1540, Amount: 1)	
+[7/12/18 12:11PM]	Bought Item from shop (27) (Id: 2452, Amount: 1)	
+[7/12/18 12:36PM]	Picked up an item (Id: Item [id=2714, amount=1], Amount: 1) at Position: 2892, 9797, 0	
+[7/12/18 12:36PM]	Picked up an item (Id: Item [id=536, amount=1], Amount: 1) at Position: 2893, 9796, 0	
+[7/12/18 12:37PM]	Picked up an item (Id: Item [id=1751, amount=1], Amount: 1) at Position: 2893, 9796, 0	
+[7/12/18 12:38PM]	Picked up an item (Id: Item [id=536, amount=1], Amount: 1) at Position: 2893, 9797, 0	
+[7/12/18 12:38PM]	Picked up an item (Id: Item [id=1751, amount=1], Amount: 1) at Position: 2893, 9797, 0	
+[7/12/18 12:39PM]	Picked up an item (Id: Item [id=536, amount=1], Amount: 1) at Position: 2893, 9797, 0	
+[7/12/18 12:39PM]	Picked up an item (Id: Item [id=1751, amount=1], Amount: 1) at Position: 2894, 9796, 0	
+[7/12/18 12:40PM]	Picked up an item (Id: Item [id=12163, amount=2], Amount: 2) at Position: 2897, 9798, 0	
+[7/12/18 12:40PM]	Picked up an item (Id: Item [id=1751, amount=1], Amount: 1) at Position: 2897, 9799, 0	
+[7/12/18 12:40PM]	Picked up an item (Id: Item [id=536, amount=1], Amount: 1) at Position: 2897, 9799, 0	
+[7/12/18 12:41PM]	Picked up an item (Id: Item [id=6759, amount=1], Amount: 1) at Position: 2897, 9797, 0	
+[7/12/18 12:41PM]	Picked up an item (Id: Item [id=536, amount=1], Amount: 1) at Position: 2897, 9797, 0	
+[7/12/18 12:41PM]	Picked up an item (Id: Item [id=1751, amount=1], Amount: 1) at Position: 2897, 9797, 0	
+[7/12/18 12:43PM]	Bought Item from shop (27) (Id: 2434, Amount: 1)	
+[7/12/18 12:43PM]	Bought Item from shop (27) (Id: 2434, Amount: 1)	
+[7/12/18 12:43PM]	Bought Item from shop (27) (Id: 2434, Amount: 1)	
+[7/12/18 12:43PM]	Bought Item from shop (27) (Id: 7946, Amount: 10)	
+[7/12/18 12:43PM]	Bought Item from shop (27) (Id: 7946, Amount: 5)	
+[7/12/18 12:44PM]	Picked up an item (Id: Item [id=536, amount=1], Amount: 1) at Position: 2893, 9797, 0	
+[7/12/18 12:44PM]	Picked up an item (Id: Item [id=985, amount=1], Amount: 1) at Position: 2893, 9797, 0	
+[7/12/18 12:44PM]	Picked up an item (Id: Item [id=1751, amount=1], Amount: 1) at Position: 2893, 9797, 0	
+[7/12/18 12:45PM]	Picked up an item (Id: Item [id=536, amount=1], Amount: 1) at Position: 2893, 9797, 0	
+[7/12/18 12:45PM]	Picked up an item (Id: Item [id=1751, amount=1], Amount: 1) at Position: 2894, 9797, 0	
+[7/12/18 12:46PM]	Picked up an item (Id: Item [id=536, amount=1], Amount: 1) at Position: 2898, 9802, 0	
+[7/12/18 12:46PM]	Picked up an item (Id: Item [id=1751, amount=1], Amount: 1) at Position: 2898, 9803, 0	
+[7/12/18 12:47PM]	Picked up an item (Id: Item [id=985, amount=1], Amount: 1) at Position: 2898, 9803, 0	
+[7/12/18 12:47PM]	Picked up an item (Id: Item [id=6759, amount=1], Amount: 1) at Position: 2898, 9803, 0	
+[7/12/18 12:47PM]	Picked up an item (Id: Item [id=536, amount=1], Amount: 1) at Position: 2898, 9803, 0	
+[7/12/18 12:47PM]	Picked up an item (Id: Item [id=1751, amount=1], Amount: 1) at Position: 2898, 9803, 0	
+[7/12/18 12:48PM]	Picked up an item (Id: Item [id=12158, amount=5], Amount: 5) at Position: 2898, 9803, 0	
+[7/12/18 12:48PM]	Picked up an item (Id: Item [id=536, amount=1], Amount: 1) at Position: 2899, 9802, 0	
+[7/12/18 12:48PM]	Picked up an item (Id: Item [id=1751, amount=1], Amount: 1) at Position: 2899, 9802, 0	
+[7/12/18 12:49PM]	Picked up an item (Id: Item [id=536, amount=1], Amount: 1) at Position: 2897, 9801, 0	
+[7/12/18 12:49PM]	Picked up an item (Id: Item [id=1751, amount=1], Amount: 1) at Position: 2897, 9801, 0	
+[7/12/18 12:50PM]	Picked up an item (Id: Item [id=536, amount=1], Amount: 1) at Position: 2897, 9801, 0	
+[7/12/18 12:50PM]	Picked up an item (Id: Item [id=1751, amount=1], Amount: 1) at Position: 2898, 9801, 0	
+[7/12/18 12:52PM]	Picked up an item (Id: Item [id=536, amount=1], Amount: 1) at Position: 2898, 9801, 0	
+[7/12/18 12:52PM]	Picked up an item (Id: Item [id=12163, amount=2], Amount: 2) at Position: 2899, 9801, 0	
+[7/12/18 12:52PM]	Dropped Item (Id: Item [id=229, amount=1], Amount: 1) at Position: 2899, 9801, 0	
+[7/12/18 12:52PM]	Picked up an item (Id: Item [id=1751, amount=1], Amount: 1) at Position: 2899, 9801, 0	
+[7/12/18 12:53PM]	Picked up an item (Id: Item [id=6759, amount=1], Amount: 1) at Position: 2898, 9801, 0	
+[7/12/18 12:53PM]	Picked up an item (Id: Item [id=536, amount=1], Amount: 1) at Position: 2899, 9800, 0	
+[7/12/18 12:53PM]	Picked up an item (Id: Item [id=1751, amount=1], Amount: 1) at Position: 2899, 9800, 0	
+[7/12/18 12:53PM]	Dropped Item (Id: Item [id=229, amount=1], Amount: 1) at Position: 2901, 9800, 0	
+[7/12/18 12:54PM]	Picked up an item (Id: Item [id=536, amount=1], Amount: 1) at Position: 2901, 9800, 0	
+[7/12/18 12:54PM]	Picked up an item (Id: Item [id=1751, amount=1], Amount: 1) at Position: 2901, 9801, 0	
+[7/12/18 12:55PM]	Dropped Item (Id: Item [id=229, amount=1], Amount: 0) at Position: 2899, 9799, 0	
+[7/12/18 12:55PM]	Picked up an item (Id: Item [id=12158, amount=2], Amount: 2) at Position: 2899, 9799, 0	
+[7/12/18 12:55PM]	Picked up an item (Id: Item [id=536, amount=1], Amount: 1) at Position: 2899, 9799, 0	
+[7/12/18 12:55PM]	Dropped Item (Id: Item [id=2434, amount=1], Amount: 1) at Position: 2899, 9799, 0	
+[7/12/18 12:55PM]	Picked up an item (Id: Item [id=1751, amount=1], Amount: 1) at Position: 2899, 9799, 0	
+[7/12/18 12:56PM]	Bought Item from shop (27) (Id: 2434, Amount: 5)	
+[7/12/18 12:57PM]	Picked up an item (Id: Item [id=12163, amount=1], Amount: 1) at Position: 2793, 2785, 0	
+[7/12/18 12:57PM]	Picked up an item (Id: Item [id=985, amount=1], Amount: 1) at Position: 2793, 2786, 0	

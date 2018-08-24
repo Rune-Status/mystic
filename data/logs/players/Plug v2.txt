@@ -1,0 +1,11 @@
+[7/6/18 05:10AM]	Bought Item from shop (Id: 9185, Amount: 1)	
+[7/6/18 05:10AM]	Bought Item from shop (Id: 10156, Amount: 1)	
+[7/6/18 05:10AM]	Bought Item from shop (Id: 10159, Amount: 500)	
+---[7/6/18 05:11AM]	---
+Plug V2 has given 1 Rune Crossbow to Plug
+Plug V2 has given 1 Hunters' Crossbow to Plug
+Plug V2 has given 500 Long Kebbit Bolts to Plug
+---[7/6/18 05:11AM]	---
+Plug V2 has received 1 Shark from Plug
+---[7/6/18 05:15AM]	---
+Plug V2 has received 19 Shark from Plug
